@@ -79,8 +79,8 @@ function onUpdate(elapsed)
 
 
 	    for i=0,4,1 do
-		    setPropertyFromGroup('opponentStrums', i, 'texture', 'NOTE_assets');
-		    setPropertyFromGroup('playerStrums', i, 'texture', 'NOTE_assets');
+		    setPropertyFromGroup('opponentStrums', i, 'texture', '');
+		    setPropertyFromGroup('playerStrums', i, 'texture', '');
 	    end
 	end
 
@@ -90,8 +90,9 @@ function onUpdate(elapsed)
 			    setPropertyFromGroup('unspawnNotes', i, 'texture', 'Swift_Note_assets');
 		    	    setPropertyFromGroup('unspawnNotes', i, 'noteSplashTexture.texture', 'Swift_Splash_assets');
 			else
-		        setPropertyFromGroup('unspawnNotes', i, 'texture', 'NOTE_assets');
-			        setPropertyFromGroup('unspawnNotes', i, 'noteSplashTexture.texture', 'noteSplashes');
+				setPropertyFromGroup('unspawnNotes', i, 'rgbShader.enabled', true);
+		        setPropertyFromGroup('unspawnNotes', i, 'texture', '');
+				setPropertyFromGroup('unspawnNotes', i, 'noteSplashTexture.texture', '');
 			end
         end
 	end

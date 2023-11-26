@@ -37,19 +37,19 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
         addHaxeLibrary("GameClient", 'online')
-        local boyfriendAnim=''
-        local moveTag=false
         if tag == 'Died' and Dodged == false then
-                moveTag=true
                 removeLuaSprite('warning', true);
-                boyfriendAnim='hurt'
+                characterPlayAnim('boyfriend', 'hurt', true)
+                setProperty('boyfriend.specialAnim', true);
+                runHaxeCode('GameClient.send("charPlay", ["hurt", false]);')
                 health = getProperty('health')
                 setProperty('health', health - 0.55);
         
         elseif tag == 'Died' and Dodged == true then
-                moveTag=true
                 removeLuaSprite('warning', true);
-                boyfriendAnim='dodge'
+                characterPlayAnim('boyfriend', 'dodge', true)
+                setProperty('boyfriend.specialAnim', true);
+                runHaxeCode('GameClient.send("charPlay", ["dodge", false]);')
                 Dodged = false
         elseif tag == 'flash' then
                 removeLuaSprite('warning', true);
@@ -57,12 +57,5 @@ function onTimerCompleted(tag, loops, loopsLeft)
                 addLuaSprite('warning', true);
                 setObjectCamera('warning', 'other');
                 doTweenAlpha('warningAlpha', 'warning', 0, 0.3, 'linear');
-        end
-        if moveTag==true then
-                runHaxeCode([[
-                        game.boyfriend.playAnim(']]..boyfriendAnim..[[');
-                        game.boyfriend.specialAnim = true;
-                        GameClient.send("charPlay", [']]..boyfriendAnim..[[', false]);
-                ]])
         end
 end
