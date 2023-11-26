@@ -1,7 +1,7 @@
 # Psych Engine Online Mikankun ModPack
 
 ## Used Mods and Creates
-* [Buncha Bunnies](https://gamebanana.com/mods/414128) | Use songs are All Songs,\n
+* [Buncha Bunnies](https://gamebanana.com/mods/414128) | Use songs are All Songs,
 by LeafyTheFoliage, Blazing and Aight!,
 
 * [Changed: Tower Rush | Demo](https://gamebanana.com/mods/454912) | Use songs are All Songs,
