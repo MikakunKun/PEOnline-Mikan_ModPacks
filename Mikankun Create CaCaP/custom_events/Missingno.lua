@@ -1,42 +1,14 @@
-local scales = {
-    0.7,-- 1k
-    0.7,--2k
-    0.7,--3k
-    0.7,--4k
-    0.65,--5k
-    0.6,--6k
-    0.55,--7k
-    0.5,--8k
-    0.46,--9k
-    0.4,--10k
-    0.37,--11k
-    0.36,--12k
-    0.35,--13k
-    0.32,--14k
-    0.3,--15k
-    0.28,--16k
-    0.26,--17k
-    0.24--18k
-}
 local scaleX = {}
 local scaleY = {}
+local onlineOwner=false
 
 function onStartCountdown()
     return Function_Continue
 end
 
 function onCountdownStarted()
-    for i = 0, mania do
-        table.insert(scaleX,getProGroup('playerStrums',i,'scale.x'))
-        table.insert(scaleY,getProGroup('playerStrums',i,'scale.y'))
-    end
-    debugPrint(scaleX..' '..scaleY)
-end
-
-function onChangeMania(mania, oldmania)
-    scaleX = {}
-    scaleY = {}
-    for i = 0, mania do
+    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+    for i = 0, 3 do
         table.insert(scaleX,getProGroup('playerStrums',i,'scale.x'))
         table.insert(scaleY,getProGroup('playerStrums',i,'scale.y'))
     end
@@ -50,9 +22,9 @@ end
 
 function onUpdatePost(elapsed)
     for i = 0,getProperty('notes.length')-1 do
-        strum = 'opponentStrums'
+        local strum = 'opponentStrums'
         if getProGroup('notes',i,'mustPress') then strum = 'playerStrums' end
-        noteData = getProGroup('notes', i, 'noteData')
+        local noteData = getProGroup('notes', i, 'noteData')
         if getProGroup('notes',i,'isSustainNote') then
             setProGroup('notes', i, 'flipY', getProGroup(strum, noteData, 'downScroll'))
         else
@@ -71,19 +43,14 @@ function setProGroup(data,i,string,value)
 end
 
 function missingno()
-    local notemovewidth = (screenWidth/(mania+1))
-    for i = 0, mania do
+    local notemovewidth = (screenWidth/(4))
+    for i = 0, 3 do
         local playerstrumwidth = getProGroup('playerStrums', i, 'width')
         local playerstrumheigth = getProGroup('playerStrums', i, 'height')
         setProGroup('playerStrums', i, 'x', missingNoStrumEvent(notemovewidth*i,notemovewidth*(i+1)-playerstrumwidth))
         setProGroup('playerStrums', i, 'y', missingNoStrumEvent(0,screenHeight-playerstrumheigth))
-        if runHaxeCode('return PlayState.isPixelStage') == true then
-            setProGroup('playerStrums', i, 'scale.x', missingNoStrumEvent(scaleX[i+1]-2,scaleX[i+1]+2))
-            setProGroup('playerStrums', i, 'scale.y', missingNoStrumEvent(scaleY[i+1]-2,scaleY[i+1]+2))
-        else
-            setProGroup('playerStrums', i, 'scale.x', missingNoStrumEvent(scales[mania+1]-0.2,scales[mania+1]+0.2))
-            setProGroup('playerStrums', i, 'scale.y', missingNoStrumEvent(scales[mania+1]-0.2,scales[mania+1]+0.2))
-        end
+        setProGroup('playerStrums', i, 'scale.x', missingNoStrumEvent(scaleX[i+1]-2,scaleX[i+1]+2))
+        setProGroup('playerStrums', i, 'scale.y', missingNoStrumEvent(scaleY[i+1]-2,scaleY[i+1]+2))
         scrollCheck('playerStrums',i)
 
         setProGroup('opponentStrums', i, 'alpha', 0.5)

@@ -5,7 +5,7 @@ function onCreate()
     canDodge = false;
 
     precacheImage('warning');
-    onlineOwner=getPropertyFromClass('online.GameClient','isOwner')
+    onlineOwner=runHaxeCode('return PlayState.playerSide();')
 end
 
 function onEvent(name, value1, value2)

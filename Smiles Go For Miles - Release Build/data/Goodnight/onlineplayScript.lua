@@ -1,7 +1,7 @@
 local onlineOwner=false
 local singAnimations={'singLEFT', 'singDOWN', 'singUP', 'singRIGHT'}
 function onCreate()
-    onlineOwner=getPropertyFromClass('online.GameClient','isOwner')
+    onlineOwner=runHaxeCode('return PlayState.playerSide();')
     for i=0,getProperty("unspawnNotes.length")-1 do
         if onlineOwner==true then
             setPropertyFromGroup("unspawnNotes", i,'noAnimation',true)

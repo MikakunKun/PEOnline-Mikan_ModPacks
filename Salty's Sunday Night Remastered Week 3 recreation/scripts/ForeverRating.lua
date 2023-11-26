@@ -10,7 +10,7 @@ function onCreate()
     setProperty('showCombo',false)
     setProperty('showComboNum',false)
     setProperty('showRating',false)
-    onlineOwner=getPropertyFromClass('online.GameClient','isOwner')
+    onlineOwner=runHaxeCode('return PlayState.playerSide();')
     if (onlineOwner==false) then
         Positions={x=screenWidth* 0.55- 40,y=(screenHeight/2)-(163/2)-60}
         PositionNum={x=(screenWidth/2)-(100/2),y=(screenHeight/2)-(140/2)}

@@ -1,6 +1,6 @@
 local onlineOwner=false
 function onCreate()
-    onlineOwner=getPropertyFromClass('online.GameClient','isOwner')
+    onlineOwner=runHaxeCode('return PlayState.playerSide();')
 end
 function onStepHit()
     if curStep == 1 then

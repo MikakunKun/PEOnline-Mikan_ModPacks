@@ -1,7 +1,10 @@
 local missingno = true
+local useStrums='opponentStrums'
 
 function onCreate()
-    setProperty('skipCountdown',true)
+    if (runHaxeCode('return PlayState.playerSide();')==true) then
+        useStrums='playerStrums'
+    end
     if stringStartsWith(string.lower(difficultyName), 'cover') then
         missingno = false
     end
@@ -23,22 +26,14 @@ function onBeatHit()
             setProperty('dad.visible', true)
         end
         if curBeat == 264 then
-            for i = 0, mania do
+            for i = 0, 3 do
                 noteTweenAlpha('opponentStrumsMove'..i..'Y', i, 0.5, 1, "")
             end
         end
         if curBeat >= 272 then
-            for i = 0, mania do
-                setPropertyFromGroup('opponentStrums', i, 'alpha', 0.5)
+            for i = 0, 3 do
+                setPropertyFromGroup(useStrums, i, 'alpha', 0.5)
             end
-        end
-    end
-end
-
-function onUpdate(elapsed)
-    if getSongPosition() <= 15500 then
-        if keyJustPressed('space') then
-            runHaxeCode('game.setSongTime(15501);')
         end
     end
 end
