@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				169
+			],
+			"anim": "danceLeft",
+			"fps": 10,
+			"name": "vulfriend leftbob",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				170
+			],
+			"anim": "danceRight",
+			"fps": 10,
+			"name": "vulfriend rightbob",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				170
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "vulfriend stand"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				170
+			],
+			"anim": "cheer",
+			"fps": 8,
+			"name": "vulfriend cheer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				170
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "vulfriend poseright"
+		},
+		{
+			"offsets": [
+				40,
+				170
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "vulfriend noteleft"
+		},
+		{
+			"offsets": [
+				39,
+				169
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "vulfriend down"
+		},
+		{
+			"offsets": [
+				40,
+				170
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP",
+			"loop": false,
+			"name": "vulfriend up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vulfriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		15
+	],
+	"camera_position": [
+		-30,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

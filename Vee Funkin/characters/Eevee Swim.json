@@ -1,0 +1,341 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Eevee Swim Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "Eevee Swim Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				-38
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Eevee Swim Left-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Eevee Swim Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Eevee Swim Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-28
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Eevee Swim Right-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Eevee Swim Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-166
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Eevee Swim Down-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Eevee Swim Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				150
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Eevee Swim Up-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Eevee Swim Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Eevee Swim Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				4
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Eevee Swim Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Eevee Swim Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eevee Swimmin",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "Vee",
+	"flip_x": true,
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		120,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

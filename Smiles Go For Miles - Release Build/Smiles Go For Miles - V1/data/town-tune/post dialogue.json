@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was a lot of fun!"
+		},
+		{
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you think we're ready to go now?"
+		},
+		{
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bo tyeh"
+		},
+		{
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Right! So, about this \"Friend\" of yours..."
+		},
+		{
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you have any idea of where she could be? Or what she looks like?"
+		},
+		{
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

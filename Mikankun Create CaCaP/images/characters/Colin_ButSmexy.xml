@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Colin_ButSmexy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Colin Down Flipped0000" x="0" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0001" x="0" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0002" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0003" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0004" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0005" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0006" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0007" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0008" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0009" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0010" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0011" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0012" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0013" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped0014" x="366" y="0" width="366" height="378"/>
+	<SubTexture name="Colin Down Flipped Miss0000" x="732" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0001" x="1097" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0002" x="1097" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0003" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0004" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0005" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0006" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0007" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0008" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0009" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0010" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0011" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0012" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0013" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0014" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0015" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0016" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0017" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0018" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0019" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0020" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0021" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0022" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0023" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0024" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0025" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0026" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Down Flipped Miss0027" x="1462" y="0" width="365" height="384"/>
+	<SubTexture name="Colin Gameover0000" x="1827" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0001" x="1827" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0002" x="1827" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0003" x="1827" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0004" x="1827" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0005" x="1827" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0006" x="2303" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0007" x="2303" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0008" x="2779" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0009" x="2779" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0010" x="3255" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0011" x="3255" y="0" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0012" x="0" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0013" x="0" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0014" x="476" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0015" x="476" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0016" x="952" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0017" x="952" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0018" x="1428" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0019" x="1428" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0020" x="1904" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0021" x="1904" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0022" x="2380" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0023" x="2380" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0024" x="2856" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0025" x="2856" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0026" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0027" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0028" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0029" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0030" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0031" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0032" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0033" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0034" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0035" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0036" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0037" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0038" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0039" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0040" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0041" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0042" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0043" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0044" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0045" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0046" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0047" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0048" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0049" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0050" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0051" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0052" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0053" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0054" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0055" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0056" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover0057" x="3332" y="458" width="476" height="458"/>
+	<SubTexture name="Colin Gameover Confirm0000" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0001" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0002" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0003" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0004" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0005" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0006" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0007" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0008" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0009" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0010" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0011" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0012" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0013" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0014" x="0" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0015" x="475" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0016" x="950" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0017" x="1425" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0018" x="1900" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0019" x="1900" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0020" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0021" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0022" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0023" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0024" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0025" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0026" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0027" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0028" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0029" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0030" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0031" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0032" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0033" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Confirm0034" x="2375" y="916" width="475" height="457"/>
+	<SubTexture name="Colin Gameover Loop0000" x="2850" y="916" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0001" x="3326" y="916" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0002" x="0" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0003" x="476" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0004" x="952" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0005" x="1428" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0006" x="1904" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0007" x="2380" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0008" x="2856" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0009" x="3332" y="1373" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0010" x="0" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0011" x="476" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0012" x="952" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0013" x="1428" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0014" x="1904" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0015" x="2380" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0016" x="2856" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0017" x="3332" y="1802" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0018" x="0" y="2231" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0019" x="476" y="2231" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0020" x="952" y="2231" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0021" x="1428" y="2231" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0022" x="1904" y="2231" width="476" height="429"/>
+	<SubTexture name="Colin Gameover Loop0023" x="2850" y="916" width="476" height="429"/>
+	<SubTexture name="Colin Hey0000" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0001" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0002" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0003" x="2598" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0004" x="2598" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0005" x="2816" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0006" x="2816" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0007" x="3034" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0008" x="3034" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0009" x="3252" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0010" x="3252" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0011" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0012" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0013" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0014" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0015" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0016" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0017" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0018" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0019" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0020" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0021" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0022" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0023" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0024" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0025" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Hey0026" x="2380" y="2231" width="218" height="428"/>
+	<SubTexture name="Colin Idle Flipped0000" x="3470" y="2231" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0001" x="3470" y="2231" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0002" x="3700" y="2231" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0003" x="3700" y="2231" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0004" x="0" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0005" x="0" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0006" x="230" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0007" x="230" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0008" x="460" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0009" x="460" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0010" x="690" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0011" x="690" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0012" x="690" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Idle Flipped0013" x="690" y="2660" width="230" height="427"/>
+	<SubTexture name="Colin Left Flipped0000" x="920" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0001" x="920" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0002" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0003" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0004" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0005" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0006" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0007" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0008" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0009" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0010" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0011" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0012" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0013" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped0014" x="1159" y="2660" width="239" height="417"/>
+	<SubTexture name="Colin Left Flipped Miss0000" x="1398" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0001" x="1639" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0002" x="1639" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0003" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0004" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0005" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0006" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0007" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0008" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0009" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0010" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0011" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0012" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0013" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0014" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0015" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0016" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0017" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0018" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0019" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0020" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0021" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0022" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0023" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0024" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0025" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0026" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Left Flipped Miss0027" x="1880" y="2660" width="241" height="420"/>
+	<SubTexture name="Colin Right Flipped0000" x="2121" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0001" x="2121" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0002" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0003" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0004" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0005" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0006" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0007" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0008" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0009" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0010" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0011" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0012" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0013" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped0014" x="2429" y="2660" width="308" height="412"/>
+	<SubTexture name="Colin Right Flipped Miss0000" x="2737" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0001" x="3035" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0002" x="3035" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0003" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0004" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0005" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0006" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0007" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0008" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0009" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0010" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0011" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0012" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0013" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0014" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0015" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0016" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0017" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0018" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0019" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0020" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0021" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0022" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0023" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0024" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0025" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0026" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Right Flipped Miss0027" x="3333" y="2660" width="298" height="410"/>
+	<SubTexture name="Colin Scared0000" x="3631" y="2660" width="218" height="427"/>
+	<SubTexture name="Colin Scared0001" x="3849" y="2660" width="218" height="427"/>
+	<SubTexture name="Colin Scared0002" x="0" y="3087" width="218" height="427"/>
+	<SubTexture name="Colin Scared0003" x="218" y="3087" width="218" height="427"/>
+	<SubTexture name="Colin Up Flipped0000" x="436" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0001" x="436" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0002" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0003" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0004" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0005" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0006" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0007" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0008" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0009" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0010" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0011" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0012" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0013" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped0014" x="700" y="3087" width="264" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0000" x="964" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0001" x="1194" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0002" x="1194" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0003" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0004" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0005" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0006" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0007" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0008" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0009" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0010" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0011" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0012" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0013" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0014" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0015" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0016" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0017" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0018" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0019" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0020" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0021" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0022" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0023" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0024" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0025" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0026" x="1424" y="3087" width="230" height="433"/>
+	<SubTexture name="Colin Up Flipped Miss0027" x="1424" y="3087" width="230" height="433"/>
+</TextureAtlas>

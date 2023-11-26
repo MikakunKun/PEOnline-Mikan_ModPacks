@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BellIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-42,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Bong",
+			"indices": [],
+			"name": "BongLmao"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Beelze/HellBell",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		37,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

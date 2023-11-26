@@ -1,0 +1,26 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "Beep Bap Bop "
+        },
+        {
+            "portrait": "monkey",
+            "expression": "normal",
+            "text": " Ooh oh ah "
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "Skoo dah "
+        },
+        {
+            "portrait": "monkey",
+            "expression": "normal",
+            "text": "Hah! "
+        }
+    ]
+}

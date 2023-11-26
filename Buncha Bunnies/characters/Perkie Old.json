@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Bnnuy Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"name": "Bnnuy Idle"
+		},
+		{
+			"offsets": [
+				110,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bnnuy Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bnnuy Down"
+		},
+		{
+			"offsets": [
+				-90,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bnnuy Right"
+		},
+		{
+			"offsets": [
+				80,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bnnuy Up"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Bnnuy Pose!",
+			"indices": [],
+			"name": "Bnnuy Pose"
+		},
+		{
+			"offsets": [
+				110,
+				58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Bnnuy Got That",
+			"loop": false,
+			"name": "Bnnuy Got That"
+		},
+		{
+			"offsets": [
+				3,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Bnnuy How About",
+			"loop": false,
+			"name": "Bnnuy How About"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Perkie Old",
+	"position": [
+		150,
+		130
+	],
+	"healthicon": "Perkie",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		248,
+		120
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-110
+			],
+			"anim": "idle",
+			"fps": 18,
+			"name": "kawaii-shork idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				114,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "kawaii-shork left"
+		},
+		{
+			"offsets": [
+				114,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "kawaii-shork down"
+		},
+		{
+			"offsets": [
+				114,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "kawaii-shork up"
+		},
+		{
+			"offsets": [
+				114,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "kawaii-shork right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kawaii-shork",
+	"position": [
+		-420,
+		-370
+	],
+	"healthicon": "kawaii-shork",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		167,
+		190
+	],
+	"camera_position": [
+		-90,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

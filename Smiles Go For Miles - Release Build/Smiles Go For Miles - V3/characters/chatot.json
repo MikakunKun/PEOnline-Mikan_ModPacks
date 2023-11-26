@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				30
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "chatot chatot"
+		},
+		{
+			"offsets": [
+				15,
+				32
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chatot left"
+		},
+		{
+			"offsets": [
+				11,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chatot right"
+		},
+		{
+			"offsets": [
+				-10,
+				21
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chatot down"
+		},
+		{
+			"offsets": [
+				-6,
+				34
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chatot up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chatot",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "chatot",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		77,
+		92
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

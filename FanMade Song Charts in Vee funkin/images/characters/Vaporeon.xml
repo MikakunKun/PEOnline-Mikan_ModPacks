@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vaporeon.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vaporeon Down0000" x="11" y="11" width="571" height="462" pivotX="8.7" pivotY="-271.4" frameX="0" frameY="-29" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0001" x="11" y="11" width="571" height="462" frameX="0" frameY="-29" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0002" x="614" y="11" width="558" height="469" frameX="-11" frameY="-26" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0003" x="614" y="11" width="558" height="469" frameX="-11" frameY="-26" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0004" x="1204" y="11" width="548" height="484" frameX="-15" frameY="-14" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0005" x="1204" y="11" width="548" height="484" frameX="-15" frameY="-14" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0006" x="1784" y="11" width="532" height="498" frameX="-17" frameY="-1" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0007" x="1784" y="11" width="532" height="498" frameX="-17" frameY="-1" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0008" x="2348" y="11" width="529" height="499" frameX="-17" frameY="0" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0009" x="2348" y="11" width="529" height="499" frameX="-17" frameY="0" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0010" x="2348" y="11" width="529" height="499" frameX="-17" frameY="0" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0011" x="2348" y="11" width="529" height="499" frameX="-17" frameY="0" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0012" x="2348" y="11" width="529" height="499" frameX="-17" frameY="0" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Down0013" x="2348" y="11" width="529" height="499" frameX="-17" frameY="0" frameWidth="571" frameHeight="499"/>
+	<SubTexture name="Vaporeon Idle0000" x="2909" y="11" width="557" height="543" pivotX="11.3" pivotY="207.75" frameX="-24" frameY="-18" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0001" x="2909" y="11" width="557" height="543" frameX="-24" frameY="-18" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0002" x="3498" y="11" width="566" height="541" frameX="-20" frameY="-20" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0003" x="3498" y="11" width="566" height="541" frameX="-20" frameY="-20" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0004" x="11" y="586" width="568" height="550" frameX="-9" frameY="-11" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0005" x="11" y="586" width="568" height="550" frameX="-9" frameY="-11" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0006" x="611" y="586" width="566" height="559" frameX="-1" frameY="-2" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0007" x="611" y="586" width="566" height="559" frameX="-1" frameY="-2" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0008" x="1209" y="586" width="561" height="561" frameX="0" frameY="0" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0009" x="1209" y="586" width="561" height="561" frameX="0" frameY="0" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0010" x="1802" y="586" width="559" height="561" frameX="0" frameY="0" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0011" x="1802" y="586" width="559" height="561" frameX="0" frameY="0" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0012" x="1802" y="586" width="559" height="561" frameX="0" frameY="0" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Idle0013" x="1802" y="586" width="559" height="561" frameX="0" frameY="0" frameWidth="586" frameHeight="561"/>
+	<SubTexture name="Vaporeon Left0000" x="2393" y="586" width="459" height="512" pivotX="6.45" pivotY="164.5" frameX="-18" frameY="-13" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0001" x="2393" y="586" width="459" height="512" frameX="-18" frameY="-13" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0002" x="2884" y="586" width="464" height="515" frameX="-16" frameY="-10" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0003" x="2884" y="586" width="464" height="515" frameX="-16" frameY="-10" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0004" x="3380" y="586" width="496" height="518" frameX="-6" frameY="-7" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0005" x="3380" y="586" width="496" height="518" frameX="-6" frameY="-7" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0006" x="11" y="1179" width="506" height="523" frameX="-2" frameY="-2" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0007" x="11" y="1179" width="506" height="523" frameX="-2" frameY="-2" frameWidth="512" frameHeight="525"/>
+	<SubTexture name="Vaporeon Left0008" x="549" y="1179" width="512" height="525"/>
+	<SubTexture name="Vaporeon Left0009" x="549" y="1179" width="512" height="525"/>
+	<SubTexture name="Vaporeon Left0010" x="549" y="1179" width="512" height="525"/>
+	<SubTexture name="Vaporeon Left0011" x="549" y="1179" width="512" height="525"/>
+	<SubTexture name="Vaporeon Left0012" x="549" y="1179" width="512" height="525"/>
+	<SubTexture name="Vaporeon Left0013" x="549" y="1179" width="512" height="525"/>
+	<SubTexture name="Vaporeon Right0000" x="1093" y="1179" width="764" height="562" pivotX="27.15" pivotY="208.75" frameX="0" frameY="0" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0001" x="1093" y="1179" width="764" height="562" frameX="0" frameY="0" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0002" x="1889" y="1179" width="777" height="555" frameX="-2" frameY="-7" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0003" x="1889" y="1179" width="777" height="555" frameX="-2" frameY="-7" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0004" x="2698" y="1179" width="783" height="562" frameX="-7" frameY="0" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0005" x="2698" y="1179" width="783" height="562" frameX="-7" frameY="0" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0006" x="11" y="1773" width="789" height="560" frameX="-6" frameY="-2" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0007" x="11" y="1773" width="789" height="560" frameX="-6" frameY="-2" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0008" x="832" y="1773" width="607" height="557" frameX="-6" frameY="-5" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0009" x="832" y="1773" width="607" height="557" frameX="-6" frameY="-5" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0010" x="1471" y="1773" width="607" height="557" frameX="-6" frameY="-5" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0011" x="1471" y="1773" width="607" height="557" frameX="-6" frameY="-5" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0012" x="1471" y="1773" width="607" height="557" frameX="-6" frameY="-5" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Right0013" x="1471" y="1773" width="607" height="557" frameX="-6" frameY="-5" frameWidth="795" frameHeight="562"/>
+	<SubTexture name="Vaporeon Up0000" x="2110" y="1773" width="611" height="674" pivotX="75.55" pivotY="304.9"/>
+	<SubTexture name="Vaporeon Up0001" x="2110" y="1773" width="611" height="674"/>
+	<SubTexture name="Vaporeon Up0002" x="2753" y="1773" width="600" height="666" frameX="0" frameY="-8" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0003" x="2753" y="1773" width="600" height="666" frameX="0" frameY="-8" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0004" x="3385" y="1773" width="594" height="652" frameX="-3" frameY="-22" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0005" x="3385" y="1773" width="594" height="652" frameX="-3" frameY="-22" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0006" x="11" y="2479" width="588" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0007" x="11" y="2479" width="588" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0008" x="631" y="2479" width="587" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0009" x="631" y="2479" width="587" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0010" x="631" y="2479" width="587" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0011" x="631" y="2479" width="587" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0012" x="631" y="2479" width="587" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+	<SubTexture name="Vaporeon Up0013" x="631" y="2479" width="587" height="648" frameX="-8" frameY="-26" frameWidth="611" frameHeight="674"/>
+</TextureAtlas>

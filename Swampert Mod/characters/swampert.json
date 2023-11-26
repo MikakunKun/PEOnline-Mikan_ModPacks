@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "swampert idle"
+		},
+		{
+			"offsets": [
+				150,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "swampert left"
+		},
+		{
+			"offsets": [
+				150,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "swampert down"
+		},
+		{
+			"offsets": [
+				150,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "swampert up"
+		},
+		{
+			"offsets": [
+				180,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "swampert right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/swampert_assets",
+	"position": [
+		-270,
+		10
+	],
+	"healthicon": "swampert",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		186,
+		224
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

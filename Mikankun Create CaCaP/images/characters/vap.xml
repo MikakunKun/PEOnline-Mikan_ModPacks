@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vappy Sprites.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vappy Down0000" x="0" y="0" width="333" height="280" frameX="0" frameY="0" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0001" x="333" y="0" width="333" height="280" frameX="0" frameY="0" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0002" x="666" y="0" width="333" height="273" frameX="0" frameY="-7" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0003" x="999" y="0" width="333" height="262" frameX="0" frameY="-18" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0004" x="1332" y="0" width="333" height="262" frameX="0" frameY="-18" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0005" x="1665" y="0" width="333" height="252" frameX="0" frameY="-29" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0006" x="1998" y="0" width="333" height="242" frameX="0" frameY="-39" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0007" x="2331" y="0" width="333" height="242" frameX="0" frameY="-39" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0008" x="2664" y="0" width="333" height="232" frameX="0" frameY="-49" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0009" x="2997" y="0" width="333" height="222" frameX="0" frameY="-59" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0010" x="3330" y="0" width="333" height="222" frameX="0" frameY="-59" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0011" x="3663" y="0" width="333" height="214" frameX="0" frameY="-67" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0012" x="0" y="280" width="333" height="203" frameX="0" frameY="-78" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0013" x="333" y="280" width="333" height="203" frameX="0" frameY="-78" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Down0014" x="666" y="280" width="333" height="203" frameX="0" frameY="-78" frameWidth="333" frameHeight="281"/>
+	<SubTexture name="Vappy Idle0000" x="999" y="280" width="262" height="263"/>
+	<SubTexture name="Vappy Idle0001" x="1261" y="280" width="262" height="248" frameX="0" frameY="-15" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0002" x="1523" y="280" width="262" height="239" frameX="0" frameY="-24" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0003" x="1785" y="280" width="262" height="227" frameX="0" frameY="-36" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0004" x="2047" y="280" width="262" height="227" frameX="0" frameY="-36" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0005" x="2309" y="280" width="262" height="216" frameX="0" frameY="-47" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0006" x="2571" y="280" width="262" height="198" frameX="0" frameY="-65" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0007" x="2833" y="280" width="262" height="180" frameX="0" frameY="-83" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0008" x="3095" y="280" width="262" height="180" frameX="0" frameY="-83" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0009" x="3357" y="280" width="262" height="198" frameX="0" frameY="-65" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0010" x="3619" y="280" width="262" height="219" frameX="0" frameY="-44" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0011" x="0" y="543" width="262" height="236" frameX="0" frameY="-27" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0012" x="262" y="543" width="262" height="236" frameX="0" frameY="-27" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0013" x="524" y="543" width="262" height="249" frameX="0" frameY="-13" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Idle0014" x="786" y="543" width="262" height="262" frameX="0" frameY="0" frameWidth="262" frameHeight="263"/>
+	<SubTexture name="Vappy Left0000" x="1048" y="543" width="398" height="308" frameX="-109" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0001" x="1446" y="543" width="398" height="308" frameX="-109" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0002" x="1844" y="543" width="407" height="308" frameX="-101" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0003" x="2251" y="543" width="420" height="308" frameX="-88" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0004" x="2671" y="543" width="420" height="308" frameX="-88" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0005" x="3091" y="543" width="434" height="308" frameX="-74" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0006" x="3525" y="543" width="455" height="308" frameX="-53" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0007" x="0" y="851" width="455" height="308" frameX="-53" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0008" x="455" y="851" width="468" height="308" frameX="-40" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0009" x="923" y="851" width="480" height="308" frameX="-28" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0010" x="1403" y="851" width="480" height="308" frameX="-28" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0011" x="1883" y="851" width="491" height="308" frameX="-17" frameY="0" frameWidth="508" frameHeight="308"/>
+	<SubTexture name="Vappy Left0012" x="2374" y="851" width="508" height="308"/>
+	<SubTexture name="Vappy Left0013" x="2882" y="851" width="508" height="308"/>
+	<SubTexture name="Vappy Left0014" x="3390" y="851" width="508" height="308"/>
+	<SubTexture name="Vappy Right0000" x="0" y="1159" width="407" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0001" x="407" y="1159" width="407" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0002" x="814" y="1159" width="420" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0003" x="1234" y="1159" width="428" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0004" x="1662" y="1159" width="428" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0005" x="2090" y="1159" width="440" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0006" x="2530" y="1159" width="451" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0007" x="2981" y="1159" width="451" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0008" x="3432" y="1159" width="462" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0009" x="0" y="1459" width="478" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0010" x="478" y="1459" width="478" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0011" x="956" y="1459" width="490" height="300" frameX="0" frameY="0" frameWidth="503" frameHeight="300"/>
+	<SubTexture name="Vappy Right0012" x="1446" y="1459" width="503" height="300"/>
+	<SubTexture name="Vappy Right0013" x="1949" y="1459" width="503" height="300"/>
+	<SubTexture name="Vappy Right0014" x="2452" y="1459" width="503" height="300"/>
+	<SubTexture name="Vappy Up0000" x="2955" y="1459" width="282" height="284" frameX="0" frameY="-133" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0001" x="3237" y="1459" width="282" height="284" frameX="0" frameY="-133" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0002" x="3519" y="1459" width="282" height="294" frameX="0" frameY="-123" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0003" x="3801" y="1459" width="282" height="307" frameX="0" frameY="-110" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0004" x="0" y="1766" width="282" height="307" frameX="0" frameY="-110" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0005" x="282" y="1766" width="282" height="316" frameX="0" frameY="-101" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0006" x="564" y="1766" width="282" height="341" frameX="0" frameY="-76" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0007" x="846" y="1766" width="282" height="341" frameX="0" frameY="-76" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0008" x="1128" y="1766" width="282" height="360" frameX="0" frameY="-57" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0009" x="1410" y="1766" width="282" height="371" frameX="0" frameY="-46" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0010" x="1692" y="1766" width="282" height="371" frameX="0" frameY="-46" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0011" x="1974" y="1766" width="282" height="382" frameX="0" frameY="-35" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0012" x="2256" y="1766" width="282" height="399" frameX="0" frameY="-18" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0013" x="2538" y="1766" width="282" height="399" frameX="0" frameY="-18" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0014" x="2820" y="1766" width="282" height="410" frameX="0" frameY="-7" frameWidth="282" frameHeight="417"/>
+	<SubTexture name="Vappy Up0015" x="3102" y="1766" width="282" height="417"/>
+</TextureAtlas>

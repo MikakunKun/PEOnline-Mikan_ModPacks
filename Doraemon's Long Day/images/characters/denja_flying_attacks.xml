@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<TextureAtlas imagePath="denja_flying_attacks.png">
+	
+	<SubTexture name="attack0000" x="0" y="4366" width="318" height="398" frameX="-1328" frameY="-244" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0001" x="0" y="4366" width="318" height="398" frameX="-1328" frameY="-244" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0002" x="6477" y="4083" width="319" height="401" frameX="-1328" frameY="-244" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0003" x="6477" y="4083" width="319" height="401" frameX="-1328" frameY="-244" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0004" x="6139" y="4153" width="320" height="397" frameX="-1328" frameY="-245" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0005" x="6139" y="4153" width="320" height="397" frameX="-1328" frameY="-245" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0006" x="5844" y="2056" width="762" height="639" frameX="-1033" frameY="-180" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0007" x="5851" y="1394" width="780" height="662" frameX="-1015" frameY="-180" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0008" x="5851" y="0" width="966" height="697" frameX="-973" frameY="-175" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0009" x="3760" y="3893" width="1193" height="894" frameX="-746" frameY="-175" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0010" x="0" y="2944" width="1296" height="1083" frameX="-680" frameY="-39" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0011" x="0" y="1691" width="1484" height="1253" frameX="-492" frameY="-39" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0012" x="4047" y="0" width="1804" height="1488" frameX="-223" frameY="0" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0013" x="0" y="0" width="2027" height="1691"/>
+	<SubTexture name="attack0014" x="2585" y="2944" width="1175" height="917" frameX="-852" frameY="0" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0015" x="3760" y="2976" width="1175" height="917" frameX="-852" frameY="0" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0016" x="636" y="4366" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0017" x="959" y="4366" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0018" x="1282" y="4366" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0019" x="1605" y="4366" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0020" x="1928" y="4366" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0021" x="2251" y="4366" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0022" x="6459" y="4484" width="323" height="339" frameX="-1364" frameY="-193" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0023" x="3734" y="1691" width="294" height="350" frameX="-1380" frameY="-201" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0024" x="3734" y="1691" width="294" height="350" frameX="-1380" frameY="-201" frameWidth="2027" frameHeight="1691"/>
+	<SubTexture name="attack0025" x="318" y="4366" width="318" height="347" frameX="-1350" frameY="-217" frameWidth="2027" frameHeight="1691"/>
+	
+	<SubTexture name="swap-attack0000" x="6139" y="3744" width="338" height="409" frameX="-266" frameY="-244" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0001" x="6139" y="3744" width="338" height="409" frameX="-266" frameY="-244" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0002" x="6452" y="3334" width="338" height="410" frameX="-265" frameY="-244" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0003" x="6452" y="3334" width="338" height="410" frameX="-265" frameY="-244" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0004" x="6110" y="3334" width="342" height="407" frameX="-264" frameY="-245" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0005" x="6110" y="3334" width="342" height="407" frameX="-264" frameY="-245" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0006" x="6110" y="2695" width="755" height="639" frameX="-232" frameY="-180" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0007" x="2961" y="1691" width="773" height="662" frameX="-232" frameY="-180" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0008" x="5851" y="697" width="959" height="697" frameX="-88" frameY="-175" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0009" x="4953" y="3893" width="1186" height="894" frameX="-88" frameY="-175" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0010" x="1296" y="2944" width="1289" height="1083" frameX="-51" frameY="-39" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0011" x="1484" y="1691" width="1477" height="1253" frameX="-51" frameY="-39" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0012" x="4047" y="1488" width="1797" height="1488" frameX="0" frameY="0" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0013" x="2027" y="0" width="2020" height="1691"/>
+	<SubTexture name="swap-attack0014" x="4935" y="2976" width="1175" height="917" frameX="0" frameY="0" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0015" x="2585" y="3861" width="1175" height="917" frameX="0" frameY="0" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0016" x="6477" y="3744" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0017" x="0" y="4027" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0018" x="393" y="4027" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0019" x="786" y="4027" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0020" x="1179" y="4027" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0021" x="1572" y="4027" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0022" x="1965" y="4027" width="393" height="339" frameX="-225" frameY="-193" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0023" x="3403" y="2353" width="414" height="350" frameX="-238" frameY="-201" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0024" x="3403" y="2353" width="414" height="350" frameX="-238" frameY="-201" frameWidth="2020" frameHeight="1691"/>
+	<SubTexture name="swap-attack0025" x="2961" y="2353" width="442" height="347" frameX="-244" frameY="-217" frameWidth="2020" frameHeight="1691"/>
+	
+</TextureAtlas>

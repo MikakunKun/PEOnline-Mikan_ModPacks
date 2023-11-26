@@ -1,0 +1,2 @@
+Value 1: Amount to fade (0 is max)
+Value 2: Time to fade

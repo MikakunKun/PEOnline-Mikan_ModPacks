@@ -1,0 +1,34 @@
+{
+	"healthicon": "bsbf-icons",
+	"camera_position": [
+		0,
+		0
+	],
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+    "characters": [
+        {
+            "name": "bf",
+            "positionArray": [0,20]
+        },
+        {
+            "name": "b-bf",
+            "positionArray": [200,40]
+        },
+        {
+            "name": "Eevee",
+            "positionArray": [400,60]
+        },
+        {
+            "name": "flbf",
+            "positionArray": [600,80]
+        }
+    ]
+}

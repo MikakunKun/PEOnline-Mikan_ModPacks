@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Garde Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Garde Sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Garde Sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				53
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Garde Sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Garde Sing right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gardevoir",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gardevoir",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		217,
+		92
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

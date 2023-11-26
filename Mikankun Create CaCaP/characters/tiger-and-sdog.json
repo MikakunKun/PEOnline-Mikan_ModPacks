@@ -1,0 +1,26 @@
+{
+	"characters": [
+		{
+			"name": "sdog",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "tigershark",
+			"positionArray": [-300,100]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sdog",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

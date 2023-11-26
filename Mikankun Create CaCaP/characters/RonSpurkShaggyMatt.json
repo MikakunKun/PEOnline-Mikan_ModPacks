@@ -1,0 +1,26 @@
+{
+	"healthicon": "icon-RonSpurkShaggyMatt",
+	"camera_position": [-40, -250],
+	"healthbar_colors": [209, 26, 26],
+	"camera_position": [
+		0,
+		0
+	],
+    "characters": [
+        {
+            "name": "SpurkShaggy",
+            "positionArray": [0,0]
+        },
+        {
+            "name": "SpurkMatt",
+            "positionArray": [-225,0]
+        },        {
+            "name": "RonShaggy",
+            "positionArray": [-450,50]
+        },
+        {
+            "name": "RonMatt",
+            "positionArray": [-675,50]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+arrow lanes for opponent or player fade out
+
+Value 1: opponent or player notes? (1: opponent, 2: plauer, 
+add .5 to the end to make them fade in)
+Value 2: how long it takes for them to fade (0 = Instant)

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="biolu.png">
+<SubTexture name="biolu idle0000" x="500" y="0" width="234" height="346" frameX="-24" frameY="-16" frameWidth="298" frameHeight="382" />
+<SubTexture name="biolu thinking0000" x="234" y="361" width="216" height="340" frameX="-35" frameY="-14" frameWidth="298" frameHeight="382" />
+<SubTexture name="biolu shocked0000" x="0" y="361" width="234" height="346" frameX="-24" frameY="-16" frameWidth="298" frameHeight="382" />
+<SubTexture name="biolu sad0000" x="0" y="0" width="230" height="361" frameX="-21" frameY="-16" frameWidth="298" frameHeight="382" />
+<SubTexture name="biolu happy0000" x="230" y="0" width="270" height="348" frameX="-21" frameY="-11" frameWidth="298" frameHeight="382" />
+</TextureAtlas>

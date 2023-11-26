@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "phone idle"
+		},
+		{
+			"offsets": [
+				3,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "phone down"
+		},
+		{
+			"offsets": [
+				4,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "phone right"
+		},
+		{
+			"offsets": [
+				124,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "phone left"
+		},
+		{
+			"offsets": [
+				73,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "phone up"
+		},
+		{
+			"offsets": [
+				-179,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wheel",
+			"loop": true,
+			"name": "wheel0"
+		},
+		{
+			"offsets": [
+				-180,
+				-54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wheel-miss",
+			"loop": false,
+			"name": "wheel miss"
+		},
+		{
+			"offsets": [
+				101,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "phone",
+			"loop": false,
+			"name": "wheel phonm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fever/his fucking arm",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

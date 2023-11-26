@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pika portrait.png">
+<SubTexture name="pika portrait talk0000" x="0" y="0" width="288" height="273" frameX="-12" frameY="-11" frameWidth="300" frameHeight="300" />
+<SubTexture name="pika portrait worried0000" x="288" y="0" width="295" height="273" frameX="-5" frameY="-11" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

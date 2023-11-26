@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Feesh.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Feesh0000" x="28" y="28" width="1957" height="687" pivotX="153.65" pivotY="163" frameX="0" frameY="0" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0001" x="28" y="28" width="1957" height="687" frameX="0" frameY="-1" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0002" x="28" y="28" width="1957" height="687" frameX="0" frameY="-2" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0003" x="28" y="28" width="1957" height="687" frameX="0" frameY="-4" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0004" x="28" y="28" width="1957" height="687" frameX="0" frameY="-6" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0005" x="28" y="28" width="1957" height="687" frameX="0" frameY="-9" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0006" x="28" y="28" width="1957" height="687" frameX="0" frameY="-12" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0007" x="28" y="28" width="1957" height="687" frameX="0" frameY="-15" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0008" x="28" y="28" width="1957" height="687" frameX="0" frameY="-14" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0009" x="28" y="28" width="1957" height="687" frameX="0" frameY="-14" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0010" x="28" y="28" width="1957" height="687" frameX="0" frameY="-13" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0011" x="28" y="28" width="1957" height="687" frameX="0" frameY="-12" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0012" x="28" y="28" width="1957" height="687" frameX="0" frameY="-11" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0013" x="28" y="28" width="1957" height="687" frameX="0" frameY="-10" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0014" x="28" y="28" width="1957" height="687" frameX="0" frameY="-9" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0015" x="28" y="28" width="1957" height="687" frameX="0" frameY="-8" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0016" x="28" y="28" width="1957" height="687" frameX="0" frameY="-6" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0017" x="28" y="28" width="1957" height="687" frameX="0" frameY="-5" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0018" x="28" y="28" width="1957" height="687" frameX="0" frameY="-3" frameWidth="1957" frameHeight="702"/>
+	<SubTexture name="Feesh0019" x="28" y="28" width="1957" height="687" frameX="0" frameY="0" frameWidth="1957" frameHeight="702"/>
+</TextureAtlas>

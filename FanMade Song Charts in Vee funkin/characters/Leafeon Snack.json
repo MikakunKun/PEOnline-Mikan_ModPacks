@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Leafeon Snack Idle"
+		},
+		{
+			"offsets": [
+				37,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Leafeon Snack Left"
+		},
+		{
+			"offsets": [
+				-40,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Leafeon Snack Down"
+		},
+		{
+			"offsets": [
+				-70,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Leafeon Snack Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Leafeon Snack Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-2
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Leafeon Snack Idle-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-15,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Leafeon Snack Whatever",
+			"indices": [],
+			"name": "Leafeon Snack Whatever"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Leafeon Snack",
+	"position": [
+		600,
+		-100
+	],
+	"healthicon": "Leafeon-Snack",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		228,
+		175
+	],
+	"camera_position": [
+		-250,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

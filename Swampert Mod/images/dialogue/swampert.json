@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-110
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "swampert talk",
+			"idle_name": "swampert talk end"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "swampert confused end",
+			"loop_name": "swampert confused"
+		}
+	],
+	"image": "Swampert_Dialogue"
+}

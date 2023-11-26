@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				69
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "biolu dead intro",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "biolu dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 12,
+			"name": "biolu dead continue",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/biolu dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		9000,
+		9000
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

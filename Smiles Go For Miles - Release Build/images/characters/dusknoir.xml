@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dusknoir.png">
+<SubTexture name="dusknoir down0000" x="2382" y="1928" width="793" height="925" frameX="-279" frameY="-102" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir down0001" x="1611" y="1928" width="771" height="927" frameX="-281" frameY="-100" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir idle0000" x="785" y="1928" width="826" height="936" frameX="-269" frameY="-93" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir idle0001" x="2389" y="0" width="815" height="945" frameX="-273" frameY="-84" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir idle0002" x="1598" y="0" width="791" height="952" frameX="-278" frameY="-77" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir idle0003" x="0" y="979" width="802" height="949" frameX="-275" frameY="-80" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir right0000" x="802" y="979" width="786" height="946" frameX="-298" frameY="-85" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir right0001" x="1588" y="979" width="791" height="946" frameX="-295" frameY="-85" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir left0000" x="2389" y="945" width="788" height="940" frameX="-246" frameY="-86" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir left0001" x="0" y="1928" width="785" height="940" frameX="-258" frameY="-86" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir up0000" x="0" y="0" width="794" height="979" frameX="-282" frameY="-49" frameWidth="1150" frameHeight="1100" />
+<SubTexture name="dusknoir up0001" x="794" y="0" width="804" height="974" frameX="-279" frameY="-54" frameWidth="1150" frameHeight="1100" />
+</TextureAtlas>

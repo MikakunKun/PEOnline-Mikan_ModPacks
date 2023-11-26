@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Colin Down Flipped0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-48
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Colin Down Flipped Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Colin Idle Flipped",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Colin Up Flipped Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Colin Up Flipped0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Colin Hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Colin Left Flipped Miss"
+		},
+		{
+			"offsets": [
+				48,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Colin Right Flipped Miss"
+		},
+		{
+			"offsets": [
+				181,
+				-25
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Colin Gameover Loop"
+		},
+		{
+			"offsets": [
+				180,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Colin Gameover Confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Colin Gameover0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				47,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Colin Left Flipped0"
+		},
+		{
+			"offsets": [
+				39,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Colin Right Flipped0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Colin_ButSmexy",
+	"position": [
+		200,
+		300
+	],
+	"healthicon": "colin",
+	"flip_x": true,
+	"healthbar_colors": [
+		39,
+		120,
+		98
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

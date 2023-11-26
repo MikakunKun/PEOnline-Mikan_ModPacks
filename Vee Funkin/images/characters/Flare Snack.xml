@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flare Snack.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flare Snack Down0000" x="28" y="28" width="522" height="772" pivotX="-253.65" pivotY="309.15" frameX="-9" frameY="-35" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0001" x="28" y="28" width="522" height="772" frameX="-9" frameY="-35" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0002" x="569" y="28" width="511" height="777" frameX="-4" frameY="-27" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0003" x="569" y="28" width="511" height="777" frameX="-4" frameY="-27" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0004" x="1099" y="28" width="491" height="786" frameX="-3" frameY="-11" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0005" x="1099" y="28" width="491" height="786" frameX="-3" frameY="-11" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0006" x="1609" y="28" width="482" height="794" frameX="-1" frameY="-3" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0007" x="1609" y="28" width="482" height="794" frameX="-1" frameY="-3" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0008" x="2110" y="28" width="477" height="796" frameX="0" frameY="0" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0009" x="2110" y="28" width="477" height="796" frameX="0" frameY="0" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0010" x="2110" y="28" width="477" height="796" frameX="0" frameY="0" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0011" x="2110" y="28" width="477" height="796" frameX="0" frameY="0" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0012" x="2110" y="28" width="477" height="796" frameX="0" frameY="0" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Down0013" x="2110" y="28" width="477" height="796" frameX="0" frameY="0" frameWidth="531" frameHeight="807"/>
+	<SubTexture name="Flare Snack Idle0000" x="2606" y="28" width="457" height="792" pivotX="-194.6" pivotY="339.2" frameX="-42" frameY="-33" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0001" x="2606" y="28" width="457" height="792" frameX="-42" frameY="-33" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0002" x="3082" y="28" width="458" height="799" frameX="-59" frameY="-26" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0003" x="3082" y="28" width="458" height="799" frameX="-59" frameY="-26" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0004" x="3559" y="28" width="460" height="808" frameX="-64" frameY="-17" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0005" x="3559" y="28" width="460" height="808" frameX="-64" frameY="-17" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0006" x="4038" y="28" width="453" height="823" frameX="-18" frameY="-2" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0007" x="4038" y="28" width="453" height="823" frameX="-18" frameY="-2" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0008" x="4510" y="28" width="456" height="823" frameX="-4" frameY="-2" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0009" x="4510" y="28" width="456" height="823" frameX="-4" frameY="-2" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0010" x="4985" y="28" width="457" height="825" frameX="0" frameY="0" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0011" x="4985" y="28" width="457" height="825" frameX="0" frameY="0" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0012" x="4985" y="28" width="457" height="825" frameX="0" frameY="0" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Idle0013" x="4985" y="28" width="457" height="825" frameX="0" frameY="0" frameWidth="524" frameHeight="825"/>
+	<SubTexture name="Flare Snack Left0000" x="5461" y="28" width="537" height="826" pivotX="-113.65" pivotY="351" frameX="0" frameY="-13" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0001" x="5461" y="28" width="537" height="826" frameX="0" frameY="-13" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0002" x="6017" y="28" width="525" height="833" frameX="-15" frameY="-6" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0003" x="6017" y="28" width="525" height="833" frameX="-15" frameY="-6" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0004" x="6561" y="28" width="513" height="838" frameX="-32" frameY="0" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0005" x="6561" y="28" width="513" height="838" frameX="-32" frameY="0" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0006" x="7093" y="28" width="514" height="832" frameX="-45" frameY="-6" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0007" x="7093" y="28" width="514" height="832" frameX="-45" frameY="-6" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0008" x="7626" y="28" width="511" height="831" frameX="-51" frameY="-7" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0009" x="7626" y="28" width="511" height="831" frameX="-51" frameY="-7" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0010" x="7626" y="28" width="511" height="831" frameX="-51" frameY="-7" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0011" x="7626" y="28" width="511" height="831" frameX="-51" frameY="-7" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0012" x="7626" y="28" width="511" height="831" frameX="-51" frameY="-7" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Left0013" x="7626" y="28" width="511" height="831" frameX="-51" frameY="-7" frameWidth="562" frameHeight="839"/>
+	<SubTexture name="Flare Snack Right0000" x="28" y="885" width="480" height="814" pivotX="-261.6" pivotY="329.2" frameX="-40" frameY="0" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0001" x="28" y="885" width="480" height="814" frameX="-40" frameY="0" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0002" x="527" y="885" width="479" height="809" frameX="-22" frameY="-5" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0003" x="527" y="885" width="479" height="809" frameX="-22" frameY="-5" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0004" x="1025" y="885" width="478" height="810" frameX="-4" frameY="-5" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0005" x="1025" y="885" width="478" height="810" frameX="-4" frameY="-5" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0006" x="1522" y="885" width="476" height="809" frameX="-3" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0007" x="1522" y="885" width="476" height="809" frameX="-3" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0008" x="2017" y="885" width="478" height="809" frameX="0" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0009" x="2017" y="885" width="478" height="809" frameX="0" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0010" x="2017" y="885" width="478" height="809" frameX="0" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0011" x="2017" y="885" width="478" height="809" frameX="0" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0012" x="2017" y="885" width="478" height="809" frameX="0" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Right0013" x="2017" y="885" width="478" height="809" frameX="0" frameY="-6" frameWidth="520" frameHeight="815"/>
+	<SubTexture name="Flare Snack Surprise0000" x="2514" y="885" width="448" height="839" pivotX="-195.85" pivotY="353.2" frameX="-2" frameY="0" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0001" x="2514" y="885" width="448" height="839" frameX="-2" frameY="0" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0002" x="2981" y="885" width="458" height="826" frameX="-1" frameY="-13" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0003" x="2981" y="885" width="458" height="826" frameX="-1" frameY="-13" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0004" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0005" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0006" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0007" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0008" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0009" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0010" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0011" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0012" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0013" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0014" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0015" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0016" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0017" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0018" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0019" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0020" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0021" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0022" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0023" x="3458" y="885" width="461" height="823" frameX="0" frameY="-16" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0024" x="3938" y="885" width="457" height="821" frameX="-6" frameY="-18" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0025" x="3938" y="885" width="457" height="821" frameX="-6" frameY="-18" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0026" x="4414" y="885" width="463" height="741" frameX="-38" frameY="-98" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0027" x="4414" y="885" width="463" height="741" frameX="-38" frameY="-98" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Surprise0028" x="4896" y="885" width="460" height="761" frameX="-41" frameY="-78" frameWidth="501" frameHeight="839"/>
+	<SubTexture name="Flare Snack Up0000" x="5375" y="885" width="518" height="856" pivotX="-184.35" pivotY="371.75"/>
+	<SubTexture name="Flare Snack Up0001" x="5375" y="885" width="518" height="856"/>
+	<SubTexture name="Flare Snack Up0002" x="5912" y="885" width="515" height="853" frameX="0" frameY="-3" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0003" x="5912" y="885" width="515" height="853" frameX="0" frameY="-3" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0004" x="6446" y="885" width="507" height="842" frameX="-3" frameY="-14" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0005" x="6446" y="885" width="507" height="842" frameX="-3" frameY="-14" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0006" x="6972" y="885" width="494" height="828" frameX="-5" frameY="-28" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0007" x="6972" y="885" width="494" height="828" frameX="-5" frameY="-28" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0008" x="7485" y="885" width="493" height="826" frameX="-5" frameY="-30" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0009" x="7485" y="885" width="493" height="826" frameX="-5" frameY="-30" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0010" x="7485" y="885" width="493" height="826" frameX="-5" frameY="-30" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0011" x="7485" y="885" width="493" height="826" frameX="-5" frameY="-30" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0012" x="7485" y="885" width="493" height="826" frameX="-5" frameY="-30" frameWidth="518" frameHeight="856"/>
+	<SubTexture name="Flare Snack Up0013" x="7485" y="885" width="493" height="826" frameX="-5" frameY="-30" frameWidth="518" frameHeight="856"/>
+</TextureAtlas>

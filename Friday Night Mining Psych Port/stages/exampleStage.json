@@ -1,0 +1,9 @@
+{
+	"directory": "village",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [1100, 100],
+	"girlfriend": [400, 130],
+	"opponent": [100, 100]
+}

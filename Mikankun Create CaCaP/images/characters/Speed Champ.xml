@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Speed Champ.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Speed Down0000" x="0" y="0" width="327" height="512" pivotX="271.25" pivotY="217.6"/>
+	<SubTexture name="Speed Down0001" x="0" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0002" x="327" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0003" x="327" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0004" x="654" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0005" x="654" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0006" x="981" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0007" x="1308" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0008" x="1308" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0009" x="1635" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0010" x="1635" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0011" x="1635" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0012" x="1635" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Down0013" x="1635" y="0" width="327" height="512"/>
+	<SubTexture name="Speed Idle0000" x="1962" y="0" width="336" height="555" pivotX="291.1" pivotY="260.6"/>
+	<SubTexture name="Speed Idle0001" x="1962" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0002" x="2298" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0003" x="2298" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0004" x="2634" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0005" x="2634" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0006" x="2970" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0007" x="2970" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0008" x="3306" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0009" x="3306" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0010" x="3306" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0011" x="3306" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0012" x="3306" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Idle0013" x="3306" y="0" width="336" height="555"/>
+	<SubTexture name="Speed Left0000" x="3642" y="0" width="310" height="539" pivotX="280.65" pivotY="244.65"/>
+	<SubTexture name="Speed Left0001" x="3642" y="0" width="310" height="539"/>
+	<SubTexture name="Speed Left0002" x="0" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0003" x="0" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0004" x="310" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0005" x="310" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0006" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0007" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0008" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0009" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0010" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0011" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0012" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Left0013" x="620" y="555" width="310" height="539"/>
+	<SubTexture name="Speed Pose0000" x="930" y="555" width="309" height="546" pivotX="272.5" pivotY="251.7"/>
+	<SubTexture name="Speed Pose0001" x="1239" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0002" x="1548" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0003" x="1857" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0004" x="2166" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0005" x="2475" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0006" x="2784" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0007" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0008" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0009" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0010" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0011" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0012" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0013" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0014" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0015" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0016" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0017" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0018" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Pose0019" x="3093" y="555" width="309" height="546"/>
+	<SubTexture name="Speed Right0000" x="3402" y="555" width="310" height="552" pivotX="253.2" pivotY="257.7"/>
+	<SubTexture name="Speed Right0001" x="3402" y="555" width="310" height="552"/>
+	<SubTexture name="Speed Right0002" x="3712" y="555" width="310" height="552"/>
+	<SubTexture name="Speed Right0003" x="3712" y="555" width="310" height="552"/>
+	<SubTexture name="Speed Right0004" x="0" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0005" x="0" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0006" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0007" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0008" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0009" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0010" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0011" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0012" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Right0013" x="310" y="1107" width="310" height="552"/>
+	<SubTexture name="Speed Up0000" x="620" y="1107" width="339" height="579" pivotX="303.05" pivotY="284.35"/>
+	<SubTexture name="Speed Up0001" x="620" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0002" x="959" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0003" x="959" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0004" x="1298" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0005" x="1298" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0006" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0007" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0008" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0009" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0010" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0011" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0012" x="1637" y="1107" width="339" height="579"/>
+	<SubTexture name="Speed Up0013" x="1637" y="1107" width="339" height="579"/>
+</TextureAtlas>

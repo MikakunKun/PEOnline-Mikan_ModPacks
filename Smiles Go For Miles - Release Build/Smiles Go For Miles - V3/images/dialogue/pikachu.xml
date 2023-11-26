@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pikachu.png">
+<SubTexture name="pikachu talk0000" x="0" y="379" width="285" height="368" frameX="-23" frameY="-11" frameWidth="342" frameHeight="403" />
+<SubTexture name="pikachu thinking0000" x="608" y="0" width="296" height="376" frameX="-25" frameY="-10" frameWidth="342" frameHeight="403" />
+<SubTexture name="pikachu sad0000" x="297" y="0" width="311" height="379" frameX="-11" frameY="-7" frameWidth="342" frameHeight="403" />
+<SubTexture name="pikachu happy0000" x="0" y="0" width="297" height="379" frameX="-22" frameY="-8" frameWidth="342" frameHeight="403" />
+</TextureAtlas>

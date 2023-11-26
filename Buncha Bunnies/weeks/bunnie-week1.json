@@ -1,0 +1,50 @@
+{
+	"storyName": "Beaming Bnnuy",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Perk Up",
+			"Perkie",
+			[
+				248,
+				248,
+				108
+			]
+		],
+		[
+			"Hop-To-It",
+			"Perkie",
+			[
+				248,
+				248,
+				108
+			]
+		],
+		[
+			"Stargaze",
+			"Perkie",
+			[
+				248,
+				248,
+				108
+			]
+		]
+	],
+	"weekCharacters": [
+		"PerkieWeek",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Perkie Week"
+}

@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				-114
+			],
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shaggy_left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-160
+			],
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shaggy_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				27
+			],
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shaggy_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-38
+			],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shaggy_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 30,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "shaggy_idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 30,
+			"name": "shaggy_idle2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadSpurkShag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "MadSpurkShaggy-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		254,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

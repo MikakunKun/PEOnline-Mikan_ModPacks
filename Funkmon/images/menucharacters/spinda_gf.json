@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Spinda_GF",
+	"position": [
+		200,
+		325
+	],
+	"scale": 0.4,
+	"idle_anim": "GF idle",
+	"confirm_anim": "GF hey"
+}

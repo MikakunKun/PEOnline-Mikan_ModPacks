@@ -1,0 +1,7 @@
+{
+	"name": "Friday Night Funkmon V1.0",
+	"description": "A mod all about facing off against a couple fluffy and colourful monsters",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [49, 176, 209]
+}

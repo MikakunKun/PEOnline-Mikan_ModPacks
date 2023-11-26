@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Waterfall.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Waterfall0000" x="25" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0001" x="25" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0002" x="25" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0003" x="25" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0004" x="461" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0005" x="461" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0006" x="461" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0007" x="461" y="25" width="411" height="350"/>
+	<SubTexture name="Waterfall0008" x="25" y="400" width="411" height="350"/>
+	<SubTexture name="Waterfall0009" x="25" y="400" width="411" height="350"/>
+	<SubTexture name="Waterfall0010" x="25" y="400" width="411" height="350"/>
+	<SubTexture name="Waterfall0011" x="25" y="400" width="411" height="350"/>
+</TextureAtlas>

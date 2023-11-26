@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pikachubg.png">
+<SubTexture name="pikachubg idle0000" x="0" y="415" width="360" height="406" frameX="-40" frameY="-44" frameWidth="450" frameHeight="450" />
+<SubTexture name="pikachubg idle0001" x="709" y="0" width="356" height="410" frameX="-44" frameY="-40" frameWidth="450" frameHeight="450" />
+<SubTexture name="pikachubg idle0002" x="0" y="0" width="355" height="415" frameX="-49" frameY="-35" frameWidth="450" frameHeight="450" />
+<SubTexture name="pikachubg idle0003" x="355" y="0" width="354" height="415" frameX="-52" frameY="-35" frameWidth="450" frameHeight="450" />
+</TextureAtlas>

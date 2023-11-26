@@ -1,0 +1,40 @@
+{
+	"storyName": "The water's cold, I'm not getting in that",
+	"difficulties": "normal,hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"low-tide",
+			"Vaporeon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"amphibious",
+			"Vaporeon",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Week4",
+		"",
+		""
+	],
+	"weekName": "Wortor Dog Cat Foxxo thing"
+}

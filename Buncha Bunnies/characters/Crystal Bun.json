@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Crystal Bun Idle"
+		},
+		{
+			"offsets": [
+				169,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Crystal Bun Left"
+		},
+		{
+			"offsets": [
+				30,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Crystal Bun Down"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Crystal Bun Up"
+		},
+		{
+			"offsets": [
+				-90,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Crystal Bun Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Crystal Bun",
+	"position": [
+		100,
+		200
+	],
+	"healthicon": "crystalbun",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-50,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

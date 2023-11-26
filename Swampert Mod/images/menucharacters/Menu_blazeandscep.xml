@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_blazeandscep.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blaze n scep menu0000" x="0" y="0" width="1093" height="981" frameX="0" frameY="-17" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0001" x="0" y="0" width="1093" height="981" frameX="0" frameY="-17" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0002" x="1093" y="0" width="1081" height="987" frameX="-7" frameY="-10" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0003" x="1093" y="0" width="1081" height="987" frameX="-7" frameY="-10" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0004" x="2174" y="0" width="1072" height="991" frameX="-12" frameY="-6" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0005" x="2174" y="0" width="1072" height="991" frameX="-12" frameY="-6" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0006" x="0" y="991" width="1067" height="994" frameX="-15" frameY="-3" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0007" x="1067" y="991" width="1065" height="996" frameX="-16" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0008" x="1067" y="991" width="1065" height="996" frameX="-16" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0009" x="1067" y="991" width="1065" height="996" frameX="-16" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0010" x="2132" y="991" width="1063" height="996" frameX="-17" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0011" x="2132" y="991" width="1063" height="996" frameX="-17" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0012" x="2132" y="991" width="1063" height="996" frameX="-17" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0013" x="0" y="1987" width="1063" height="997" frameX="-17" frameY="0" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0014" x="0" y="1987" width="1063" height="997" frameX="-17" frameY="0" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0015" x="1063" y="1987" width="1078" height="994" frameX="-15" frameY="-4" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0016" x="1063" y="1987" width="1078" height="994" frameX="-15" frameY="-4" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0017" x="2141" y="1987" width="1070" height="992" frameX="-18" frameY="-5" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0018" x="2141" y="1987" width="1070" height="992" frameX="-18" frameY="-5" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0019" x="0" y="2984" width="1065" height="991" frameX="-19" frameY="-6" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0020" x="0" y="2984" width="1065" height="991" frameX="-19" frameY="-6" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0021" x="1065" y="2984" width="1064" height="991" frameX="-18" frameY="-6" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0022" x="2129" y="2984" width="1064" height="995" frameX="-17" frameY="-2" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0023" x="2129" y="2984" width="1064" height="995" frameX="-17" frameY="-2" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0024" x="2129" y="2984" width="1064" height="995" frameX="-17" frameY="-2" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0025" x="0" y="3979" width="1063" height="996" frameX="-17" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0026" x="0" y="3979" width="1063" height="996" frameX="-17" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0027" x="0" y="3979" width="1063" height="996" frameX="-17" frameY="-1" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0028" x="0" y="1987" width="1063" height="997" frameX="-17" frameY="0" frameWidth="1093" frameHeight="998"/>
+	<SubTexture name="blaze n scep menu0029" x="0" y="1987" width="1063" height="997" frameX="-17" frameY="0" frameWidth="1093" frameHeight="998"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_Bash_Day.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG_Bash_Day0000" x="12" y="12" width="1572" height="455" frameX="-4" frameY="0" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0001" x="12" y="12" width="1572" height="455" frameX="-4" frameY="0" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0002" x="1594" y="12" width="1578" height="453" frameX="-2" frameY="-2" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0003" x="1594" y="12" width="1578" height="453" frameX="-2" frameY="-2" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0004" x="12" y="477" width="1585" height="451" frameX="0" frameY="-4" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0005" x="12" y="477" width="1585" height="451" frameX="0" frameY="-4" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0006" x="1607" y="477" width="1577" height="454" frameX="0" frameY="-1" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0007" x="1607" y="477" width="1577" height="454" frameX="0" frameY="-1" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0008" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0009" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0010" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0011" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0012" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0013" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0014" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0015" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0016" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0017" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0018" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0019" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0020" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0021" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0022" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0023" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0024" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0025" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0026" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0027" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0028" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+	<SubTexture name="BG_Bash_Day0029" x="12" y="941" width="1576" height="452" frameX="0" frameY="-3" frameWidth="1585" frameHeight="455"/>
+</TextureAtlas>

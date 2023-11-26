@@ -1,0 +1,30 @@
+{
+	"characters": [
+		{
+			"name": "bf-tabi",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "bf-tabi",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "flipX-bf-tabi",
+			"positionArray": [0,0]
+		}
+	],
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

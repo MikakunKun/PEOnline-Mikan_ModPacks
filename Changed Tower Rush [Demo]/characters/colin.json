@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "colin idle"
+		},
+		{
+			"offsets": [
+				-44,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "colin left"
+		},
+		{
+			"offsets": [
+				-90,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "colin down"
+		},
+		{
+			"offsets": [
+				19,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "colin up"
+		},
+		{
+			"offsets": [
+				-90,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "colin right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/colin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "friends",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		48,
+		70
+	],
+	"camera_position": [
+		-130,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

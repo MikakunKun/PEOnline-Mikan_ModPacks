@@ -1,0 +1,34 @@
+{
+	"characters": [
+		{
+			"name": "Vaporeon",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "flipX-Eevee",
+			"positionArray": [-50,20]
+		},
+		{
+			"name": "Speed",
+			"positionArray": [-250,40]
+		},
+		{
+			"name": "Sylveon",
+			"positionArray": [-400,120]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vee",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

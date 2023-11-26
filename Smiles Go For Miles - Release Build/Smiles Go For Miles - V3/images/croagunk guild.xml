@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="croagunk guild.png">
+<SubTexture name="croagunk guild dance0000" x="0" y="0" width="2800" height="1400" frameX="0" frameY="0" frameWidth="2800" frameHeight="1400" />
+<SubTexture name="croagunk guild dance0001" x="0" y="1400" width="2800" height="1400" frameX="0" frameY="0" frameWidth="2800" frameHeight="1400" />
+<SubTexture name="croagunk guild dance0002" x="2800" y="0" width="2800" height="1400" frameX="0" frameY="0" frameWidth="2800" frameHeight="1400" />
+</TextureAtlas>

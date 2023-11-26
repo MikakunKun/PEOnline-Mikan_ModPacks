@@ -1,0 +1,7 @@
+Sets Camera Zoom
+
+Value 1: Cam zoom (Default is the zoom number 
+that your stage has) Pixel is 1
+
+Value 2: if blank, it will smoothly zoom regularly,
+otherwise it will do an instant zoom

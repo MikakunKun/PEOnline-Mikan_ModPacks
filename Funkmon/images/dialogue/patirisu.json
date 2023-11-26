@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		420,
+		120
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BFLoop",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BFFriceLoop",
+			"idle_name": "BFFrice0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFFive0",
+			"loop_name": "BFFiveLoop"
+		},
+		{
+			"loop_name": "BFTwiceLoop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFTwice0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BFThriceLoop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFThrice0",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Patirisu_BF_Dialogue"
+}

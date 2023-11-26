@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Steve Idle Dance",
+	"image": "Menu_steve",
+	"position": [
+		140,
+		110
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

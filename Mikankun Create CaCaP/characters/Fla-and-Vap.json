@@ -1,0 +1,26 @@
+{
+	"characters": [
+		{
+			"name": "Flareon",
+			"positionArray": [100,-20]
+		},
+		{
+			"name": "Vaporeon",
+			"positionArray": [-300,0]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Flareon",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

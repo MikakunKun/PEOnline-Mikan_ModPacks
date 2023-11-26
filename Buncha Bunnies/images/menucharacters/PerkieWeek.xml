@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PerkieWeek.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Story 10000" x="30" y="30" width="1280" height="387"/>
+</TextureAtlas>

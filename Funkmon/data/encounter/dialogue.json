@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Boyfriend: Beep!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "patirisu"
+		},
+		{
+			"expression": "shocked",
+			"text": "Eevee: Wow, a Patirisu and Spinda in this\\nregion? I've never seen that before!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Eevee"
+		},
+		{
+			"expression": "talk",
+			"text": "Girlfriend: Yeah man, we just kinda fell out the sky, donno how you didn't see that.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spinda"
+		},
+		{
+			"expression": "talk",
+			"text": "Boyfriend: Beep bo skkkrrr paaa!! ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "patirisu"
+		},
+		{
+			"expression": "talk",
+			"text": "Eevee: I've never heard a language like\\nthat either, what do you want pipsqueak?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eevee"
+		},
+		{
+			"expression": "shocked",
+			"text": "Boyfriend: B-Boop po peep?!?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "patirisu"
+		},
+		{
+			"expression": "pissed",
+			"text": "Boyfriend: Bee ska de boh bo, bo cha!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "patirisu"
+		},
+		{
+			"expression": "pissed",
+			"text": "Girlfriend: He wants a rap battle, he's\\nliterally beatboxing. It's kinda obvious.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spinda"
+		},
+		{
+			"expression": "pissed",
+			"text": "Eevee: A rap battle? Well I guess it could be some fun, huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eevee"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eevee: Sure, bring it!"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Flare Snack Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Flare Snack Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Flare Snack Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Flare Snack Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Flare Snack Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				14
+			],
+			"anim": "Flare Snack Surprise",
+			"fps": 24,
+			"name": "Flare Snack Surprise",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flare Snack",
+	"position": [
+		40,
+		-100
+	],
+	"healthicon": "Flare-Snack",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		120,
+		41
+	],
+	"camera_position": [
+		60,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bidoof-guild.png">
+<SubTexture name="bidoof-guild0000" x="0" y="848" width="984" height="832" frameX="-1836" frameY="-588" frameWidth="2800" frameHeight="1400" />
+<SubTexture name="bidoof-guild0001" x="972" y="0" width="978" height="840" frameX="-1842" frameY="-580" frameWidth="2800" frameHeight="1400" />
+<SubTexture name="bidoof-guild0002" x="0" y="0" width="972" height="848" frameX="-1848" frameY="-572" frameWidth="2800" frameHeight="1400" />
+<SubTexture name="bidoof-guild0003" x="0" y="0" width="972" height="848" frameX="-1848" frameY="-572" frameWidth="2800" frameHeight="1400" />
+<SubTexture name="bidoof-guild0004" x="0" y="0" width="972" height="848" frameX="-1848" frameY="-572" frameWidth="2800" frameHeight="1400" />
+</TextureAtlas>

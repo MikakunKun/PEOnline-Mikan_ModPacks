@@ -1,0 +1,115 @@
+{
+	"position": [
+		0,
+		100
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "biolu portrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "biolu portrait talk",
+			"loop_name": "biolu portrait talk"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF CONFUSED LOOP",
+			"idle_name": "BF CONFUSED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "biolu talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "biolu talk",
+			"idle_name": "biolu talk done"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "biolu portrait talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "biolu portrait talk",
+			"idle_name": "biolu portrait talk"
+		},
+		{
+			"loop_name": "biolu portrait worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "biolu portrait worried",
+			"anim": "biolu portrait worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

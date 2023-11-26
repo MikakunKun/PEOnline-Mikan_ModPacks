@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF IDLE DANCE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-70
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				30
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-5
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				447,
+				227
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-26
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-3
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Boyfriend dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/riolubf",
+	"position": [
+		10,
+		210
+	],
+	"healthicon": "riolubf",
+	"flip_x": true,
+	"healthbar_colors": [
+		65,
+		84,
+		227
+	],
+	"camera_position": [
+		20,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

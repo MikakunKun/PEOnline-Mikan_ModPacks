@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pika sleepy.png">
+<SubTexture name="pika sleepy idle0000" x="1091" y="0" width="366" height="403" frameX="-95" frameY="-97" frameWidth="500" frameHeight="500" />
+<SubTexture name="pika sleepy idle0001" x="0" y="410" width="357" height="406" frameX="-98" frameY="-94" frameWidth="500" frameHeight="500" />
+<SubTexture name="pika sleepy idle0002" x="369" y="0" width="348" height="409" frameX="-101" frameY="-91" frameWidth="500" frameHeight="500" />
+<SubTexture name="pika sleepy sleepy0000" x="357" y="410" width="378" height="406" frameX="-81" frameY="-94" frameWidth="500" frameHeight="500" />
+<SubTexture name="pika sleepy sleepy0001" x="717" y="0" width="374" height="408" frameX="-83" frameY="-92" frameWidth="500" frameHeight="500" />
+<SubTexture name="pika sleepy sleepy0002" x="0" y="0" width="369" height="410" frameX="-85" frameY="-90" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

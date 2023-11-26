@@ -1,0 +1,516 @@
+{
+	"song": {
+		"events": [
+			[
+				19692.3076923077,
+				[
+					[
+						"Flash",
+						"FFFFFF",
+						"0.7"
+					]
+				]
+			],
+			[
+				29538.4615384615,
+				[
+					[
+						"Flash",
+						"FFFFFF",
+						"0.7"
+					]
+				]
+			],
+			[
+				39384.6153846154,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					],
+					[
+						"Flash",
+						"FFFFFF",
+						"0.7"
+					]
+				]
+			],
+			[
+				39692.3076923077,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				39846.1538461539,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				40538.4615384616,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				40615.3846153846,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				41076.9230769231,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				41230.7692307692,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				41769.2307692308,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				41846.1538461539,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				42153.8461538462,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				42307.6923076923,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				42461.5384615385,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				43000,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				43076.9230769231,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				43538.4615384616,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				43692.3076923077,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				44230.7692307693,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				49230.7692307693,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				49538.4615384616,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				49615.3846153847,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				49769.2307692308,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				50384.6153846154,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				50461.5384615385,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				50769.2307692308,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				50923.076923077,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				51076.9230769231,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				51615.3846153847,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				51692.3076923077,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				52153.8461538462,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				52307.6923076924,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				52846.1538461539,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				52923.076923077,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				53230.7692307693,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				53384.6153846154,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				53538.4615384616,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				54076.9230769231,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				54153.8461538462,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				54615.3846153847,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				54692.3076923077,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					],
+					[
+						"Flash",
+						"FFFFFF",
+						"0.7"
+					]
+				]
+			],
+			[
+				55307.6923076924,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				57000.0000000001,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				57769.2307692308,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				78769.2307692309,
+				[
+					[
+						"Flash",
+						"FFFFFF",
+						"0.7"
+					]
+				]
+			],
+			[
+				89000.0000000001,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				89769.2307692309,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				90230.7692307694,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				91000.0000000001,
+				[
+					[
+						"Set Camera Alignment Instant",
+						"1",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

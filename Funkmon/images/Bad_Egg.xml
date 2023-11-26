@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bad_Egg.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glitchin 10000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="glitchin 10001" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="glitchin 10002" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="glitchin 10003" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="glitchin 10004" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="glitch 10000" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="glitchout 10000" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="glitchout 10001" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="glitchout 10002" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="glitchout 10003" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="glitchout 10004" x="0" y="0" width="500" height="500"/>
+	</TextureAtlas>

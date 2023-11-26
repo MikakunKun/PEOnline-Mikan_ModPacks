@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "challenge",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"folklore",
+			"mew",
+			[
+				251,
+				219,
+				234
+			]
+		],
+		[
+			"closed heart",
+			"paturisu-dark",
+			[
+				78,
+				73,
+				122
+			]
+		],
+		[
+			"anticheat",
+			"badegg",
+			[
+				157,
+				205,
+				131
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

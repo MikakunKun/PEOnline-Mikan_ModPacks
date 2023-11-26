@@ -1,0 +1,50 @@
+{
+	"storyName": "Evolvin'",
+	"difficulties": "Easy, Normal, Challenge",
+	"hideFreeplay": false,
+	"weekBackground": "cliffside",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"eevee",
+		"patirisu_bf",
+		"spinda_gf"
+	],
+	"songs": [
+		[
+			"encounter",
+			"eevee",
+			[
+				193,
+				139,
+				90
+			]
+		],
+		[
+			"level up",
+			"eevee",
+			[
+				193,
+				139,
+				90
+			]
+		],
+		[
+			"gambit",
+			"eevee",
+			[
+				193,
+				139,
+				90
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Eevee",
+	"hiddenUntilUnlocked": false
+}

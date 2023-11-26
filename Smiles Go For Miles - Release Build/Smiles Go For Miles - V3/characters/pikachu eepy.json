@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				53
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "idle",
+			"indices": [],
+			"name": "pika sleepy idle"
+		},
+		{
+			"offsets": [
+				36,
+				52
+			],
+			"loop": false,
+			"fps": 4,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "pika sleepy sleepy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pika sleepy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pikachu",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

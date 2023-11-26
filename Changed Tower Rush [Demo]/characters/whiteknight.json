@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "wk idle"
+		},
+		{
+			"offsets": [
+				1,
+				-125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "wk left"
+		},
+		{
+			"offsets": [
+				-30,
+				-116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "wk down"
+		},
+		{
+			"offsets": [
+				-61,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "wk up"
+		},
+		{
+			"offsets": [
+				-55,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "wk right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/perfect_boy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "perfectboy",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		210,
+		251
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

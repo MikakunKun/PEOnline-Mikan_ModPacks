@@ -1,0 +1,40 @@
+{
+	"storyName": "Things are getting real muddy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "petalburgwoods",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"swampert",
+		"bf",
+		"blazeandscep"
+	],
+	"songs": [
+		[
+			"Surfer",
+			"swampert",
+			[
+				60,
+				175,
+				235
+			]
+		],
+		[
+			"Hydronomical",
+			"swampert",
+			[
+				60,
+				175,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Things are getting real muddy"
+}

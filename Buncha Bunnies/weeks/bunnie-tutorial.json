@@ -1,0 +1,32 @@
+{
+	"storyName": "Practice makes perfect!",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bunorial",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekCharacters": [
+		"Bunorial",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Tutorialbun"
+}

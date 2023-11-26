@@ -1,0 +1,10 @@
+{
+	"idle_anim": "blaze n scep menu",
+	"image": "Menu_blazeandscep",
+	"position": [
+		340,
+		320
+	],
+	"scale": 0.35,
+	"confirm_anim": "M Dad Idle"
+}

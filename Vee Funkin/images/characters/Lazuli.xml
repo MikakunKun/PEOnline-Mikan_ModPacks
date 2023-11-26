@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lazuli.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lazuli Down0000" x="0" y="0" width="505" height="551" pivotX="569.6" pivotY="266.4"/>
+	<SubTexture name="Lazuli Down0001" x="0" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0002" x="535" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0003" x="535" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0004" x="1070" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0005" x="1070" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0006" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0007" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0008" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0009" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0010" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0011" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0012" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Down0013" x="1605" y="0" width="505" height="551"/>
+	<SubTexture name="Lazuli Idle0000" x="2140" y="0" width="510" height="562" pivotX="578.95" pivotY="277.4"/>
+	<SubTexture name="Lazuli Idle0001" x="2140" y="0" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0002" x="2680" y="0" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0003" x="2680" y="0" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0004" x="3220" y="0" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0005" x="3220" y="0" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0006" x="0" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0007" x="0" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0008" x="540" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0009" x="540" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0010" x="1080" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0011" x="1080" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0012" x="1080" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Idle0013" x="1080" y="592" width="510" height="562"/>
+	<SubTexture name="Lazuli Left0000" x="1620" y="592" width="508" height="465" pivotX="585.2" pivotY="180.15"/>
+	<SubTexture name="Lazuli Left0001" x="1620" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0002" x="2158" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0003" x="2158" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0004" x="2696" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0005" x="2696" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0006" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0007" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0008" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0009" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0010" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0011" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0012" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Left0013" x="3234" y="592" width="508" height="465"/>
+	<SubTexture name="Lazuli Right0000" x="0" y="1184" width="492" height="575" pivotX="559.55" pivotY="290.55"/>
+	<SubTexture name="Lazuli Right0001" x="0" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0002" x="522" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0003" x="522" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0004" x="1044" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0005" x="1044" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0006" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0007" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0008" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0009" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0010" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0011" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0012" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Right0013" x="1566" y="1184" width="492" height="575"/>
+	<SubTexture name="Lazuli Up0000" x="2088" y="1184" width="495" height="609" pivotX="572.7" pivotY="324.7"/>
+	<SubTexture name="Lazuli Up0001" x="2088" y="1184" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0002" x="2613" y="1184" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0003" x="2613" y="1184" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0004" x="3138" y="1184" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0005" x="3138" y="1184" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0006" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0007" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0008" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0009" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0010" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0011" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0012" x="0" y="1823" width="495" height="609"/>
+	<SubTexture name="Lazuli Up0013" x="0" y="1823" width="495" height="609"/>
+</TextureAtlas>

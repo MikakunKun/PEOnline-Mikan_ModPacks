@@ -1,0 +1,19 @@
+{
+	"healthicon": "SpurkShaggyMatt-icons",
+	"camera_position": [40, -250],
+	"healthbar_colors": [144, 26, 209],
+	"camera_position": [
+		0,
+		0
+	],
+    "characters": [
+        {
+            "name": "SpurkShaggy",
+            "positionArray": [0,0]
+        },
+        {
+            "name": "SpurkMatt",
+            "positionArray": [-225,0]
+        }
+    ]
+}

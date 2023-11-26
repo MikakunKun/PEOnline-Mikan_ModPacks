@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"PostHuman",
+			"perfectboy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Take Care",
+			"friends",
+			[
+				55,
+				55,
+				55
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "what the fuck (crazy demo)",
+	"weekName": "Changed Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

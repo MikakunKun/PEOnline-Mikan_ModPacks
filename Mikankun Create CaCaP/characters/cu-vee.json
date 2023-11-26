@@ -1,0 +1,34 @@
+{
+	"characters": [
+		{
+			"name": "Glaceon",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "Sylveon",
+			"positionArray": [-250,20]
+		},
+		{
+			"name": "Flareon",
+			"positionArray": [-450,40]
+		},
+		{
+			"name": "Speed",
+			"positionArray": [-800,120]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Flareon",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"healthicon": "colin",
+	"camera_position": [
+		0,
+		0
+	],
+	"healthbar_colors": [
+		39,
+		120,
+		98
+	],
+    "characters": [
+        {
+            "name": "colinbf",
+            "positionArray": [100,-40]
+        },
+        {
+            "name": "luigi",
+            "positionArray": [-150,0]
+        }
+    ]
+}

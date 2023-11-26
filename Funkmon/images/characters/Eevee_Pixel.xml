@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eevee_Pixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eevee idle0000" x="0" y="0" width="60" height="60"/>
+	<SubTexture name="Eevee idle0001" x="0" y="0" width="60" height="60"/>
+	<SubTexture name="Eevee idle0002" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="Eevee idle0003" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="Eevee idle0004" x="120" y="0" width="60" height="60"/>
+	<SubTexture name="Eevee up0000" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="Eevee up0001" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="Eevee up0002" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="Eevee up0003" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="Eevee up0004" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="Eevee down0000" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="Eevee down0001" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="Eevee down0002" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="Eevee down0003" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="Eevee down0004" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="Eevee right0000" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="Eevee right0001" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="Eevee right0002" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="Eevee right0003" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="Eevee right0004" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="Eevee left0000" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="Eevee left0001" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="Eevee left0002" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="Eevee left0003" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="Eevee left0004" x="60" y="240" width="60" height="60"/>
+</TextureAtlas>

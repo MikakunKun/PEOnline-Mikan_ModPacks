@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Excuse me!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Buh?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "talk",
+			"text": "It was you two that just came in, right?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Y- yes! That was us!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "I am Chatot! I am the pokemon in the know around these parts. I am Guildmaster Wigglytuffs right-hand Pokemon!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Now, shoo! Leave the premises! We have no time for salespeople` or surveys.",
+			"boxState": "angry",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Off you go, if you please!",
+			"boxState": "angry",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "confused",
+			"text": "N- no! That's not why we're here!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "Me and Boyfriend want to start an exploration team!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "Pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "Boobity babbity",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "talk",
+			"text": "That's right! We need to find his friend, too.",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "Ya",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "shocked",
+			"text": "What?? An exploration team?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "confused",
+			"text": "It's rare to see a kid like you who wants to apprentice at the guild... especially given how hard our training is!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "confused",
+			"text": "Surely, the steady stream of Pokemon that run away from our guild shows that!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "confused",
+			"text": "Huh? Is it really that severe...?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "Ba bop! Encouraging gibberish inserted here",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, that's right! Whatever your training is, I'm sure we can take it!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikaflip"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, well, well! I wish you told me that up front!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		},
+		{
+			"expression": "talk",
+			"text": "OK! Let's get your team signed up right away. Follow me to the second floor.",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "chatottalk"
+		}
+	]
+}

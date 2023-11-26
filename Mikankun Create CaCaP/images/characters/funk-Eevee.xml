@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eevee.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eevee idle0000" x="0" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0001" x="0" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0002" x="900" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0003" x="900" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0004" x="1800" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0005" x="1800" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0006" x="2700" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0007" x="2700" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0008" x="3600" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee idle0009" x="3600" y="0" width="900" height="900"/>
+	<SubTexture name="Eevee up0000" x="0" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee up0001" x="0" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee up0002" x="900" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee up0003" x="900" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee up0004" x="1800" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee down0000" x="0" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee down0001" x="0" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee down0002" x="900" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee down0003" x="900" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee down0004" x="1800" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee right0000" x="0" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee right0001" x="0" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee right0002" x="900" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee right0003" x="900" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee right0004" x="1800" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee left0000" x="0" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee left0001" x="0" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee left0002" x="900" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee left0003" x="900" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee left0004" x="1800" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee attack0000" x="2700" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee attack0001" x="2700" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee attack0002" x="3600" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee attack0003" x="3600" y="900" width="900" height="900"/>
+	<SubTexture name="Eevee attack0004" x="2700" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0005" x="2700" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0006" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0007" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0008" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0009" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0010" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0011" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0012" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0013" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0014" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0015" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0016" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0017" x="3600" y="1800" width="900" height="900"/>
+	<SubTexture name="Eevee attack0018" x="2700" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee attack0019" x="2700" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee attack0020" x="0" y="4500" width="2700" height="900"/>
+	<SubTexture name="Eevee attack0021" x="2700" y="4500" width="1800" height="900"/>
+	<SubTexture name="Eevee attack0022" x="3600" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee attack0023" x="3600" y="2700" width="900" height="900"/>
+	<SubTexture name="Eevee attack0024" x="2700" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee attack0025" x="2700" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee attack0026" x="3600" y="3600" width="900" height="900"/>
+	<SubTexture name="Eevee attack0027" x="3600" y="3600" width="900" height="900"/>
+</TextureAtlas>

@@ -1,0 +1,200 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-7,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				11,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				27,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				27,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-6,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				19,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "DDTO/characters/SadBF_Assets",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "bfsad",
+	"flip_x": true,
+	"healthbar_colors": [
+		82,
+		115,
+		145
+	],
+	"camera_position": [
+		20,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

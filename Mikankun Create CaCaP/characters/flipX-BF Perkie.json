@@ -1,0 +1,236 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-21,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Left"
+		},
+		{
+			"offsets": [
+				11,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down"
+		},
+		{
+			"offsets": [
+				94,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Right"
+		},
+		{
+			"offsets": [
+				-13,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF Miss Left"
+		},
+		{
+			"offsets": [
+				25,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF Miss Down"
+		},
+		{
+			"offsets": [
+				100,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF Miss Right"
+		},
+		{
+			"offsets": [
+				27,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				87
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"name": "BF Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF Perkie",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "BF-Perkie",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		76,
+		187
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,19 @@
+{
+	"healthicon": "bfdouble-icons",
+	"camera_position": [-40, -250],
+	"healthbar_colors": [81, 201, 219],
+	"camera_position": [
+		0,
+		0
+	],
+    "characters": [
+        {
+            "name": "bf",
+            "positionArray": [0,20]
+        },
+        {
+            "name": "b-bf",
+            "positionArray": [200,40]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Zooms the camera to a certain zoom value.
+Value 1 must be set as (zoom, duration) *WITH THE SPACE*
+zoom = How zoomed you want the camera to be.
+duration = How long you want the transition to take.
+
+Value 2 is the camera.
+Refer to the third document I sent to learn this.

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-440,
+		120
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "EeveeLoop",
+			"idle_name": "Eevee0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "EeveeFriceLoop",
+			"idle_name": "EeveeFrice0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EeveeFive0",
+			"loop_name": "EeveeFiveLoop"
+		},
+		{
+			"loop_name": "EeveeTwiceLoop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EeveeTwice0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "EeveeThriceLoop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "EeveeThrice0",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Eevee_Dialogue"
+}

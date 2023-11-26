@@ -1,0 +1,48 @@
+{
+	"storyName": "welcome to treasure town!",
+	"hideFreeplay": false,
+	"weekBackground": "treasure_town",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"wigglytuffs guild",
+			"chatot",
+			[
+				200,
+				255,
+				55
+			]
+		],
+		[
+			"treasure town",
+			"pikachu",
+			[
+				200,
+				255,
+				140
+			]
+		],
+		[
+			"goodnight",
+			"biolu",
+			[
+				106,
+				13,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "treasure-town"
+}

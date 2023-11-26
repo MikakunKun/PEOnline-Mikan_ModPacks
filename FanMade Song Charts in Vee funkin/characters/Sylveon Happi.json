@@ -1,0 +1,220 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				230
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Sylveon Idle-alt",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				231
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Sylveon Idle-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				125
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Sylveon Left-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				127
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Sylveon Right-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				177
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Sylveon Up-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Sylveon Down-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Sylveon Left"
+		},
+		{
+			"offsets": [
+				-50,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Sylveon Right"
+		},
+		{
+			"offsets": [
+				-59,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Sylveon Up"
+		},
+		{
+			"offsets": [
+				-69,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Sylveon Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				136
+			],
+			"anim": "Sylveon Waiting",
+			"fps": 24,
+			"name": "Sylveon Waiting",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sylveon",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "Sylveon",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		151,
+		171
+	],
+	"camera_position": [
+		50,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

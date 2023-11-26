@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Max.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Max Down0000" x="0" y="0" width="552" height="565" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="Max Down0001" x="552" y="0" width="552" height="565" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="Max Idle0000" x="1104" y="0" width="552" height="565" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Max Idle0001" x="1656" y="0" width="552" height="565" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Max Idle0002" x="0" y="565" width="552" height="565" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="Max Left0000" x="552" y="565" width="552" height="565" frameWidth="455" frameHeight="464"/>
+    <SubTexture name="Max Left0001" x="1104" y="565" width="552" height="565" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="Max Left0002" x="1656" y="565" width="552" height="565" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="Max Right0000" x="0" y="1130" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Right0001" x="552" y="1130" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Right0002" x="1104" y="1130" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Shoot0000" x="1656" y="1130" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Shoot0001" x="0" y="1695" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Shoot0002" x="552" y="1695" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Shoot0003" x="1104" y="1695" width="552" height="565" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="Max Up0000" x="1656" y="1695" width="552" height="565" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="Max Up0001" x="2208" y="0" width="552" height="565" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="Max Up0002" x="2208" y="565" width="552" height="565" frameWidth="433" frameHeight="495"/>
+</TextureAtlas>

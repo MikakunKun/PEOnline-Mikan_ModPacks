@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Perkie.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bnnuy Down0000" x="25" y="25" width="367" height="518" frameX="-14" frameY="-23" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0001" x="25" y="25" width="367" height="518" frameX="-14" frameY="-23" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0002" x="417" y="25" width="392" height="524" frameX="-11" frameY="-17" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0003" x="417" y="25" width="392" height="524" frameX="-11" frameY="-17" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0004" x="834" y="25" width="408" height="533" frameX="-1" frameY="-8" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0005" x="834" y="25" width="408" height="533" frameX="-1" frameY="-8" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0006" x="1267" y="25" width="397" height="539" frameX="-1" frameY="-2" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0007" x="1267" y="25" width="397" height="539" frameX="-1" frameY="-2" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0008" x="1689" y="25" width="393" height="541" frameX="0" frameY="0" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0009" x="1689" y="25" width="393" height="541" frameX="0" frameY="0" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0010" x="1689" y="25" width="393" height="541" frameX="0" frameY="0" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0011" x="2107" y="25" width="395" height="540" frameX="0" frameY="-1" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0012" x="2107" y="25" width="395" height="540" frameX="0" frameY="-1" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Down0013" x="2107" y="25" width="395" height="540" frameX="0" frameY="-1" frameWidth="409" frameHeight="541"/>
+	<SubTexture name="Bnnuy Got That0000" x="2527" y="25" width="433" height="648" frameX="-84" frameY="0" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0001" x="2527" y="25" width="433" height="648" frameX="-84" frameY="0" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0002" x="2985" y="25" width="471" height="647" frameX="-66" frameY="-2" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0003" x="2985" y="25" width="471" height="647" frameX="-66" frameY="-2" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0004" x="3481" y="25" width="504" height="636" frameX="-49" frameY="-13" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0005" x="3481" y="25" width="504" height="636" frameX="-49" frameY="-13" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0006" x="4010" y="25" width="500" height="639" frameX="-49" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0007" x="4010" y="25" width="500" height="639" frameX="-49" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0008" x="4535" y="25" width="497" height="639" frameX="-52" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0009" x="4535" y="25" width="497" height="639" frameX="-52" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0010" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0011" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0012" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0013" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0014" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0015" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0016" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0017" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0018" x="5057" y="25" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0019" x="2527" y="25" width="433" height="648" frameX="-84" frameY="0" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0020" x="2527" y="25" width="433" height="648" frameX="-84" frameY="0" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0021" x="5579" y="25" width="357" height="539" frameX="-167" frameY="-119" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0022" x="5579" y="25" width="357" height="539" frameX="-167" frameY="-119" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0023" x="5961" y="25" width="342" height="548" frameX="-169" frameY="-110" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0024" x="5961" y="25" width="342" height="548" frameX="-169" frameY="-110" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0025" x="5961" y="25" width="342" height="548" frameX="-169" frameY="-110" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0026" x="6328" y="25" width="402" height="596" frameX="0" frameY="-59" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0027" x="6328" y="25" width="402" height="596" frameX="0" frameY="-59" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0028" x="6755" y="25" width="390" height="605" frameX="-6" frameY="-50" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0029" x="6755" y="25" width="390" height="605" frameX="-6" frameY="-50" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0030" x="6755" y="25" width="390" height="605" frameX="-6" frameY="-50" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0031" x="2527" y="25" width="433" height="648" frameX="-84" frameY="0" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0032" x="2527" y="25" width="433" height="648" frameX="-84" frameY="0" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0033" x="2985" y="25" width="471" height="647" frameX="-66" frameY="-2" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0034" x="2985" y="25" width="471" height="647" frameX="-66" frameY="-2" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0035" x="7170" y="25" width="504" height="636" frameX="-49" frameY="-13" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0036" x="7170" y="25" width="504" height="636" frameX="-49" frameY="-13" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0037" x="25" y="698" width="500" height="639" frameX="-49" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0038" x="25" y="698" width="500" height="639" frameX="-49" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0039" x="550" y="698" width="497" height="639" frameX="-52" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0040" x="550" y="698" width="497" height="639" frameX="-52" frameY="-10" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0041" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0042" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0043" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0044" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0045" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0046" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0047" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0048" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy Got That0049" x="1072" y="698" width="497" height="640" frameX="-52" frameY="-9" frameWidth="553" frameHeight="658"/>
+	<SubTexture name="Bnnuy How About0000" x="1594" y="698" width="337" height="594" frameX="-3" frameY="-8" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0001" x="1594" y="698" width="337" height="594" frameX="-3" frameY="-8" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0002" x="1956" y="698" width="318" height="600" frameX="0" frameY="-2" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0003" x="1956" y="698" width="318" height="600" frameX="0" frameY="-2" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0004" x="2299" y="698" width="312" height="601" frameX="0" frameY="-1" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0005" x="2299" y="698" width="312" height="601" frameX="0" frameY="-1" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0006" x="2636" y="698" width="317" height="601" frameX="-1" frameY="-1" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0007" x="2978" y="698" width="317" height="601" frameX="-1" frameY="-1" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0008" x="3320" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0009" x="3320" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0010" x="3664" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0011" x="4008" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0012" x="4008" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0013" x="4352" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0014" x="4352" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0015" x="4352" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0016" x="4352" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0017" x="4352" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy How About0018" x="4352" y="698" width="319" height="602" frameX="-2" frameY="0" frameWidth="340" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0000" x="4696" y="698" width="328" height="584" frameX="-19" frameY="-17" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0001" x="4696" y="698" width="328" height="584" frameX="-19" frameY="-17" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0002" x="5049" y="698" width="341" height="587" frameX="-13" frameY="-14" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0003" x="5049" y="698" width="341" height="587" frameX="-13" frameY="-14" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0004" x="5415" y="698" width="345" height="593" frameX="-4" frameY="-9" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0005" x="5415" y="698" width="345" height="593" frameX="-4" frameY="-9" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0006" x="5785" y="698" width="324" height="599" frameX="-2" frameY="-1" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0007" x="5785" y="698" width="324" height="599" frameX="-2" frameY="-1" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0008" x="6134" y="698" width="313" height="600" frameX="-1" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0009" x="6134" y="698" width="313" height="600" frameX="-1" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0010" x="6472" y="698" width="312" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0011" x="6809" y="698" width="312" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0012" x="7146" y="698" width="316" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0013" x="7146" y="698" width="316" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0014" x="7487" y="698" width="316" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0015" x="7828" y="698" width="328" height="584" frameX="-19" frameY="-17" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0016" x="7828" y="698" width="328" height="584" frameX="-19" frameY="-17" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0017" x="25" y="1363" width="341" height="587" frameX="-13" frameY="-14" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0018" x="25" y="1363" width="341" height="587" frameX="-13" frameY="-14" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0019" x="391" y="1363" width="345" height="593" frameX="-4" frameY="-9" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0020" x="391" y="1363" width="345" height="593" frameX="-4" frameY="-9" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0021" x="761" y="1363" width="324" height="599" frameX="-2" frameY="-1" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0022" x="761" y="1363" width="324" height="599" frameX="-2" frameY="-1" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0023" x="1110" y="1363" width="313" height="600" frameX="-1" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0024" x="1110" y="1363" width="313" height="600" frameX="-1" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0025" x="1448" y="1363" width="312" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0026" x="1448" y="1363" width="312" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0027" x="1785" y="1363" width="316" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0028" x="1785" y="1363" width="316" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Idle0029" x="1785" y="1363" width="316" height="600" frameX="0" frameY="0" frameWidth="354" frameHeight="602"/>
+	<SubTexture name="Bnnuy Left0000" x="2126" y="1363" width="402" height="596" frameX="0" frameY="-12" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0001" x="2126" y="1363" width="402" height="596" frameX="0" frameY="-12" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0002" x="2553" y="1363" width="389" height="605" frameX="-6" frameY="-3" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0003" x="2553" y="1363" width="389" height="605" frameX="-6" frameY="-3" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0004" x="2967" y="1363" width="381" height="608" frameX="-19" frameY="0" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0005" x="2967" y="1363" width="381" height="608" frameX="-19" frameY="0" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0006" x="3373" y="1363" width="369" height="606" frameX="-37" frameY="-2" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0007" x="3373" y="1363" width="369" height="606" frameX="-37" frameY="-2" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0008" x="3767" y="1363" width="367" height="605" frameX="-40" frameY="-3" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0009" x="3767" y="1363" width="367" height="605" frameX="-40" frameY="-3" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0010" x="4159" y="1363" width="368" height="604" frameX="-39" frameY="-4" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0011" x="4552" y="1363" width="368" height="604" frameX="-39" frameY="-4" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0012" x="4552" y="1363" width="368" height="604" frameX="-39" frameY="-4" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Left0013" x="4552" y="1363" width="368" height="604" frameX="-39" frameY="-4" frameWidth="407" frameHeight="608"/>
+	<SubTexture name="Bnnuy Pose0000" x="4945" y="1363" width="342" height="594" frameX="-68" frameY="-9" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0001" x="4945" y="1363" width="342" height="594" frameX="-68" frameY="-9" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0002" x="5312" y="1363" width="372" height="601" frameX="-3" frameY="-2" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0003" x="5312" y="1363" width="372" height="601" frameX="-3" frameY="-2" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0004" x="5709" y="1363" width="342" height="601" frameX="-23" frameY="-1" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0005" x="5709" y="1363" width="342" height="601" frameX="-23" frameY="-1" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0006" x="6076" y="1363" width="366" height="603" frameX="-3" frameY="0" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0007" x="6076" y="1363" width="366" height="603" frameX="-3" frameY="0" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0008" x="6467" y="1363" width="371" height="603" frameX="-1" frameY="0" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0009" x="6467" y="1363" width="371" height="603" frameX="-1" frameY="0" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0010" x="6863" y="1363" width="371" height="602" frameX="0" frameY="-1" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0011" x="6863" y="1363" width="371" height="602" frameX="0" frameY="-1" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0012" x="6863" y="1363" width="371" height="602" frameX="0" frameY="-1" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Pose0013" x="6863" y="1363" width="371" height="602" frameX="0" frameY="-1" frameWidth="410" frameHeight="603"/>
+	<SubTexture name="Bnnuy Right0000" x="7259" y="1363" width="337" height="565" frameX="-3" frameY="-15" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0001" x="7259" y="1363" width="337" height="565" frameX="-3" frameY="-15" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0002" x="7621" y="1363" width="370" height="573" frameX="-2" frameY="-7" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0003" x="7621" y="1363" width="370" height="573" frameX="-2" frameY="-7" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0004" x="25" y="1996" width="375" height="579" frameX="-1" frameY="-1" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0005" x="25" y="1996" width="375" height="579" frameX="-1" frameY="-1" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0006" x="425" y="1996" width="375" height="582" frameX="0" frameY="0" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0007" x="425" y="1996" width="375" height="582" frameX="0" frameY="0" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0008" x="825" y="1996" width="359" height="581" frameX="0" frameY="-1" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0009" x="825" y="1996" width="359" height="581" frameX="0" frameY="-1" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0010" x="1209" y="1996" width="358" height="579" frameX="-1" frameY="-1" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0011" x="1209" y="1996" width="358" height="579" frameX="-1" frameY="-1" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0012" x="1592" y="1996" width="360" height="580" frameX="-1" frameY="0" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Right0013" x="1592" y="1996" width="360" height="580" frameX="-1" frameY="0" frameWidth="376" frameHeight="582"/>
+	<SubTexture name="Bnnuy Up0000" x="1977" y="1996" width="433" height="648" frameX="-35" frameY="0" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0001" x="1977" y="1996" width="433" height="648" frameX="-35" frameY="0" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0002" x="2435" y="1996" width="471" height="647" frameX="-17" frameY="-2" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0003" x="2435" y="1996" width="471" height="647" frameX="-17" frameY="-2" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0004" x="2931" y="1996" width="504" height="636" frameX="0" frameY="-13" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0005" x="2931" y="1996" width="504" height="636" frameX="0" frameY="-13" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0006" x="3460" y="1996" width="500" height="639" frameX="0" frameY="-10" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0007" x="3460" y="1996" width="500" height="639" frameX="0" frameY="-10" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0008" x="3985" y="1996" width="497" height="639" frameX="-3" frameY="-10" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0009" x="3985" y="1996" width="497" height="639" frameX="-3" frameY="-10" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0010" x="4507" y="1996" width="497" height="640" frameX="-3" frameY="-9" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0011" x="4507" y="1996" width="497" height="640" frameX="-3" frameY="-9" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0012" x="4507" y="1996" width="497" height="640" frameX="-3" frameY="-9" frameWidth="504" frameHeight="649"/>
+	<SubTexture name="Bnnuy Up0013" x="4507" y="1996" width="497" height="640" frameX="-3" frameY="-9" frameWidth="504" frameHeight="649"/>
+</TextureAtlas>

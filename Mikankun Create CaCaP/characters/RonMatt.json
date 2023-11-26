@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matt down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matt up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "matt right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RonMatt",
+	"position": [
+		10,
+		300
+	],
+	"healthicon": "RonMatt-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		26,
+		26
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

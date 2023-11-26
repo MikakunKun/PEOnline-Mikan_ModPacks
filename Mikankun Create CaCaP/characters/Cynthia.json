@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cynthia Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cynthia Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-252,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cynthia Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cynthia Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-148
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cynthia Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cynthia",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

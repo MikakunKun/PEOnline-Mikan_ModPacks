@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Oh c'mon, Sceptile! It was one time!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "swampert"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't care about your excuses. Do you not realize how much of a big deal that is?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sceptile"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey guys, look.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blaziken"
+		},
+		{
+			"expression": "talk",
+			"text": "Err, human human?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Whoa, a human!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "swampert"
+		},
+		{
+			"expression": "confused",
+			"text": "Uhh, human human human... Human human human!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow... I don't know what he's talking about!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "swampert"
+		},
+		{
+			"expression": "talk",
+			"text": "Hmm, maybe he wants to have a sing-off?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blaziken"
+		},
+		{
+			"expression": "talk",
+			"text": "What makes you think that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sceptile"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, he's holding a microphone and he looks like a douchebag.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blaziken"
+		},
+		{
+			"expression": "talk",
+			"text": "That is the stupidest guess I have ever heard-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sceptile"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, oh! I wanna do it!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "swampert"
+		},
+		{
+			"expression": "talk",
+			"text": "Go ahead, pal.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blaziken"
+		},
+		{
+			"expression": "confused",
+			"text": "Wh-! Seriously, we don't have time for this nonsense!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sceptile"
+		},
+		{
+			"expression": "talk",
+			"text": "Sceptile, shut up.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blaziken"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, Swamp you ready?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blaziken"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "swampert"
+		},
+		{
+			"expression": "confused",
+			"text": "Ugh, human human...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

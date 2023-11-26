@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<TextureAtlas imagePath="doraemon_legs_monochrome.png">
+	
+	<SubTexture name="run0000" x="1907" y="0" width="1869" height="909" frameX="-27" frameY="-93" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0001" x="1907" y="0" width="1869" height="909" frameX="-27" frameY="-93" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0002" x="0" y="911" width="1915" height="885" frameX="0" frameY="-93" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0003" x="0" y="911" width="1915" height="885" frameX="0" frameY="-93" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0004" x="0" y="0" width="1905" height="897" frameX="-13" frameY="-93" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0005" x="0" y="0" width="1905" height="897" frameX="-13" frameY="-93" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0006" x="3778" y="0" width="1497" height="943" frameX="-301" frameY="-85" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0007" x="3778" y="0" width="1497" height="943" frameX="-301" frameY="-85" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0008" x="3850" y="945" width="922" height="1106" frameX="-542" frameY="-9" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0009" x="3850" y="945" width="922" height="1106" frameX="-542" frameY="-9" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0010" x="2882" y="945" width="966" height="1104" frameX="-511" frameY="-11" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0011" x="2882" y="945" width="966" height="1104" frameX="-511" frameY="-11" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0012" x="1917" y="911" width="963" height="1113" frameX="-514" frameY="-11" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0013" x="1917" y="911" width="963" height="1113" frameX="-514" frameY="-11" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0014" x="4774" y="945" width="665" height="1075" frameX="-708" frameY="0" frameWidth="1918" frameHeight="1124"/>
+	<SubTexture name="run0015" x="4774" y="945" width="665" height="1075" frameX="-708" frameY="0" frameWidth="1918" frameHeight="1124"/>
+	
+</TextureAtlas>

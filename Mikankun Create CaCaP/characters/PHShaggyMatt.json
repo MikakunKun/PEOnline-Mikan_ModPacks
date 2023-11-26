@@ -1,0 +1,19 @@
+{
+	"healthicon": "PHShaggyMatt-icons",
+	"camera_position": [-40, -250],
+	"healthbar_colors": [255, 140, 0],
+	"camera_position": [
+		0,
+		0
+	],
+    "characters": [
+        {
+            "name": "PHShaggy",
+            "positionArray": [0,0]
+        },
+        {
+            "name": "PHMatt",
+            "positionArray": [-225,0]
+        }
+    ]
+}

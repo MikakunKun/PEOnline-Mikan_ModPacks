@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "GF right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "GF left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "GF sad"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spinda_GF",
+	"position": [
+		0,
+		-200
+	],
+	"healthicon": "spinda-gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		109,
+		100
+	],
+	"camera_position": [
+		50,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

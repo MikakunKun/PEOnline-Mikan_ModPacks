@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Good morning, Boyfriend! Lets work hard as always!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.055,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "biolutalk",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "talk",
+			"text": "mommy milkers mommy milkers mommy milkers mommy milkers mommy milkers mommy milkers mommy milkers",
+			"boxState": "normal",
+			"portrait": "biolutalk",
+			"speed": 0.05,
+			"sound": "talk"
+		}
+	]
+}

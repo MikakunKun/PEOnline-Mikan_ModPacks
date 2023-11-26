@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spinda_GF.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF right0000" x="0" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0001" x="0" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0002" x="800" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0003" x="800" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0004" x="1600" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0005" x="1600" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0006" x="2400" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0007" x="2400" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0008" x="3200" y="0" width="800" height="1000"/>
+	<SubTexture name="GF right0009" x="3200" y="0" width="800" height="1000"/>
+	<SubTexture name="GF left0000" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0001" x="0" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0002" x="800" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0003" x="800" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0004" x="1600" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0005" x="1600" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0006" x="2400" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0007" x="2400" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0008" x="3200" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF left0009" x="3200" y="1000" width="800" height="1000"/>
+	<SubTexture name="GF hey0000" x="2400" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF hey0001" x="2400" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF hey0002" x="3200" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF hey0003" x="3200" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF hey0004" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0005" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0006" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0007" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0008" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0009" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0010" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF hey0011" x="0" y="3000" width="800" height="1000"/>
+	<SubTexture name="GF sad0000" x="0" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0001" x="0" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0002" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0003" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0004" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0005" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0006" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0007" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0008" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0009" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0010" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0011" x="800" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0012" x="1600" y="2000" width="800" height="1000"/>
+	<SubTexture name="GF sad0013" x="1600" y="2000" width="800" height="1000"/>
+</TextureAtlas>

@@ -1,0 +1,41 @@
+{
+	"storyName": "a",
+	"difficulties": "mania",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"new-state",
+			"SninjaIcon",
+			[
+				0,
+				135,
+				100
+			]
+		],
+		[
+			"bad-idea",
+			"pog",
+			[
+				0,
+				135,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "the power of five"
+}

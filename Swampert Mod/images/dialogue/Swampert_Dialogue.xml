@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Swampert_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swampert confused0000" x="0" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0001" x="0" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0002" x="0" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0003" x="0" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0004" x="770" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0005" x="770" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0006" x="770" y="0" width="770" height="845"/>
+	<SubTexture name="swampert confused0007" x="0" y="845" width="770" height="845"/>
+	<SubTexture name="swampert confused0008" x="0" y="845" width="770" height="845"/>
+	<SubTexture name="swampert confused0009" x="0" y="845" width="770" height="845"/>
+	<SubTexture name="swampert confused end0000" x="0" y="845" width="770" height="845"/>
+	<SubTexture name="swampert talk0000" x="770" y="845" width="770" height="845"/>
+	<SubTexture name="swampert talk0001" x="770" y="845" width="770" height="845"/>
+	<SubTexture name="swampert talk0002" x="770" y="845" width="770" height="845"/>
+	<SubTexture name="swampert talk0003" x="770" y="845" width="770" height="845"/>
+	<SubTexture name="swampert talk0004" x="0" y="1690" width="770" height="845"/>
+	<SubTexture name="swampert talk0005" x="0" y="1690" width="770" height="845"/>
+	<SubTexture name="swampert talk0006" x="0" y="1690" width="770" height="845"/>
+	<SubTexture name="swampert talk0007" x="770" y="1690" width="770" height="845"/>
+	<SubTexture name="swampert talk0008" x="770" y="1690" width="770" height="845"/>
+	<SubTexture name="swampert talk0009" x="770" y="1690" width="770" height="845"/>
+	<SubTexture name="swampert talk end0000" x="770" y="1690" width="770" height="845"/>
+</TextureAtlas>

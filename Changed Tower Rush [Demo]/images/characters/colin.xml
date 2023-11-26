@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="colin.png"><SubTexture name="colin idle0000" x="0" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0001" x="0" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0002" x="688" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0003" x="688" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0004" x="1376" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0005" x="1376" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0006" x="0" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0007" x="0" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0008" x="688" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0009" x="688" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0010" x="1376" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0011" x="688" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0012" x="1376" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin idle0013" x="688" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin up0000" x="2064" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin up0001" x="2064" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin up0002" x="2064" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin up0003" x="2064" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin right0000" x="688" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin right0001" x="688" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin right0002" x="0" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin right0003" x="0" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin left0000" x="2064" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin left0001" x="2064" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin left0002" x="1376" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin left0003" x="1376" y="1696" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin down0000" x="2752" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin down0001" x="2752" y="848" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin down0002" x="2752" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+<SubTexture name="colin down0003" x="2752" y="0" width="688" height="848" frameX="0" frameY="0" frameWidth="688" frameHeight="848" />
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"characters": [
+		{
+			"name": "evo-mix-Eevee",
+			"positionArray": [1600,0]
+		},
+		{
+			"name": "evo-mix-Vaporeon",
+			"positionArray": [1700,20]
+		},
+		{
+			"name": "evo-mix-Speed",
+			"positionArray": [1800,80]
+		},
+		{
+			"name": "Speed Champ",
+			"positionArray": [300,0]
+		},
+		{
+			"name": "evo-mix-Lazuli",
+			"positionArray": [1900,160]
+		},
+		{
+			"name": "Sylveon",
+			"positionArray": [100,40]
+		},
+		{
+			"name": "Flareon",
+			"positionArray": [-100,70]
+		},
+		{
+			"name": "evo-mix-Leafeon-Sings",
+			"positionArray": [-600,100]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Vee",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

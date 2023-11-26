@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Speed Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Speed Left"
+		},
+		{
+			"offsets": [
+				-47,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Speed Right"
+		},
+		{
+			"offsets": [
+				19,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Speed Up"
+		},
+		{
+			"offsets": [
+				-26,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Speed Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-11
+			],
+			"anim": "Speed Pose",
+			"fps": 24,
+			"name": "Speed Pose",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Speed Champ",
+	"position": [
+		250,
+		180
+	],
+	"healthicon": "Speed-Champ",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		34
+	],
+	"camera_position": [
+		110,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_blizzard.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Breeze End0000" x="6561" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0001" x="7290" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0002" x="6750" y="3679" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0003" x="7425" y="3679" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0004" x="6015" y="5204" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0005" x="6679" y="5204" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0006" x="0" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0007" x="729" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0008" x="2025" y="4397" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0009" x="2700" y="4397" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0010" x="7343" y="5204" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0011" x="4020" y="5921" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0012" x="1458" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0013" x="2187" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0014" x="3375" y="4397" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0015" x="4050" y="4397" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0016" x="0" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0017" x="664" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0018" x="2916" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0019" x="3645" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0020" x="0" y="4398" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0021" x="675" y="4398" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0022" x="1328" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0023" x="1328" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0024" x="4374" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0025" x="5103" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0026" x="1350" y="4398" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0027" x="1350" y="4398" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0028" x="1992" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze End0029" x="1992" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0000" x="5832" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0001" x="6561" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0002" x="3380" y="2876" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0003" x="4055" y="2876" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0004" x="2656" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0005" x="3320" y="5922" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0006" x="7290" y="1438" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0007" x="0" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0008" x="4730" y="2918" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0009" x="5405" y="2918" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0010" x="4684" y="5968" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0011" x="5348" y="5968" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0012" x="729" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0013" x="1458" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0014" x="6080" y="2918" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0015" x="6755" y="2918" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0016" x="6012" y="5968" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0017" x="6676" y="5968" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0018" x="2187" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0019" x="2916" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0020" x="7430" y="2918" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0021" x="0" y="3637" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0022" x="7340" y="5968" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0023" x="3984" y="6685" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0024" x="3645" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0025" x="4374" y="2157" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0026" x="675" y="3637" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0027" x="1350" y="3637" width="675" height="761" frameX="-21" frameY="-3" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0028" x="0" y="6686" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Breeze0029" x="664" y="6686" width="664" height="764" frameX="-33" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Cheer0000" x="0" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0001" x="0" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0002" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0003" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0004" x="4725" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0005" x="4725" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0006" x="730" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0007" x="730" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0008" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0009" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0010" x="4725" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0011" x="4725" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0012" x="730" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0013" x="730" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0014" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0015" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0016" x="4725" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0017" x="4725" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0018" x="730" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0019" x="730" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Cheer0020" x="5103" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain Sad0000" x="0" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0001" x="0" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0002" x="2025" y="3637" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0003" x="2025" y="3637" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0004" x="4020" y="5157" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0005" x="4020" y="5157" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0006" x="729" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0007" x="1458" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0008" x="2700" y="3637" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0009" x="2700" y="3637" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0010" x="0" y="5158" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0011" x="0" y="5158" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0012" x="2187" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0013" x="2916" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0014" x="3375" y="3637" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0015" x="4050" y="3637" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0016" x="665" y="5158" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0017" x="1330" y="5158" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0018" x="3645" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0019" x="4374" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0020" x="4725" y="3679" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0021" x="5400" y="3679" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0022" x="4685" y="5204" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0023" x="4685" y="5204" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0024" x="5103" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0025" x="5832" y="719" width="729" height="719" frameX="0" frameY="-45" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0026" x="6075" y="3679" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0027" x="6075" y="3679" width="675" height="760" frameX="-21" frameY="-4" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0028" x="5350" y="5204" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain Sad0029" x="5350" y="5204" width="665" height="764" frameX="-32" frameY="0" frameWidth="729" frameHeight="764"/>
+	<SubTexture name="Fountain0000" x="1460" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0001" x="1460" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0002" x="5779" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0003" x="6455" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0004" x="5390" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0005" x="6055" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0006" x="2190" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0007" x="2920" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0008" x="7131" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0009" x="7131" y="2157" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0010" x="6720" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0011" x="6720" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0012" x="3650" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0013" x="4380" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0014" x="0" y="2876" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0015" x="676" y="2876" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0016" x="7385" y="4439" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0017" x="2025" y="5157" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0018" x="5110" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0019" x="5840" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0020" x="1352" y="2876" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0021" x="2028" y="2876" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0022" x="2690" y="5157" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0023" x="2690" y="5157" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0024" x="6570" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0025" x="7300" y="0" width="730" height="719" frameX="0" frameY="-46" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0026" x="2704" y="2876" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0027" x="2704" y="2876" width="676" height="761" frameX="-21" frameY="-4" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0028" x="3355" y="5157" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+	<SubTexture name="Fountain0029" x="3355" y="5157" width="665" height="765" frameX="-33" frameY="0" frameWidth="730" frameHeight="765"/>
+</TextureAtlas>

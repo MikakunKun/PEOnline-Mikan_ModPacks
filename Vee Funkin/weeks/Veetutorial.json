@@ -1,0 +1,26 @@
+{
+	"storyName": "Photosynthesis Moment",
+	"difficulties": "normal,hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Foliage",
+			"Leafeon",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Tutorial",
+		"",
+		""
+	],
+	"weekName": "Tutorial"
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leafeon Ocean.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Leafeon Idle wortor0000" x="28" y="28" width="443" height="624" pivotX="-362.55" pivotY="-64.25" frameX="0" frameY="-3" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0001" x="28" y="28" width="443" height="624" frameX="0" frameY="-3" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0002" x="490" y="28" width="444" height="624" frameX="-2" frameY="-1" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0003" x="490" y="28" width="444" height="624" frameX="-2" frameY="-1" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0004" x="953" y="28" width="468" height="624" frameX="-3" frameY="0" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0005" x="953" y="28" width="468" height="624" frameX="-3" frameY="0" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0006" x="1440" y="28" width="491" height="609" frameX="-1" frameY="-14" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0007" x="1440" y="28" width="491" height="609" frameX="-1" frameY="-14" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0008" x="1950" y="28" width="493" height="608" frameX="-1" frameY="-15" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0009" x="1950" y="28" width="493" height="608" frameX="-1" frameY="-15" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0010" x="2462" y="28" width="495" height="607" frameX="0" frameY="-16" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0011" x="2462" y="28" width="495" height="607" frameX="0" frameY="-16" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0012" x="2462" y="28" width="495" height="607" frameX="0" frameY="-16" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0013" x="2976" y="28" width="495" height="607" frameX="0" frameY="-16" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0014" x="3490" y="28" width="493" height="607" frameX="-2" frameY="-16" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0015" x="28" y="671" width="525" height="605" frameX="-2" frameY="-21" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0016" x="572" y="671" width="524" height="605" frameX="-3" frameY="-21" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0017" x="1115" y="671" width="522" height="601" frameX="-3" frameY="-23" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0018" x="1656" y="671" width="524" height="601" frameX="-1" frameY="-23" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0019" x="2199" y="671" width="504" height="593" frameX="-1" frameY="-30" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0020" x="2722" y="671" width="504" height="593" frameX="-1" frameY="-30" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0021" x="3245" y="671" width="495" height="607" frameX="-1" frameY="-17" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0022" x="28" y="1297" width="496" height="607" frameX="0" frameY="-17" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0023" x="543" y="1297" width="491" height="611" frameX="0" frameY="-13" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0024" x="543" y="1297" width="491" height="611" frameX="0" frameY="-13" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0025" x="1053" y="1297" width="490" height="613" frameX="0" frameY="-11" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0026" x="1562" y="1297" width="488" height="613" frameX="-2" frameY="-11" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0027" x="1562" y="1297" width="488" height="613" frameX="-2" frameY="-11" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0028" x="2069" y="1297" width="487" height="613" frameX="-3" frameY="-11" frameWidth="527" frameHeight="627"/>
+	<SubTexture name="Leafeon Idle wortor0029" x="2069" y="1297" width="487" height="613" frameX="-3" frameY="-11" frameWidth="527" frameHeight="627"/>
+</TextureAtlas>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SquidDogPL.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SquidDogIdle instance 10000" x="2472" y="1056" width="816" height="931" frameX="0" frameY="-37" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10001" x="2472" y="1056" width="816" height="931" frameX="0" frameY="-37" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10002" x="1656" y="996" width="800" height="950" frameX="-15" frameY="-18" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10003" x="1656" y="996" width="800" height="950" frameX="-15" frameY="-18" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10004" x="0" y="1058" width="790" height="954" frameX="-20" frameY="-14" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10005" x="0" y="1058" width="790" height="954" frameX="-20" frameY="-14" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10006" x="1629" y="1962" width="782" height="961" frameX="-24" frameY="-7" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10007" x="1629" y="1962" width="782" height="961" frameX="-24" frameY="-7" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10008" x="832" y="1043" width="781" height="968" frameX="-24" frameY="0" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10009" x="832" y="1043" width="781" height="968" frameX="-24" frameY="0" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10010" x="832" y="1043" width="781" height="968" frameX="-24" frameY="0" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10011" x="832" y="1043" width="781" height="968" frameX="-24" frameY="0" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10012" x="2427" y="2003" width="781" height="961" frameX="-24" frameY="-7" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10013" x="2427" y="2003" width="781" height="961" frameX="-24" frameY="-7" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10014" x="2427" y="2003" width="781" height="961" frameX="-24" frameY="-7" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogIdle instance 10015" x="2427" y="2003" width="781" height="961" frameX="-24" frameY="-7" frameWidth="816" frameHeight="968"/>
+	<SubTexture name="SquidDogSingDown instance 10000" x="3257" y="0" width="733" height="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10001" x="3257" y="0" width="733" height="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10002" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10003" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10004" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10005" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10006" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10007" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10008" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10009" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10010" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10011" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10012" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10013" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10014" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10015" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10016" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10017" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10018" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10019" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10020" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10021" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10022" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10023" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10024" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10025" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10026" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10027" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10028" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10029" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10030" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10031" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10032" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10033" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10034" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10035" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10036" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10037" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10038" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10039" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10040" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10041" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10042" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10043" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10044" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10045" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10046" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10047" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10048" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10049" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10050" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10051" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10052" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10053" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10054" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10055" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10056" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10057" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10058" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10059" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10060" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10061" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10062" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingDown instance 10063" x="0" y="2028" width="710" height="987" frameX="-9" frameY="-45" frameWidth="733" frameHeight="1040"/>
+	<SubTexture name="SquidDogSingLeft instance 10000" x="832" y="0" width="808" height="1027" frameX="-11" frameY="-15" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10001" x="832" y="0" width="808" height="1027" frameX="-11" frameY="-15" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10002" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10003" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10004" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10005" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10006" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10007" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10008" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10009" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10010" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10011" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10012" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10013" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10014" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10015" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10016" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10017" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10018" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10019" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10020" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10021" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10022" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10023" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10024" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10025" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10026" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10027" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10028" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10029" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10030" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10031" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10032" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10033" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10034" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10035" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10036" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10037" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10038" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10039" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10040" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10041" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10042" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10043" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10044" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10045" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10046" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingLeft instance 10047" x="0" y="0" width="816" height="1042" frameX="0" frameY="0" frameWidth="819" frameHeight="1042"/>
+	<SubTexture name="SquidDogSingRight instance 10000" x="806" y="2027" width="730" height="960" frameX="-6" frameY="-12" frameWidth="787" frameHeight="972"/>
+	<SubTexture name="SquidDogSingRight instance 10001" x="806" y="2027" width="730" height="960" frameX="-6" frameY="-12" frameWidth="787" frameHeight="972"/>
+	<SubTexture name="SquidDogSingRight instance 10002" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10003" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10004" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10005" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10006" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10007" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10008" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10009" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10010" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10011" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10012" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10013" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10014" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10015" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10016" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10017" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10018" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10019" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10020" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10021" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10022" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10023" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10024" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10025" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10026" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingRight instance 10027" x="2454" y="0" width="787" height="972"/>
+	<SubTexture name="SquidDogSingUp instance 10000" x="3304" y="1056" width="746" height="997" frameX="-9" frameY="0" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10001" x="3304" y="1056" width="746" height="997" frameX="-9" frameY="0" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10002" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10003" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10004" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10005" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10006" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10007" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10008" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10009" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10010" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10011" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10012" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10013" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10014" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10015" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10016" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10017" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10018" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10019" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10020" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10021" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10022" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10023" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10024" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10025" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10026" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10027" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10028" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10029" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10030" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10031" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10032" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10033" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10034" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10035" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10036" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10037" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10038" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10039" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10040" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10041" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10042" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10043" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10044" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10045" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10046" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+	<SubTexture name="SquidDogSingUp instance 10047" x="1656" y="0" width="782" height="980" frameX="0" frameY="-17" frameWidth="782" frameHeight="997"/>
+</TextureAtlas>

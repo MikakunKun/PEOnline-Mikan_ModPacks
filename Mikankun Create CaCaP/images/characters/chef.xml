@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chef.png">
+<SubTexture name="chef alt-down0000" x="2552" y="1902" width="409" height="790" frameX="-380" frameY="-249" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-down0001" x="2552" y="1902" width="409" height="790" frameX="-380" frameY="-249" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-down0002" x="1372" y="1902" width="413" height="821" frameX="-376" frameY="-216" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-down0003" x="1372" y="1902" width="413" height="821" frameX="-376" frameY="-216" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-up0000" x="1398" y="0" width="563" height="933" frameX="-246" frameY="-81" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-up0001" x="1398" y="0" width="563" height="933" frameX="-246" frameY="-81" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-up0002" x="416" y="973" width="545" height="922" frameX="-278" frameY="-92" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef alt-up0003" x="416" y="973" width="545" height="922" frameX="-278" frameY="-92" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef down0000" x="726" y="1902" width="646" height="836" frameX="-490" frameY="-213" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef down0001" x="726" y="1902" width="646" height="836" frameX="-490" frameY="-213" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef down0002" x="2707" y="882" width="651" height="870" frameX="-445" frameY="-183" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef down0003" x="2707" y="882" width="651" height="870" frameX="-445" frameY="-183" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef idle0000" x="961" y="973" width="440" height="917" frameX="-366" frameY="-264" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef idle0001" x="1961" y="895" width="440" height="862" frameX="-402" frameY="-319" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef idle0002" x="1401" y="973" width="436" height="910" frameX="-386" frameY="-271" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef idle0003" x="0" y="973" width="416" height="929" frameX="-380" frameY="-252" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef idle0004" x="499" y="0" width="403" height="947" frameX="-369" frameY="-233" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef left0000" x="0" y="1902" width="726" height="844" frameX="0" frameY="-195" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef left0001" x="0" y="1902" width="726" height="844" frameX="0" frameY="-195" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef left0002" x="1961" y="0" width="746" height="895" frameX="-56" frameY="-143" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef left0003" x="1961" y="0" width="746" height="895" frameX="-56" frameY="-143" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef right0000" x="1785" y="1902" width="767" height="805" frameX="-444" frameY="-150" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef right0001" x="1785" y="1902" width="767" height="805" frameX="-444" frameY="-150" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef right0002" x="2707" y="0" width="822" height="882" frameX="-279" frameY="-80" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef right0003" x="2707" y="0" width="822" height="882" frameX="-279" frameY="-80" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef up0000" x="0" y="0" width="499" height="973" frameX="-283" frameY="-22" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef up0001" x="0" y="0" width="499" height="973" frameX="-283" frameY="-22" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef up0002" x="902" y="0" width="496" height="939" frameX="-290" frameY="-57" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="chef up0003" x="902" y="0" width="496" height="939" frameX="-290" frameY="-57" frameWidth="1300" frameHeight="1300" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Patirisu_BF",
+	"position": [
+		245,
+		185
+	],
+	"scale": 0.4,
+	"idle_anim": "BF idle",
+	"confirm_anim": "BF hey"
+}

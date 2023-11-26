@@ -1,0 +1,7 @@
+cassette girl lights
+
+value1 = bf or dad
+
+value2 = on // off
+
+both can be on in the same time via 2 events

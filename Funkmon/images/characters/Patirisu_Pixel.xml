@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Patirisu_Pixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle0000" x="0" y="0" width="60" height="60"/>
+	<SubTexture name="BF idle0001" x="0" y="0" width="60" height="60"/>
+	<SubTexture name="BF idle0002" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="BF idle0003" x="60" y="0" width="60" height="60"/>
+	<SubTexture name="BF idle0004" x="120" y="0" width="60" height="60"/>
+	<SubTexture name="BF up0000" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="BF up0001" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="BF up0002" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="BF up0003" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="BF up0004" x="60" y="60" width="60" height="60"/>
+	<SubTexture name="BF down0000" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="BF down0001" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="BF down0002" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="BF down0003" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="BF down0004" x="60" y="120" width="60" height="60"/>
+	<SubTexture name="BF right0000" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="BF right0001" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="BF right0002" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="BF right0003" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="BF right0004" x="60" y="180" width="60" height="60"/>
+	<SubTexture name="BF left0000" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="BF left0001" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="BF left0002" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="BF left0003" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="BF left0004" x="60" y="240" width="60" height="60"/>
+	<SubTexture name="BF upmiss0000" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="BF upmiss0001" x="0" y="60" width="60" height="60"/>
+	<SubTexture name="BF upmiss0002" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="BF upmiss0003" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="BF upmiss0004" x="120" y="60" width="60" height="60"/>
+	<SubTexture name="BF downmiss0000" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="BF downmiss0001" x="0" y="120" width="60" height="60"/>
+	<SubTexture name="BF downmiss0002" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="BF downmiss0003" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="BF downmiss0004" x="120" y="120" width="60" height="60"/>
+	<SubTexture name="BF rightmiss0000" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="BF rightmiss0001" x="0" y="180" width="60" height="60"/>
+	<SubTexture name="BF rightmiss0002" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="BF rightmiss0003" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="BF rightmiss0004" x="120" y="180" width="60" height="60"/>
+	<SubTexture name="BF leftmiss0000" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="BF leftmiss0001" x="0" y="240" width="60" height="60"/>
+	<SubTexture name="BF leftmiss0002" x="120" y="240" width="60" height="60"/>
+	<SubTexture name="BF leftmiss0003" x="120" y="240" width="60" height="60"/>
+	<SubTexture name="BF leftmiss0004" x="120" y="240" width="60" height="60"/>
+
+</TextureAtlas>

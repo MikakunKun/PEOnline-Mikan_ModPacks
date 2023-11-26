@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				50
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "biolu idle"
+		},
+		{
+			"offsets": [
+				35,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "biolu left"
+		},
+		{
+			"offsets": [
+				-63,
+				61
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "biolu right"
+		},
+		{
+			"offsets": [
+				10,
+				51
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "biolu down"
+		},
+		{
+			"offsets": [
+				24,
+				44
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "biolu up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/biolu",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "biolu",
+	"flip_x": true,
+	"healthbar_colors": [
+		81,
+		154,
+		255
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

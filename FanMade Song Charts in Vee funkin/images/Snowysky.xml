@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Snowysky.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Snowysky0000" x="0" y="0" width="2933" height="1483" pivotX="895.5" pivotY="943"/>
+</TextureAtlas>

@@ -1,0 +1,34 @@
+{
+	"characters": [
+		{
+			"name": "custom-bf-chirstmas",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "flipX-swampert",
+			"positionArray": [-400,20]
+		},
+		{
+			"name": "flipX-gardevoir",
+			"positionArray": [-600,140]
+		},
+		{
+			"name": "normal-eevee",
+			"positionArray": [-800,160]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "custom-bf",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

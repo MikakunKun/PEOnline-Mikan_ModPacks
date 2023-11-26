@@ -1,0 +1,218 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Vaporeon Swim Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Vaporeon Swim Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Vaporeon Swim Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Vaporeon Swim Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Vaporeon Swim Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Vaporeon Swim Right-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-30
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Vaporeon Swim Left-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-170
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Vaporeon Swim Down-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				170
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Vaporeon Swim Up-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Vaporeon swimmin",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "Vaporeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		166,
+		209
+	],
+	"camera_position": [
+		0,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

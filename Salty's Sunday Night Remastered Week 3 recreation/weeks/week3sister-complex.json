@@ -1,0 +1,44 @@
+{
+	"storyName": "Sister Complex",
+	"difficulties":"Salt",
+	"hideFreeplay": false,
+	"weekBackground": "story3",
+	"weekBefore": "week2sweet-n'-sour",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Arrest",
+			"connor",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Indictment",
+			"connor",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Detained",
+			"connor",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "connor"
+}

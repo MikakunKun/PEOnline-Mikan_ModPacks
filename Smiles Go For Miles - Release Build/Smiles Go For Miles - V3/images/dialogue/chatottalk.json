@@ -1,0 +1,77 @@
+{
+	"position": [
+		150,
+		100
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "chatot portrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "chatot portrait talk",
+			"loop_name": ""
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "chatot portrait shocked",
+			"loop_name": "chatot portrait shocked"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				2
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "chatot portrait confused",
+			"idle_name": "chatot portrait confused"
+		}
+	]
+}

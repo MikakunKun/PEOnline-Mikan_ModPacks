@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TigerSharkIdle"
+		},
+		{
+			"offsets": [
+				-20,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TigerSharkLEFT"
+		},
+		{
+			"offsets": [
+				-20,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TigerSharkDOWN"
+		},
+		{
+			"offsets": [
+				-46,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TigerSharkUP"
+		},
+		{
+			"offsets": [
+				-30,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TigerSharkRIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TigerShark",
+	"position": [
+		-220,
+		-220
+	],
+	"healthicon": "tigershark",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		150,
+		150
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

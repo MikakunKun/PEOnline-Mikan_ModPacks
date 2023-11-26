@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flareon.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flareon Down0000" x="12" y="12" width="467" height="535" pivotX="-359.85" pivotY="209.2" frameX="0" frameY="-10" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0001" x="500" y="12" width="467" height="535" frameX="0" frameY="-10" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0002" x="988" y="12" width="454" height="541" frameX="-17" frameY="-4" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0003" x="1463" y="12" width="447" height="541" frameX="-17" frameY="-4" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0004" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0005" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0006" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0007" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0008" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0009" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0010" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0011" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0012" x="1931" y="12" width="444" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down0013" x="2396" y="12" width="451" height="545" frameX="-20" frameY="0" frameWidth="471" frameHeight="545"/>
+	<SubTexture name="Flareon Down-alt0000" x="2868" y="12" width="510" height="505" pivotX="-267.25" pivotY="191.95" frameX="-4" frameY="-22" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0001" x="3399" y="12" width="510" height="505" frameX="-4" frameY="-22" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0002" x="3930" y="12" width="498" height="518" frameX="-12" frameY="-9" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0003" x="4449" y="12" width="498" height="518" frameX="-12" frameY="-9" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0004" x="4968" y="12" width="493" height="525" frameX="-6" frameY="-2" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0005" x="4968" y="12" width="493" height="525" frameX="-6" frameY="-2" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0006" x="5482" y="12" width="480" height="527" frameX="-3" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0007" x="5482" y="12" width="480" height="527" frameX="-3" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0008" x="5983" y="12" width="478" height="527" frameX="-1" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0009" x="5983" y="12" width="478" height="527" frameX="-1" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0010" x="6482" y="12" width="479" height="527" frameX="0" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0011" x="6482" y="12" width="479" height="527" frameX="0" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0012" x="6482" y="12" width="479" height="527" frameX="0" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Down-alt0013" x="6482" y="12" width="479" height="527" frameX="0" frameY="0" frameWidth="514" frameHeight="527"/>
+	<SubTexture name="Flareon Idle0000" x="6982" y="12" width="519" height="606" pivotX="-227.3" pivotY="296.15" frameX="0" frameY="-30" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0001" x="6982" y="12" width="519" height="606" frameX="0" frameY="-30" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0002" x="7522" y="12" width="514" height="601" frameX="-4" frameY="-34" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0003" x="7522" y="12" width="514" height="601" frameX="-4" frameY="-34" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0004" x="12" y="639" width="505" height="610" frameX="-11" frameY="-23" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0005" x="12" y="639" width="505" height="610" frameX="-11" frameY="-23" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0006" x="538" y="639" width="503" height="618" frameX="-12" frameY="-14" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0007" x="538" y="639" width="503" height="618" frameX="-12" frameY="-14" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0008" x="1062" y="639" width="501" height="620" frameX="-13" frameY="-12" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0009" x="1062" y="639" width="501" height="620" frameX="-13" frameY="-12" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0010" x="1584" y="639" width="501" height="623" frameX="-13" frameY="-9" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0011" x="1584" y="639" width="501" height="623" frameX="-13" frameY="-9" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0012" x="1584" y="639" width="501" height="623" frameX="-13" frameY="-9" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0013" x="1584" y="639" width="501" height="623" frameX="-13" frameY="-9" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0014" x="1584" y="639" width="501" height="623" frameX="-13" frameY="-9" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0015" x="2106" y="639" width="487" height="629" frameX="-22" frameY="0" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0016" x="2106" y="639" width="487" height="629" frameX="-22" frameY="0" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0017" x="2614" y="639" width="494" height="625" frameX="-17" frameY="-6" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0018" x="2614" y="639" width="494" height="625" frameX="-17" frameY="-6" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0019" x="3129" y="639" width="496" height="624" frameX="-17" frameY="-8" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0020" x="3129" y="639" width="496" height="624" frameX="-17" frameY="-8" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0021" x="3646" y="639" width="503" height="622" frameX="-11" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0022" x="3646" y="639" width="503" height="622" frameX="-11" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0023" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0024" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0025" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0026" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0027" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0028" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Idle0029" x="4170" y="639" width="505" height="622" frameX="-9" frameY="-10" frameWidth="519" frameHeight="636"/>
+	<SubTexture name="Flareon Left0000" x="4696" y="639" width="495" height="622" pivotX="-339.3" pivotY="285.75"/>
+	<SubTexture name="Flareon Left0001" x="5212" y="639" width="495" height="622"/>
+	<SubTexture name="Flareon Left0002" x="5728" y="639" width="480" height="614" frameX="-2" frameY="-8" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0003" x="6229" y="639" width="480" height="614" frameX="-2" frameY="-8" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0004" x="6730" y="639" width="470" height="613" frameX="-3" frameY="-9" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0005" x="6730" y="639" width="470" height="613" frameX="-3" frameY="-9" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0006" x="7221" y="639" width="470" height="607" frameX="-3" frameY="-15" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0007" x="7221" y="639" width="470" height="607" frameX="-3" frameY="-15" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0008" x="12" y="1289" width="470" height="609" frameX="-3" frameY="-13" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0009" x="12" y="1289" width="470" height="609" frameX="-3" frameY="-13" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0010" x="12" y="1289" width="470" height="609" frameX="-3" frameY="-13" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0011" x="12" y="1289" width="470" height="609" frameX="-3" frameY="-13" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0012" x="12" y="1289" width="470" height="609" frameX="-3" frameY="-13" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left0013" x="12" y="1289" width="470" height="609" frameX="-3" frameY="-13" frameWidth="495" frameHeight="622"/>
+	<SubTexture name="Flareon Left-alt0000" x="503" y="1289" width="560" height="612" pivotX="-221.05" pivotY="282.5" frameX="0" frameY="-4" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0001" x="503" y="1289" width="560" height="612" frameX="0" frameY="-4" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0002" x="1084" y="1289" width="557" height="611" frameX="-5" frameY="-7" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0003" x="1084" y="1289" width="557" height="611" frameX="-5" frameY="-7" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0004" x="1662" y="1289" width="553" height="613" frameX="-11" frameY="-2" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0005" x="1662" y="1289" width="553" height="613" frameX="-11" frameY="-2" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0006" x="2236" y="1289" width="550" height="615" frameX="-16" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0007" x="2236" y="1289" width="550" height="615" frameX="-16" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0008" x="2807" y="1289" width="548" height="615" frameX="-19" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0009" x="2807" y="1289" width="548" height="615" frameX="-19" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0010" x="2807" y="1289" width="548" height="615" frameX="-19" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0011" x="2807" y="1289" width="548" height="615" frameX="-19" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0012" x="2807" y="1289" width="548" height="615" frameX="-19" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Left-alt0013" x="2807" y="1289" width="548" height="615" frameX="-19" frameY="0" frameWidth="567" frameHeight="618"/>
+	<SubTexture name="Flareon Mid0000" x="3376" y="1289" width="754" height="816" pivotX="-190.05" pivotY="394.6"/>
+	<SubTexture name="Flareon Mid0001" x="3376" y="1289" width="754" height="816"/>
+	<SubTexture name="Flareon Mid0002" x="4151" y="1289" width="754" height="816"/>
+	<SubTexture name="Flareon Mid0003" x="4151" y="1289" width="754" height="816"/>
+	<SubTexture name="Flareon Mid0004" x="4926" y="1289" width="478" height="628" frameX="-74" frameY="-102" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0005" x="4926" y="1289" width="478" height="628" frameX="-74" frameY="-102" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0006" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0007" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0008" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0009" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0010" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0011" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0012" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Mid0013" x="5425" y="1289" width="474" height="632" frameX="-76" frameY="-98" frameWidth="754" frameHeight="816"/>
+	<SubTexture name="Flareon Right0000" x="5920" y="1289" width="584" height="618" pivotX="-235.25" pivotY="288.45" frameX="-3" frameY="0" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0001" x="5920" y="1289" width="584" height="618" frameX="-3" frameY="0" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0002" x="6525" y="1289" width="554" height="617" frameX="0" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0003" x="6525" y="1289" width="554" height="617" frameX="0" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0004" x="7100" y="1289" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0005" x="7100" y="1289" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0006" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0007" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0008" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0009" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0010" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0011" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0012" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right0013" x="12" y="2126" width="546" height="617" frameX="-3" frameY="-2" frameWidth="587" frameHeight="619"/>
+	<SubTexture name="Flareon Right-alt0000" x="579" y="2126" width="532" height="627" pivotX="-294.35" pivotY="297.35" frameX="-32" frameY="0" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0001" x="579" y="2126" width="532" height="627" frameX="-32" frameY="0" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0002" x="1132" y="2126" width="525" height="621" frameX="-38" frameY="-6" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0003" x="1132" y="2126" width="525" height="621" frameX="-38" frameY="-6" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0004" x="1678" y="2126" width="535" height="620" frameX="-20" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0005" x="1678" y="2126" width="535" height="620" frameX="-20" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0006" x="2234" y="2126" width="538" height="617" frameX="-2" frameY="-10" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0007" x="2234" y="2126" width="538" height="617" frameX="-2" frameY="-10" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0008" x="2793" y="2126" width="540" height="620" frameX="0" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0009" x="2793" y="2126" width="540" height="620" frameX="0" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0010" x="2793" y="2126" width="540" height="620" frameX="0" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0011" x="2793" y="2126" width="540" height="620" frameX="0" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0012" x="2793" y="2126" width="540" height="620" frameX="0" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Right-alt0013" x="2793" y="2126" width="540" height="620" frameX="0" frameY="-7" frameWidth="564" frameHeight="627"/>
+	<SubTexture name="Flareon Up0000" x="3354" y="2126" width="461" height="653" pivotX="-384.65" pivotY="323"/>
+	<SubTexture name="Flareon Up0001" x="3836" y="2126" width="461" height="653"/>
+	<SubTexture name="Flareon Up0002" x="4318" y="2126" width="453" height="645" frameX="0" frameY="-8" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0003" x="4318" y="2126" width="453" height="645" frameX="0" frameY="-8" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0004" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0005" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0006" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0007" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0008" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0009" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0010" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0011" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0012" x="4792" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up0013" x="5257" y="2126" width="444" height="643" frameX="-1" frameY="-10" frameWidth="461" frameHeight="653"/>
+	<SubTexture name="Flareon Up-alt0000" x="5722" y="2126" width="463" height="657" pivotX="-249.05" pivotY="336.7" frameX="-7" frameY="0" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0001" x="5722" y="2126" width="463" height="657" frameX="-7" frameY="0" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0002" x="6206" y="2126" width="474" height="631" frameX="-2" frameY="-26" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0003" x="6206" y="2126" width="474" height="631" frameX="-2" frameY="-26" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0004" x="6701" y="2126" width="489" height="611" frameX="-3" frameY="-46" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0005" x="6701" y="2126" width="489" height="611" frameX="-3" frameY="-46" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0006" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0007" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0008" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0009" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0010" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0011" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0012" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+	<SubTexture name="Flareon Up-alt0013" x="7211" y="2126" width="489" height="607" frameX="-4" frameY="-50" frameWidth="493" frameHeight="657"/>
+</TextureAtlas>

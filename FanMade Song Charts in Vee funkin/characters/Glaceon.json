@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				130
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Glec Idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				130
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Glec Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				164
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Glec Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Glec Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				104
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Glec Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Glec Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				163
+			],
+			"anim": "Glec Waitin",
+			"fps": 24,
+			"name": "Glec Waitin",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Glaceon",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "Glec",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		110,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

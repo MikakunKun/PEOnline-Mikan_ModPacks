@@ -1,0 +1,22 @@
+{
+	"healthicon": "tigershark",
+	"camera_position": [
+		0,
+		0
+	],
+	"healthbar_colors": [
+		150,
+		150,
+		150
+	],
+    "characters": [
+        {
+            "name": "tigershark",
+            "positionArray": [-100,0]
+        },
+        {
+            "name": "snep",
+            "positionArray": [200,20]
+        }
+    ]
+}

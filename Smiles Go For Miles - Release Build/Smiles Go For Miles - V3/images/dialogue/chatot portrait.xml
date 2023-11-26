@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chatot portrait.png">
+<SubTexture name="chatot portrait talk0000" x="0" y="0" width="273" height="273" frameX="0" frameY="-11" frameWidth="273" frameHeight="284" />
+<SubTexture name="chatot portrait shocked0000" x="273" y="0" width="273" height="273" frameX="0" frameY="-11" frameWidth="273" frameHeight="284" />
+<SubTexture name="chatot portrait confused0000" x="0" y="273" width="273" height="273" frameX="0" frameY="-11" frameWidth="273" frameHeight="284" />
+</TextureAtlas>

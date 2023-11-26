@@ -1,0 +1,33 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "monkey",
+            "expression": "normal",
+            "text": "..."
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "..."
+        },
+        {
+            "portrait": "monkey-s",
+            "expression": "mad",
+            "text": "HOO",
+            "boxState": "yell",
+            "scale": 1.4
+        },
+        {
+            "portrait": "hat-steal",
+            "expression": "normal",
+            "text": "..."           
+        },
+        {
+            "portrait": "bf-n",
+            "expression": "normal",
+            "text": "KOH!"       
+        }
+    ]
+}

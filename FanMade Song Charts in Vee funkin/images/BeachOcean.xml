@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BeachOcean.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BeachOcean0000" x="14" y="14" width="3656" height="735" pivotX="1363.2" pivotY="-11.75"/>
+	<SubTexture name="BeachOcean0001" x="14" y="14" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0002" x="14" y="14" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0003" x="14" y="14" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0004" x="14" y="768" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0005" x="14" y="768" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0006" x="14" y="768" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0007" x="14" y="768" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0008" x="14" y="1522" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0009" x="14" y="1522" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0010" x="14" y="1522" width="3656" height="735"/>
+	<SubTexture name="BeachOcean0011" x="14" y="1522" width="3656" height="735"/>
+</TextureAtlas>

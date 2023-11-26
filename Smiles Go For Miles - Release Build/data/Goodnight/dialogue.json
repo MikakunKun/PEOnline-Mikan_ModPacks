@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "Well, that was a bust... we couldn't find her anywhere.",
+			"boxState": "normal",
+			"portrait": "pikachu left",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "sad",
+			"text": ":(",
+			"boxState": "normal",
+			"portrait": "biolu",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "thinking",
+			"text": "You're absolutely sure you don't remember anything about her? No clues or anything?",
+			"boxState": "normal",
+			"portrait": "pikachu left",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "thinking",
+			"text": "Bep skap bop bibodiby",
+			"boxState": "normal",
+			"portrait": "biolu",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "thinking",
+			"text": "I'm sorry, I don't think \"she's pretty and I love her\" will help us much right now.",
+			"boxState": "normal",
+			"portrait": "pikachu left",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "sad",
+			"text": ":(",
+			"boxState": "normal",
+			"portrait": "biolu",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "talk",
+			"text": "At least we have the help of the guild now! Now they can also keep an eye out for her while we all work.",
+			"boxState": "normal",
+			"portrait": "pikachu left",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "talk",
+			"text": "Things will get better soon. I'm sure of it.",
+			"boxState": "normal",
+			"portrait": "pikachu left",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "thinking",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "biolu",
+			"speed": 0.5,
+			"sound": "talk"
+		},
+		{
+			"expression": "happy",
+			"text": "!",
+			"boxState": "normal",
+			"portrait": "biolu",
+			"speed": 0.05,
+			"sound": "talkyeah"
+		},
+		{
+			"expression": "talk",
+			"text": "That's the spirit! I'm getting tired, we should head to bed. Goodnight, Boyfriend.",
+			"boxState": "normal",
+			"portrait": "pikachu left",
+			"speed": 0.05,
+			"sound": "talk"
+		},
+		{
+			"expression": "talk",
+			"text": "Gn",
+			"boxState": "normal",
+			"portrait": "biolu",
+			"speed": 0.05,
+			"sound": "talk"
+		}
+	]
+}

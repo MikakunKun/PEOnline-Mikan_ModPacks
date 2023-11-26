@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kawaii-shork.png">
+<SubTexture name="kawaii-shork down0000" x="1255" y="1569" width="647" height="752" frameX="-140" frameY="-310" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork down0001" x="1255" y="1569" width="647" height="752" frameX="-140" frameY="-310" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork down0002" x="0" y="810" width="629" height="759" frameX="-140" frameY="-302" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork down0003" x="0" y="810" width="629" height="759" frameX="-140" frameY="-302" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork idle0000" x="0" y="1569" width="611" height="755" frameX="-166" frameY="-307" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork idle0001" x="2376" y="0" width="644" height="752" frameX="-146" frameY="-310" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork idle0002" x="611" y="1569" width="644" height="755" frameX="-137" frameY="-307" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork idle0003" x="629" y="810" width="625" height="757" frameX="-144" frameY="-304" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork idle0004" x="1162" y="0" width="605" height="768" frameX="-151" frameY="-293" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork left0000" x="1767" y="0" width="609" height="757" frameX="-111" frameY="-297" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork left0001" x="1767" y="0" width="609" height="757" frameX="-111" frameY="-297" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork left0002" x="1767" y="757" width="583" height="756" frameX="-151" frameY="-302" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork left0003" x="1767" y="757" width="583" height="756" frameX="-151" frameY="-302" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork right0000" x="0" y="2324" width="672" height="742" frameX="-218" frameY="-320" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork right0001" x="0" y="2324" width="672" height="742" frameX="-218" frameY="-320" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork right0002" x="3020" y="0" width="666" height="750" frameX="-201" frameY="-312" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork right0003" x="3020" y="0" width="666" height="750" frameX="-201" frameY="-312" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork up0000" x="0" y="0" width="565" height="810" frameX="-192" frameY="-250" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork up0001" x="0" y="0" width="565" height="810" frameX="-192" frameY="-250" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork up0002" x="565" y="0" width="597" height="792" frameX="-160" frameY="-269" frameWidth="1300" frameHeight="1300" />
+<SubTexture name="kawaii-shork up0003" x="565" y="0" width="597" height="792" frameX="-160" frameY="-269" frameWidth="1300" frameHeight="1300" />
+</TextureAtlas>

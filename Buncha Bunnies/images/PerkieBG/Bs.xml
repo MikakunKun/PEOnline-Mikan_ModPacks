@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bs.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bs0000" x="25" y="25" width="257" height="165" frameX="0" frameY="-12" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0001" x="25" y="25" width="257" height="165" frameX="0" frameY="-12" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0002" x="307" y="25" width="259" height="155" frameX="-1" frameY="-10" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0003" x="307" y="25" width="259" height="155" frameX="-1" frameY="-10" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0004" x="591" y="25" width="256" height="163" frameX="0" frameY="-5" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0005" x="591" y="25" width="256" height="163" frameX="0" frameY="-5" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0006" x="25" y="215" width="258" height="155" frameX="0" frameY="-2" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0007" x="25" y="215" width="258" height="155" frameX="0" frameY="-2" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0008" x="308" y="215" width="257" height="169" frameX="0" frameY="0" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0009" x="308" y="215" width="257" height="169" frameX="0" frameY="0" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0010" x="590" y="215" width="260" height="161" frameX="0" frameY="0" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0011" x="25" y="409" width="260" height="161" frameX="0" frameY="-2" frameWidth="260" frameHeight="177"/>
+	<SubTexture name="Bs0012" x="310" y="409" width="256" height="157" frameX="0" frameY="-2" frameWidth="260" frameHeight="177"/>
+</TextureAtlas>

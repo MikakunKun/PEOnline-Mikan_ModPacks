@@ -1,0 +1,7 @@
+{
+	"name": "Mikankun Cover and FanChart and Ports",
+	"description": "Chart and Covers and others",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 100, 0]
+}

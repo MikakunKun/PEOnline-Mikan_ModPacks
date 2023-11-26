@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "partner-pikachu down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				7
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "partner-pikachu up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "partner-pikachu left"
+		},
+		{
+			"offsets": [
+				27,
+				3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "partner-pikachu right"
+		},
+		{
+			"offsets": [
+				55,
+				53
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": false,
+			"name": "partner-pikachu idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/partner-pikachu",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pikachu",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

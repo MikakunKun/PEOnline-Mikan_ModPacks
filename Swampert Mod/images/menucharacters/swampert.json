@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "swampert menu",
+	"position": [
+		250,
+		180
+	],
+	"scale": 0.4,
+	"image": "Menu_swampert"
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leafeon Beach.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Leafeon Idle Beach0000" x="28" y="28" width="513" height="634" pivotX="-45.45" pivotY="299.05" frameX="-174" frameY="-2" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0001" x="28" y="28" width="513" height="634" frameX="-174" frameY="-2" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0002" x="560" y="28" width="510" height="634" frameX="-171" frameY="0" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0003" x="560" y="28" width="510" height="634" frameX="-171" frameY="0" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0004" x="1089" y="28" width="513" height="628" frameX="-145" frameY="-5" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0005" x="1089" y="28" width="513" height="628" frameX="-145" frameY="-5" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0006" x="1621" y="28" width="524" height="605" frameX="-124" frameY="-27" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0007" x="1621" y="28" width="524" height="605" frameX="-124" frameY="-27" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0008" x="2164" y="28" width="524" height="603" frameX="-122" frameY="-29" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0009" x="2164" y="28" width="524" height="603" frameX="-122" frameY="-29" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0010" x="2707" y="28" width="524" height="601" frameX="-121" frameY="-31" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0011" x="2707" y="28" width="524" height="601" frameX="-121" frameY="-31" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0012" x="3250" y="28" width="518" height="601" frameX="-121" frameY="-31" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0013" x="3250" y="28" width="518" height="601" frameX="-121" frameY="-31" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0014" x="28" y="681" width="441" height="601" frameX="-121" frameY="-31" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0015" x="488" y="681" width="487" height="581" frameX="0" frameY="-54" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0016" x="488" y="681" width="487" height="581" frameX="0" frameY="-54" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0017" x="994" y="681" width="491" height="579" frameX="-4" frameY="-54" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0018" x="994" y="681" width="491" height="579" frameX="-4" frameY="-54" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0019" x="1504" y="681" width="482" height="584" frameX="-34" frameY="-48" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0020" x="1504" y="681" width="482" height="584" frameX="-34" frameY="-48" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0021" x="2005" y="681" width="422" height="601" frameX="-102" frameY="-32" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0022" x="2005" y="681" width="422" height="601" frameX="-102" frameY="-32" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0023" x="2446" y="681" width="422" height="606" frameX="-107" frameY="-27" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0024" x="2446" y="681" width="422" height="606" frameX="-107" frameY="-27" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0025" x="2887" y="681" width="420" height="608" frameX="-110" frameY="-25" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0026" x="2887" y="681" width="420" height="608" frameX="-110" frameY="-25" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0027" x="3326" y="681" width="412" height="608" frameX="-118" frameY="-25" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0028" x="3326" y="681" width="412" height="608" frameX="-118" frameY="-25" frameWidth="687" frameHeight="636"/>
+	<SubTexture name="Leafeon Idle Beach0029" x="28" y="1308" width="404" height="608" frameX="-126" frameY="-25" frameWidth="687" frameHeight="636"/>
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				114,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "chef idle"
+		},
+		{
+			"offsets": [
+				84,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chef left"
+		},
+		{
+			"offsets": [
+				104,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chef down"
+		},
+		{
+			"offsets": [
+				64,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chef up"
+		},
+		{
+			"offsets": [
+				124,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chef right"
+		},
+		{
+			"offsets": [
+				76,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "chef alt-down"
+		},
+		{
+			"offsets": [
+				64,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "chef alt-up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chef",
+	"position": [
+		-320,
+		-370
+	],
+	"healthicon": "chef",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		191,
+		0
+	],
+	"camera_position": [
+		-40,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

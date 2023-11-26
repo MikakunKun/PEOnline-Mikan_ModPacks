@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				69,
+				119
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "boywott idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "boywott left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				69,
+				121
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "boywott right"
+		},
+		{
+			"offsets": [
+				89,
+				122
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "boywott down"
+		},
+		{
+			"offsets": [
+				76,
+				122
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "boywott up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boywott",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "boywott",
+	"flip_x": true,
+	"healthbar_colors": [
+		119,
+		206,
+		244
+	],
+	"camera_position": [
+		400,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

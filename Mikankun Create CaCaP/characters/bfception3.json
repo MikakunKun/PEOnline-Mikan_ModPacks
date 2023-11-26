@@ -1,0 +1,27 @@
+{
+	"healthicon": "Ronezkj/bfception3-icons",
+	"camera_position": [-150, -200],
+	"healthbar_colors": [102, 255, 153],
+    "characters": [
+        {
+            "name": "bf",
+            "positionArray": [0,20]
+        },
+        {
+            "name": "b-bf",
+            "positionArray": [-200,40]
+        },
+        {
+            "name": "neo-bf",
+            "positionArray": [-400,60]
+        }, 
+        {
+            "name": "flbf",
+            "positionArray": [-600,80]
+        },
+        {
+            "name": "rsbf",
+            "positionArray": [-800,100]
+        }
+    ]
+}

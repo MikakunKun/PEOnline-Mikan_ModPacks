@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Week1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu 0000" x="0" y="0" width="1290" height="431" pivotX="10.5" pivotY="40.95"/>
+</TextureAtlas>

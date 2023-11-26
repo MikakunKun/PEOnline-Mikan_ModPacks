@@ -1,0 +1,50 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "chatot",
+	"animations": [
+		{
+			"idle_offsets": [
+				-191,
+				-82
+			],
+			"loop_offsets": [
+				-191,
+				-82
+			],
+			"anim": "talk",
+			"idle_name": "chatot talk",
+			"loop_name": "chatot talk"
+		},
+		{
+			"loop_offsets": [
+				-191,
+				-82
+			],
+			"anim": "squwack",
+			"idle_offsets": [
+				-191,
+				-82
+			],
+			"loop_name": "chatot squack",
+			"idle_name": "chatot squack"
+		},
+		{
+			"loop_offsets": [
+				-190,
+				-83
+			],
+			"anim": "thinking",
+			"idle_offsets": [
+				-190,
+				-83
+			],
+			"loop_name": "chatot thinking",
+			"idle_name": "chatot thinking"
+		}
+	]
+}

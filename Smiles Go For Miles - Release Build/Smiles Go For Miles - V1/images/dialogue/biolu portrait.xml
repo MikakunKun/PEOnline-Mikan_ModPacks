@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="biolu portrait.png">
+<SubTexture name="biolu portrait talk0000" x="0" y="0" width="273" height="279" frameX="0" frameY="-5" frameWidth="273" frameHeight="284" />
+<SubTexture name="biolu portrait talk0001" x="273" y="0" width="273" height="279" frameX="0" frameY="-5" frameWidth="273" frameHeight="284" />
+<SubTexture name="biolu portrait talk0002" x="546" y="0" width="273" height="279" frameX="0" frameY="-5" frameWidth="273" frameHeight="284" />
+<SubTexture name="biolu portrait talk done0000" x="546" y="0" width="273" height="279" frameX="0" frameY="-5" frameWidth="273" frameHeight="284" />
+</TextureAtlas>

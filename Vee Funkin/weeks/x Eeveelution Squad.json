@@ -1,0 +1,41 @@
+{
+	"storyName": "The Squad",
+	"difficulties": "normal,hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Squad",
+			"Speed",
+			[
+				255,
+				255,
+				55
+			]
+		],
+		[
+			"Cold-Shoulder",
+			"Lazuli",
+			[
+				255,
+				255,
+				55
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Speed moment",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Aminals.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aminals0000" x="25" y="25" width="1309" height="708" frameX="0" frameY="-25" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0001" x="25" y="25" width="1309" height="708" frameX="0" frameY="-25" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0002" x="1359" y="25" width="1309" height="714" frameX="0" frameY="-19" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0003" x="1359" y="25" width="1309" height="714" frameX="0" frameY="-19" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0004" x="2693" y="25" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0005" x="2693" y="25" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0006" x="25" y="782" width="1309" height="733"/>
+	<SubTexture name="Aminals0007" x="25" y="782" width="1309" height="733"/>
+	<SubTexture name="Aminals0008" x="1359" y="782" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0009" x="1359" y="782" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0010" x="2693" y="782" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0011" x="2693" y="782" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+	<SubTexture name="Aminals0012" x="2693" y="782" width="1309" height="732" frameX="0" frameY="-1" frameWidth="1309" frameHeight="733"/>
+</TextureAtlas>

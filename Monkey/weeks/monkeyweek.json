@@ -1,0 +1,59 @@
+{
+	"storyName": "monke",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"chimps",
+			"Monkey",
+			[
+				166,
+				94,
+				23
+			]
+		],
+		[
+			"hoo-hah",
+			"monkey2",
+			[
+				166,
+				94,
+				23
+			]
+		],
+		[
+			"bonfire-bash",
+			"Monkey3",
+			[
+				166,
+				94,
+				23
+			]
+		],
+		[
+			"starcatcher-hoo-hah",
+			"MonkeyDust",
+			[
+				235,
+				235,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

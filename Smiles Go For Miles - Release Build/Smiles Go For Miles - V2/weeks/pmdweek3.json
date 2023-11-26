@@ -1,0 +1,32 @@
+{
+	"storyName": "side stories",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"job clear",
+			"pikachu",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "extras",
+	"hiddenUntilUnlocked": false
+}

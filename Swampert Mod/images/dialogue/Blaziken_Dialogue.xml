@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Blaziken_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blaziken confused0000" x="0" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0001" x="0" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0002" x="0" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0003" x="0" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0004" x="813" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0005" x="813" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0006" x="813" y="0" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0007" x="0" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0008" x="0" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken confused0009" x="0" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken confused end0000" x="0" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0000" x="813" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0001" x="813" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0002" x="813" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0003" x="813" y="1078" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0004" x="0" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0005" x="0" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0006" x="0" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0007" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0008" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk0009" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0000" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0001" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0002" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0003" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0004" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0005" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0006" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0007" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0008" x="813" y="2156" width="813" height="1078"/>
+	<SubTexture name="blaziken talk end0009" x="813" y="2156" width="813" height="1078"/>
+</TextureAtlas>

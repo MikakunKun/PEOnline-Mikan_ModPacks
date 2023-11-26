@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="groove.png">
+<SubTexture name="groove idle0000" x="0" y="1097" width="344" height="335" frameX="-4" frameY="-70" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove idle0001" x="648" y="747" width="336" height="340" frameX="-8" frameY="-65" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove idle0002" x="320" y="747" width="328" height="345" frameX="-12" frameY="-60" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove idle0003" x="0" y="747" width="320" height="350" frameX="-16" frameY="-55" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove idle0004" x="927" y="360" width="312" height="355" frameX="-20" frameY="-50" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove down0000" x="344" y="1097" width="330" height="331" frameX="-11" frameY="-74" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove down0001" x="1258" y="0" width="320" height="336" frameX="-16" frameY="-69" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove left0000" x="594" y="0" width="333" height="369" frameX="0" frameY="-36" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove left0001" x="0" y="384" width="333" height="363" frameX="0" frameY="-42" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove right0000" x="333" y="384" width="334" height="363" frameX="-16" frameY="-42" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove right0001" x="927" y="0" width="331" height="360" frameX="-15" frameY="-45" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove up0000" x="0" y="0" width="292" height="384" frameX="-30" frameY="-21" frameWidth="350" frameHeight="405" />
+<SubTexture name="groove up0001" x="292" y="0" width="302" height="379" frameX="-25" frameY="-26" frameWidth="350" frameHeight="405" />
+</TextureAtlas>

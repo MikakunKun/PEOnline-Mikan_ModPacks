@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 45,
+			"name": "Vappy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				25
+			],
+			"anim": "singDOWN",
+			"fps": 45,
+			"name": "Vappy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				267
+			],
+			"anim": "singUP",
+			"fps": 45,
+			"name": "Vappy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				63
+			],
+			"anim": "singRIGHT",
+			"fps": 45,
+			"name": "Vappy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-3
+			],
+			"anim": "idle",
+			"fps": 35,
+			"name": "Vappy Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vap",
+	"position": [
+		150,
+		560
+	],
+	"healthicon": "vap",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		111,
+		148
+	],
+	"camera_position": [
+		-120,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

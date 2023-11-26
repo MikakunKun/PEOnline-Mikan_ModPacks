@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Eevee",
+	"position": [
+		330,
+		245
+	],
+	"scale": 0.4,
+	"idle_anim": "Eevee idle",
+	"confirm_anim": "Eevee idle"
+}

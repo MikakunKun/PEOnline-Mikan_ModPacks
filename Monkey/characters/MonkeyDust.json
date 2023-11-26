@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MonkeyDust Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MonkeyDust Left"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "clap",
+			"indices": [],
+			"name": "monkeydust clap"
+		},
+		{
+			"offsets": [
+				-60,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monkeydust up"
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monkeydust down"
+		},
+		{
+			"offsets": [
+				-130,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "monkeydust foward"
+		},
+		{
+			"offsets": [
+				-75,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": true,
+			"name": "monkeydust scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MonkeyDust",
+	"position": [
+		-30,
+		210
+	],
+	"healthicon": "monkeydust",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		80,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

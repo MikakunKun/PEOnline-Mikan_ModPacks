@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Speed Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Speed Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Speed Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Speed Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Speed Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Speed Pose",
+			"indices": [],
+			"name": "Speed Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Speed",
+	"position": [
+		250,
+		180
+	],
+	"healthicon": "Speed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		34
+	],
+	"camera_position": [
+		110,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

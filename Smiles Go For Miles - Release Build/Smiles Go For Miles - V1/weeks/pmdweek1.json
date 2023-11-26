@@ -1,0 +1,39 @@
+{
+	"storyName": "welcome to treasure town!",
+	"hideFreeplay": false,
+	"weekBackground": "treasure_town",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"guild",
+			"chatot",
+			[
+				200,
+				255,
+				55
+			]
+		],
+		[
+			"town tune",
+			"pikachu",
+			[
+				200,
+				255,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "treasure-town"
+}

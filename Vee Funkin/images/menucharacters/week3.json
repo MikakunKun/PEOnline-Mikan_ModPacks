@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Week3",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		121,
+		52
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "Week3"
+}

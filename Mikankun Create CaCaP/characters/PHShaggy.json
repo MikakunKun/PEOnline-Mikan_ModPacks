@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				165,
+				-114
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "shaggy_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-160
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "shaggy_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-38
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "shaggy_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "shaggy_idle0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLEFT",
+			"fps": 30,
+			"name": "shaggy_idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceRIGHT",
+			"name": "shaggy_idle2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PHShaggy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "PHShaggy-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		-280,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

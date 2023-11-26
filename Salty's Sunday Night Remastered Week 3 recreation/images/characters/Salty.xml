@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Salty.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Salty Down Miss0000" x="10" y="10" width="373" height="371" frameX="-2" frameY="-8" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0001" x="395" y="10" width="370" height="376" frameX="-1" frameY="-2" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0002" x="395" y="10" width="370" height="376" frameX="-1" frameY="-2" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0003" x="777" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0004" x="777" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0005" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0006" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0007" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0008" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0009" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0010" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0011" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0012" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0013" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0014" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0015" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0016" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0017" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0018" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0019" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0020" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0021" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0022" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0023" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0024" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0025" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0026" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0027" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0028" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down Miss0029" x="1159" y="10" width="370" height="378" frameX="0" frameY="0" frameWidth="375" frameHeight="379"/>
+	<SubTexture name="Salty Down00000" x="1541" y="10" width="373" height="369" frameX="-2" frameY="-8" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00001" x="1926" y="10" width="370" height="375" frameX="-1" frameY="-2" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00002" x="1926" y="10" width="370" height="375" frameX="-1" frameY="-2" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00003" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00004" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00005" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00006" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00007" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00008" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00009" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00010" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00011" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00012" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00013" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00014" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00015" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00016" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00017" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00018" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00019" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00020" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00021" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00022" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00023" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00024" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00025" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00026" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00027" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00028" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Down00029" x="2308" y="10" width="370" height="377" frameX="0" frameY="0" frameWidth="375" frameHeight="377"/>
+	<SubTexture name="Salty Hey0000" x="2690" y="10" width="382" height="442" frameX="0" frameY="0" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0001" x="3084" y="10" width="373" height="440" frameX="0" frameY="-2" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0002" x="3084" y="10" width="373" height="440" frameX="0" frameY="-2" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0003" x="10" y="464" width="373" height="438" frameX="0" frameY="-5" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0004" x="10" y="464" width="373" height="438" frameX="0" frameY="-5" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0005" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0006" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0007" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0008" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0009" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0010" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0011" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0012" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0013" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0014" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0015" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0016" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0017" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0018" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0019" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0020" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0021" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0022" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0023" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0024" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Hey0025" x="395" y="464" width="374" height="439" frameX="0" frameY="-4" frameWidth="382" frameHeight="443"/>
+	<SubTexture name="Salty Idle0000" x="781" y="464" width="368" height="426" frameX="0" frameY="-10" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0001" x="781" y="464" width="368" height="426" frameX="0" frameY="-10" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0002" x="1161" y="464" width="365" height="428" frameX="-3" frameY="-8" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0003" x="1161" y="464" width="365" height="428" frameX="-3" frameY="-8" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0004" x="1538" y="464" width="365" height="428" frameX="-4" frameY="-8" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0005" x="1538" y="464" width="365" height="428" frameX="-4" frameY="-8" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0006" x="1915" y="464" width="364" height="429" frameX="-5" frameY="-7" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0007" x="1915" y="464" width="364" height="429" frameX="-5" frameY="-7" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0008" x="2291" y="464" width="380" height="434" frameX="-13" frameY="-3" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0009" x="2291" y="464" width="380" height="434" frameX="-13" frameY="-3" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0010" x="2683" y="464" width="379" height="435" frameX="-11" frameY="-2" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0011" x="2683" y="464" width="379" height="435" frameX="-11" frameY="-2" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0012" x="3074" y="464" width="377" height="436" frameX="-10" frameY="-1" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0013" x="3074" y="464" width="377" height="436" frameX="-10" frameY="-1" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0014" x="10" y="915" width="374" height="437" frameX="-8" frameY="0" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Idle0015" x="10" y="915" width="374" height="437" frameX="-8" frameY="0" frameWidth="393" frameHeight="437"/>
+	<SubTexture name="Salty Left Miss0000" x="396" y="915" width="382" height="420" frameX="0" frameY="0" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0001" x="790" y="915" width="372" height="418" frameX="-11" frameY="-2" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0002" x="790" y="915" width="372" height="418" frameX="-11" frameY="-2" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0003" x="1174" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0004" x="1174" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0005" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0006" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0007" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0008" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0009" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0010" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0011" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0012" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0013" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0014" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0015" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0016" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0017" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0018" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0019" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0020" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0021" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0022" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0023" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0024" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0025" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0026" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0027" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0028" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left Miss0029" x="1558" y="915" width="372" height="417" frameX="-11" frameY="-3" frameWidth="383" frameHeight="420"/>
+	<SubTexture name="Salty Left00000" x="1942" y="915" width="382" height="427" frameX="0" frameY="0" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00001" x="2336" y="915" width="372" height="417" frameX="-10" frameY="-10" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00002" x="2720" y="915" width="372" height="417" frameX="-10" frameY="-10" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00003" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00004" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00005" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00006" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00007" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00008" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00009" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00010" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00011" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00012" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00013" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00014" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00015" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00016" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00017" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00018" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00019" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00020" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00021" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00022" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00023" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00024" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00025" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00026" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00027" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00028" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Left00029" x="3104" y="915" width="373" height="416" frameX="-10" frameY="-11" frameWidth="383" frameHeight="427"/>
+	<SubTexture name="Salty Right Miss0000" x="10" y="1364" width="358" height="418" frameX="-1" frameY="-4" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0001" x="380" y="1364" width="360" height="421" frameX="-1" frameY="-1" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0002" x="380" y="1364" width="360" height="421" frameX="-1" frameY="-1" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0003" x="752" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0004" x="752" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0005" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0006" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0007" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0008" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0009" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0010" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0011" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0012" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0013" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0014" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0015" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0016" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0017" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0018" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0019" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0020" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0021" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0022" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0023" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0024" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0025" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0026" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0027" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0028" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0029" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0030" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0031" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0032" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0033" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0034" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0035" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0036" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0037" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0038" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0039" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0040" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0041" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0042" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0043" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0044" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0045" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0046" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0047" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0048" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0049" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0050" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0051" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0052" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0053" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0054" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0055" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0056" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0057" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0058" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0059" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0060" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right Miss0061" x="1124" y="1364" width="360" height="422" frameX="0" frameY="0" frameWidth="361" frameHeight="422"/>
+	<SubTexture name="Salty Right00000" x="1496" y="1364" width="358" height="418" frameX="0" frameY="-3" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00001" x="1866" y="1364" width="361" height="421"/>
+	<SubTexture name="Salty Right00002" x="2239" y="1364" width="361" height="421"/>
+	<SubTexture name="Salty Right00003" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00004" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00005" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00006" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00007" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00008" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00009" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00010" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00011" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00012" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00013" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00014" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00015" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00016" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00017" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00018" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00019" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00020" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00021" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00022" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00023" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00024" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00025" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00026" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00027" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00028" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00029" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00030" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00031" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00032" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00033" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00034" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00035" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00036" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00037" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00038" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00039" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00040" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00041" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00042" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00043" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00044" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00045" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00046" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00047" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00048" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00049" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00050" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00051" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00052" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00053" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00054" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00055" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00056" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00057" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00058" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00059" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00060" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Right00061" x="2612" y="1364" width="359" height="421" frameX="0" frameY="0" frameWidth="361" frameHeight="421"/>
+	<SubTexture name="Salty Up Miss0000" x="2983" y="1364" width="372" height="448" frameX="-4" frameY="0" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0001" x="10" y="1824" width="374" height="442" frameX="-2" frameY="-6" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0002" x="10" y="1824" width="374" height="442" frameX="-2" frameY="-6" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0003" x="396" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0004" x="396" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0005" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0006" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0007" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0008" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0009" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0010" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0011" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0012" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0013" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0014" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0015" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0016" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0017" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0018" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0019" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0020" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0021" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0022" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0023" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0024" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0025" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0026" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0027" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0028" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up Miss0029" x="783" y="1824" width="375" height="439" frameX="0" frameY="-9" frameWidth="376" frameHeight="448"/>
+	<SubTexture name="Salty Up00000" x="1170" y="1824" width="373" height="449" frameX="-4" frameY="0" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00001" x="1555" y="1824" width="374" height="442" frameX="-2" frameY="-6" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00002" x="1555" y="1824" width="374" height="442" frameX="-2" frameY="-6" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00003" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00004" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00005" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00006" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00007" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00008" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00009" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00010" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00011" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00012" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00013" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00014" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00015" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00016" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00017" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00018" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00019" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00020" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00021" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00022" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00023" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00024" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00025" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00026" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00027" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00028" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+	<SubTexture name="Salty Up00029" x="1941" y="1824" width="376" height="439" frameX="0" frameY="-9" frameWidth="377" frameHeight="449"/>
+</TextureAtlas>

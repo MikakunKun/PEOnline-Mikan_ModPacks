@@ -1,0 +1,26 @@
+{
+	"characters": [
+		{
+			"name": "flipX-custom-bf-chirstmas",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "flipX-bfairship",
+			"positionArray": [-300,20]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"healthbar_colors": [
+		202,
+		109,
+		67
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}

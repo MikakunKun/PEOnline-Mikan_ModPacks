@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pika portrait flipped.png">
+<SubTexture name="pika portrait flipped talk0000" x="0" y="0" width="299" height="273" frameX="0" frameY="-11" frameWidth="300" frameHeight="300" />
+<SubTexture name="pika portrait flipped worried0000" x="299" y="0" width="295" height="273" frameX="0" frameY="-11" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

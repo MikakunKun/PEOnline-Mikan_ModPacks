@@ -1,0 +1,7 @@
+{
+	"name": "Changed: Tower Rush",
+	"description": "Yet Another Changed mod, will you be able to RUSH through all the curious creatures that live here?",
+	"restart": true,
+	"runsGlobally": false,
+	"color": [255, 255, 255]
+}

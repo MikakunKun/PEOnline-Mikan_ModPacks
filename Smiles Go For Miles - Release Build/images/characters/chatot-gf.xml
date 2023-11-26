@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chatot-gf.png">
+<SubTexture name="chatot-gf idle0000" x="678" y="0" width="239" height="340" frameX="-73" frameY="-110" frameWidth="370" frameHeight="450" />
+<SubTexture name="chatot-gf idle0001" x="446" y="0" width="232" height="341" frameX="-75" frameY="-109" frameWidth="370" frameHeight="450" />
+<SubTexture name="chatot-gf idle0002" x="0" y="0" width="220" height="346" frameX="-78" frameY="-104" frameWidth="370" frameHeight="450" />
+<SubTexture name="chatot-gf idle0003" x="220" y="0" width="226" height="342" frameX="-77" frameY="-108" frameWidth="370" frameHeight="450" />
+</TextureAtlas>

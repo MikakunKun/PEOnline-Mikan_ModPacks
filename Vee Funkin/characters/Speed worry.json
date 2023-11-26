@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Speed Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Speed Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Speed Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Speed Pose",
+			"indices": [],
+			"name": "Speed Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Speed Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Speed Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-47
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Speed Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Speed Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Speed Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Speed Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Speed Death Retry"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				68
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Speed Died",
+			"indices": []
+		},
+		{
+			"offsets": [
+				14,
+				72
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Speed Dead Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Speed worry",
+	"position": [
+		200,
+		180
+	],
+	"healthicon": "Speed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		220,
+		34
+	],
+	"camera_position": [
+		110,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,7 @@
+Smoothly changes the 
+camera's zoom.
+
+Value 1: Target zoom
+Value 2: Duration (0 = Instant)
+
+By "BarrierFalki#5460" on Discord!

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kecleons.png">
+<SubTexture name="kecleons0000" x="0" y="0" width="1702" height="250" frameX="-291" frameY="-663" frameWidth="2400" frameHeight="1400" />
+<SubTexture name="kecleons0001" x="0" y="250" width="1697" height="247" frameX="-294" frameY="-666" frameWidth="2400" frameHeight="1400" />
+<SubTexture name="kecleons0002" x="0" y="737" width="1679" height="236" frameX="-302" frameY="-676" frameWidth="2400" frameHeight="1400" />
+<SubTexture name="kecleons0003" x="0" y="497" width="1688" height="240" frameX="-298" frameY="-672" frameWidth="2400" frameHeight="1400" />
+<SubTexture name="kecleons0004" x="0" y="497" width="1688" height="240" frameX="-298" frameY="-672" frameWidth="2400" frameHeight="1400" />
+</TextureAtlas>

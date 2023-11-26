@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "GF hit"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left0"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF down0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF up0"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "GF leftmiss"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "GF downmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "GF upmiss"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF right0"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "GF rightmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "GF dodge"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GF death0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GF deathloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GF deathconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Playable_Spinda_GF",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "spinda-gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		109,
+		100
+	],
+	"camera_position": [
+		-550,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

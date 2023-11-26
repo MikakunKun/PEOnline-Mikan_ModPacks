@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ampharos.png">
+<SubTexture name="ampharos up0000" x="527" y="1744" width="590" height="842" frameX="-97" frameY="-158" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos up0001" x="2410" y="0" width="583" height="846" frameX="-101" frameY="-154" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos up0002" x="1837" y="0" width="573" height="851" frameX="-105" frameY="-149" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos idle0000" x="0" y="1744" width="527" height="843" frameX="-128" frameY="-157" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos idle0001" x="1837" y="851" width="517" height="850" frameX="-135" frameY="-150" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos idle0002" x="0" y="875" width="491" height="869" frameX="-150" frameY="-131" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos idle0003" x="491" y="875" width="501" height="864" frameX="-144" frameY="-136" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos down0000" x="992" y="875" width="521" height="852" frameX="-121" frameY="-148" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos down0001" x="2410" y="846" width="524" height="845" frameX="-119" frameY="-155" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos down0002" x="1117" y="1744" width="530" height="842" frameX="-115" frameY="-158" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos right0000" x="0" y="0" width="622" height="875" frameX="-84" frameY="-124" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos right0001" x="622" y="0" width="615" height="873" frameX="-88" frameY="-126" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos right0002" x="1237" y="0" width="600" height="873" frameX="-94" frameY="-126" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos left0000" x="2192" y="1744" width="553" height="829" frameX="-117" frameY="-132" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos left0001" x="2993" y="0" width="551" height="829" frameX="-121" frameY="-132" frameWidth="800" frameHeight="1000" />
+<SubTexture name="ampharos left0002" x="1647" y="1744" width="545" height="831" frameX="-128" frameY="-130" frameWidth="800" frameHeight="1000" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Vap Snack Idle"
+		},
+		{
+			"offsets": [
+				87,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Vap Snack Left"
+		},
+		{
+			"offsets": [
+				-19,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Vap Snack Down"
+		},
+		{
+			"offsets": [
+				-30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Vap Snack Up"
+		},
+		{
+			"offsets": [
+				-60,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Vap Snack Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Vap Snack",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Vap-Snack",
+	"flip_x": true,
+	"healthbar_colors": [
+		158,
+		216,
+		227
+	],
+	"camera_position": [
+		190,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

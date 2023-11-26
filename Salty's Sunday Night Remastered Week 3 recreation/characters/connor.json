@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Max Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Max Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Max Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Max Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Max Down0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Max Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Connor",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "icon-connor",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		11,
+		255
+	],
+	"camera_position": [
+		230,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

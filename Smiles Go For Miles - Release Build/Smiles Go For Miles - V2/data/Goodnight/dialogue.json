@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, are you still awake, Boyfriend?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "talk",
+			"text": "... You know... I'm really glad you helped me come here today.",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "My hearts been racing all day... I'm so excited to start working at the guild tomorrow!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Yippee",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "talk",
+			"text": "By the way, have any of your memories started coming back to you yet? About your girlfriend?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "biolu portrait worried",
+			"text": "Bep",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "worried",
+			"text": "Don't even know what she looks like, huh?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Tell you what - first thing tomorrow morning, we'll get up real early and start looking for her. Deal?",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "talk",
+			"text": "!",
+			"boxState": "normal",
+			"sound": "talkyeah",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		},
+		{
+			"expression": "talk",
+			"text": "That's the spirit!",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm feeling a little sleepy. Let's give it our all tomorrow.",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Goodnight, Boyfriend.",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "pikatalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Gn",
+			"boxState": "normal",
+			"sound": "talk",
+			"speed": 0.05,
+			"portrait": "biolutalk"
+		}
+	]
+}

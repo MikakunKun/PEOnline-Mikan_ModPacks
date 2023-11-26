@@ -1,0 +1,26 @@
+{
+	"storyName": "Extras",
+	"difficulties": "normal,hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "x Eeveelution Squad",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Tutorial",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cheese-Snacks",
+			"Flare-Snack",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Did you guys"
+}

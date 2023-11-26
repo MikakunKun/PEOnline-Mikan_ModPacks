@@ -1,0 +1,32 @@
+{
+	"storyName": "Song Mod By Friday Night FrostBite",
+	"difficulties": "red",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		165,
+		0,
+		77
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"warfare",
+			"red",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

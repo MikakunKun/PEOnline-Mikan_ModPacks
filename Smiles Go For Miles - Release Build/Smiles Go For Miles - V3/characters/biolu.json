@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "biolu left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				51
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "biolu right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				61
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "biolu down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				49
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "biolu up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				50
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hey",
+			"indices": [],
+			"name": "biolu hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				50
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "biolu idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				39,
+				36
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "biolu miss 1"
+		},
+		{
+			"offsets": [
+				30,
+				50
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "biolu miss 2"
+		},
+		{
+			"offsets": [
+				30,
+				60
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "biolu miss 3"
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "biolu miss4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/biolu",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "biolu",
+	"flip_x": true,
+	"healthbar_colors": [
+		81,
+		154,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

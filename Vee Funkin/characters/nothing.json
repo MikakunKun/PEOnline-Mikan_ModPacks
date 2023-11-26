@@ -1,0 +1,237 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-8
+			],
+			"fps": 24,
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "GF Dancing Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-17
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				25
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "Squid HEY!!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squid Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Squid Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Squid Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Squid Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Squid Alt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				6
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Squid Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Squid Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-70
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Squid Alt Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "nothing"
+		},
+		{
+			"offsets": [
+				1,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "nothing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nothing",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		30,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

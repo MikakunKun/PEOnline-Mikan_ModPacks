@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-11,
+				-1
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				17
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-35
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-56,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				20,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF NOTE LEFT MISS0"
+		},
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF NOTE DOWN MISS0"
+		},
+		{
+			"offsets": [
+				-40,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF NOTE UP MISS0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/custom-bfChristmas",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "custom-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		100,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

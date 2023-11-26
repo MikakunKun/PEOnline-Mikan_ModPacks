@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eevee idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "Eevee attack"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hit",
+			"indices": [],
+			"name": "Eevee hit"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eevee up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eevee down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eevee left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eevee right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26
+			],
+			"fps": 24,
+			"anim": "quickAttack",
+			"loop": false,
+			"name": "Eevee attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/funk-Eevee",
+	"position": [
+		-250,
+		30
+	],
+	"healthicon": "funk-eevee",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		139,
+		90
+	],
+	"camera_position": [
+		200,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

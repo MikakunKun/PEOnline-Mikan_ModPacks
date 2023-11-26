@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Monkey Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monkey Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monkey Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monkey Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monkey Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "Monkey Scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monkey",
+	"position": [
+		-30,
+		240
+	],
+	"healthicon": "monkey",
+	"flip_x": false,
+	"healthbar_colors": [
+		191,
+		121,
+		38
+	],
+	"camera_position": [
+		80,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

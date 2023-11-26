@@ -1,0 +1,32 @@
+{
+	"storyName": "Blockiest game of the year",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"slash",
+			"steve",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"steve",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

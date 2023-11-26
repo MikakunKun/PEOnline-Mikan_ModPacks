@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				91,
+				230
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tepig down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				229
+			],
+			"anim": "idle",
+			"fps": 6,
+			"name": "tepig idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				227
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tepig up"
+		},
+		{
+			"offsets": [
+				90,
+				229
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tepig right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				228
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "tepig left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tepig",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tepig",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		85,
+		0
+	],
+	"camera_position": [
+		270,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

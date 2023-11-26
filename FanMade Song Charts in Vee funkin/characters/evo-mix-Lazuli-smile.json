@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Lazuli Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-116
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Lazuli Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Lazuli Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Lazuli Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Lazuli Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lazuli smile",
+	"position": [
+		300,
+		150
+	],
+	"healthicon": "Lazuli",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		149,
+		204
+	],
+	"camera_position": [
+		-450,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

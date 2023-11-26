@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-57
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "matt down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "matt up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpurkMatt3",
+	"position": [
+		10,
+		250
+	],
+	"healthicon": "AngySpurkMatt-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		114,
+		26,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

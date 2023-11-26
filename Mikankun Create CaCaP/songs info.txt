@@ -1,0 +1,66 @@
+--------------------------------------------------------------------
+Song Infos
+songName
+difficulty : port or opponent & player
+--------------------------------------------------------------------
+bee-ware
+normal : port
+--------------------------------------------------------------------
+bonfire-bash
+fra-and-jol : flareon(vee funkin) & jolteon (vee funkin)
+--------------------------------------------------------------------
+cosmic-confrontance
+hard : port by ronezkj 15 & spurk
+spam : port by
+--------------------------------------------------------------------
+death-toll
+hard : bf & bf
+--------------------------------------------------------------------
+dui
+null
+--------------------------------------------------------------------
+euphoia (fan made chart by me)
+cover1-4k : bf & riolu bf 4key
+cover1-7k : bf & riolu bf 7key
+--------------------------------------------------------------------
+fish
+hard : port by Changed v2
+extrakey : port by Changed v2 9key
+--------------------------------------------------------------------
+heartbeat
+cover1 : eevee(funkmon) & riolu bf
+--------------------------------------------------------------------
+her
+normal : port
+cover1 : missingno & bf
+--------------------------------------------------------------------
+milk-tea
+vee : leafeon(vee funkin) & eevee(vee funkin)
+--------------------------------------------------------------------
+missingno
+hard : port by hypno's lullaby v1
+extrakey : port by hypno's lullaby v1 7key
+--------------------------------------------------------------------
+mompoms
+eevee : no't create
+--------------------------------------------------------------------
+monotone-attack
+hard : salty,neobf & b3bf,tsuraranbf
+pokemon-battle : gardevoir,bunny-tutorial-bf & custom_bf,swampert
+--------------------------------------------------------------------
+overtime
+hell : saster-bf,custom_bf,saiyan-bf
+--------------------------------------------------------------------
+pancakes (fan made chart)
+hard : nico & bf
+--------------------------------------------------------------------
+roasted (re chart by me)
+vees : flareon(vee funkin),vaporeon(vee funkin) & bf
+changed : sdog,tigershark & colin
+--------------------------------------------------------------------
+sauces-moogus
+cover1 : sylveon(vee funkin) & sylveon(TT2)
+--------------------------------------------------------------------
+water-pulse
+normal : vaporeon(vs fla) & bf
+cover-kp : kawaii-shark(kaiju paradise) & chef(kaiju paradise)

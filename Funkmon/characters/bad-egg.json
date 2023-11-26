@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "hatch",
+			"fps": 24,
+			"name": "Egg hatch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Egg idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bad_Egg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "badegg",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		205,
+		131
+	],
+	"camera_position": [
+		320,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

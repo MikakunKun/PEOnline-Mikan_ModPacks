@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dowzy.png">
+<SubTexture name="dowzy down0000" x="404" y="857" width="423" height="412" frameX="-25" frameY="-88" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy down0001" x="1152" y="0" width="410" height="419" frameX="-32" frameY="-81" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy idle0000" x="371" y="0" width="397" height="427" frameX="-39" frameY="-68" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy left0000" x="1152" y="419" width="409" height="418" frameX="-21" frameY="-82" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy left0001" x="0" y="857" width="404" height="418" frameX="-29" frameY="-82" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy right0000" x="0" y="433" width="397" height="424" frameX="-40" frameY="-76" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy right0001" x="397" y="433" width="399" height="420" frameX="-32" frameY="-80" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy up0000" x="0" y="0" width="371" height="433" frameX="-53" frameY="-67" frameWidth="500" frameHeight="500" />
+<SubTexture name="dowzy up0001" x="768" y="0" width="384" height="426" frameX="-46" frameY="-74" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

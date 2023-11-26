@@ -1,0 +1,209 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-8
+			],
+			"fps": 24,
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "GF Dancing Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-17
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Idle",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "GF Miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF Perkie",
+	"position": [
+		-100,
+		-30
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-60,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

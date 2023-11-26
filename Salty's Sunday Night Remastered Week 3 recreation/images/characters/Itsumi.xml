@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Itsumi.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Itsumi Cheer0000" x="10" y="10" width="703" height="651"/>
+	<SubTexture name="Itsumi Cheer0001" x="725" y="10" width="703" height="651"/>
+	<SubTexture name="Itsumi Cheer0002" x="1440" y="10" width="699" height="648" frameX="-2" frameY="-3" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0003" x="2151" y="10" width="699" height="648" frameX="-2" frameY="-3" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0004" x="2862" y="10" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0005" x="2862" y="10" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0006" x="10" y="673" width="699" height="646" frameX="-2" frameY="-5" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0007" x="721" y="673" width="699" height="646" frameX="-2" frameY="-5" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0008" x="1432" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0009" x="1432" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0010" x="2143" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0011" x="2143" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0012" x="2143" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0013" x="2143" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Cheer0014" x="2143" y="673" width="699" height="647" frameX="-2" frameY="-4" frameWidth="703" frameHeight="651"/>
+	<SubTexture name="Itsumi Idle0000" x="2854" y="673" width="700" height="630" frameX="-2" frameY="-14" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0001" x="10" y="1332" width="704" height="630" frameX="0" frameY="-14" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0002" x="726" y="1332" width="704" height="629" frameX="0" frameY="-15" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0003" x="1442" y="1332" width="700" height="629" frameX="-2" frameY="-15" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0004" x="2154" y="1332" width="700" height="633" frameX="-2" frameY="-11" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0005" x="2866" y="1332" width="700" height="633" frameX="-2" frameY="-11" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0006" x="10" y="1977" width="700" height="634" frameX="-2" frameY="-10" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0007" x="722" y="1977" width="700" height="643" frameX="-2" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0008" x="722" y="1977" width="700" height="643" frameX="-2" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0009" x="722" y="1977" width="700" height="643" frameX="-2" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0010" x="1434" y="1977" width="700" height="644" frameX="-2" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0011" x="1434" y="1977" width="700" height="644" frameX="-2" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0012" x="1434" y="1977" width="700" height="644" frameX="-2" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0013" x="2146" y="1977" width="700" height="644" frameX="-2" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0014" x="2146" y="1977" width="700" height="644" frameX="-2" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0015" x="2858" y="1977" width="700" height="641" frameX="-2" frameY="-3" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0016" x="10" y="2633" width="704" height="641" frameX="0" frameY="-3" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0017" x="726" y="2633" width="704" height="640" frameX="0" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0018" x="1442" y="2633" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0019" x="2154" y="2633" width="700" height="638" frameX="-2" frameY="-6" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0020" x="2866" y="2633" width="700" height="638" frameX="-2" frameY="-6" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0021" x="10" y="3286" width="700" height="637" frameX="-2" frameY="-7" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0022" x="722" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0023" x="722" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0024" x="722" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0025" x="1434" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0026" x="1434" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0027" x="1434" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0028" x="2146" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="Itsumi Idle0029" x="2146" y="3286" width="700" height="640" frameX="-2" frameY="-4" frameWidth="704" frameHeight="644"/>
+</TextureAtlas>

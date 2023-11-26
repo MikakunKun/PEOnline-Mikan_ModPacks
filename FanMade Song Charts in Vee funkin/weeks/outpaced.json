@@ -1,0 +1,31 @@
+{
+	"storyName": "speedy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"outpaced",
+			"speed",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Week3",
+		"",
+		""
+	],
+	"weekName": "Wortor Dog Cat Foxxo thing"
+}
