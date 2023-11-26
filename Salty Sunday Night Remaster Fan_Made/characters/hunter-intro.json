@@ -1,0 +1,65 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "hunt intro",
+			"indices": [
+				17,
+				1177,
+				17,
+				17,
+				17,
+				17,
+				18,
+				17,
+				18,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Intro_hunter",
+	"position": [
+		-700,
+		-150
+	],
+	"healthicon": "icon_hunterAva-re",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		80,
+		135
+	],
+	"camera_position": [
+		250,
+		170
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.75
+}

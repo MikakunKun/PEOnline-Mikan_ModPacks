@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 20,
+			"name": "itsumi dance left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft-loop",
+			"fps": 20,
+			"name": "itsumi dance left",
+			"indices": [
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 20,
+			"name": "itsumi dance right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight-loop",
+			"fps": 20,
+			"name": "itsumi dance right",
+			"indices": [
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				6,
+				7,
+				8,
+				6,
+				7,
+				8
+			],
+			"fps": 20,
+			"anim": "danceLeft-alt",
+			"loop": false,
+			"name": "itsumi sky"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				6,
+				7,
+				8
+			],
+			"fps": 20,
+			"anim": "danceRight-alt",
+			"loop": false,
+			"name": "itsumi sky"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Itsumi_Week4",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "itsumi",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		61,
+		61
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

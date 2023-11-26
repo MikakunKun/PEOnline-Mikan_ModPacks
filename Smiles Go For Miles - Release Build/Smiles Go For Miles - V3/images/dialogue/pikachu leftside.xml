@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="pikachu leftside.png">
-<SubTexture name="pikachu leftside talk0000" x="607" y="0" width="285" height="368" frameX="-34" frameY="-11" frameWidth="342" frameHeight="403" />
-<SubTexture name="pikachu leftside thinking0000" x="311" y="0" width="296" height="376" frameX="-21" frameY="-10" frameWidth="342" frameHeight="403" />
-<SubTexture name="pikachu leftside sad0000" x="0" y="0" width="311" height="379" frameX="-20" frameY="-7" frameWidth="342" frameHeight="403" />
-</TextureAtlas>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="sunflora-guild.png">
-<SubTexture name="sunflora-guild0000" x="0" y="796" width="759" height="776" frameX="0" frameY="-644" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="sunflora-guild0001" x="1490" y="0" width="755" height="783" frameX="0" frameY="-637" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="sunflora-guild0002" x="0" y="0" width="739" height="796" frameX="-8" frameY="-624" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="sunflora-guild0003" x="739" y="0" width="751" height="790" frameX="0" frameY="-630" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="sunflora-guild0004" x="739" y="0" width="751" height="790" frameX="0" frameY="-630" frameWidth="2800" frameHeight="1400" />
-</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mom.png">
+<SubTexture name="mom idle0000" x="0" y="937" width="568" height="930" frameX="-111" frameY="-136" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0001" x="568" y="937" width="568" height="929" frameX="-111" frameY="-138" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0002" x="2272" y="1867" width="568" height="910" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0003" x="1136" y="937" width="568" height="922" frameX="-111" frameY="-144" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0004" x="1704" y="937" width="568" height="921" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0005" x="1704" y="1867" width="568" height="913" frameX="-111" frameY="-143" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0006" x="568" y="1867" width="568" height="919" frameX="-111" frameY="-147" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0007" x="2272" y="0" width="568" height="921" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0008" x="1704" y="1867" width="568" height="913" frameX="-111" frameY="-143" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0009" x="568" y="1867" width="568" height="919" frameX="-111" frameY="-147" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0010" x="2272" y="0" width="568" height="921" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0011" x="1704" y="1867" width="568" height="913" frameX="-111" frameY="-143" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0012" x="568" y="1867" width="568" height="919" frameX="-111" frameY="-147" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0013" x="2272" y="0" width="568" height="921" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0014" x="1704" y="1867" width="568" height="913" frameX="-111" frameY="-143" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0015" x="568" y="1867" width="568" height="919" frameX="-111" frameY="-147" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0016" x="2272" y="0" width="568" height="921" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0017" x="2840" y="0" width="568" height="909" frameX="-111" frameY="-147" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0018" x="1136" y="1867" width="568" height="918" frameX="-111" frameY="-148" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0019" x="2272" y="921" width="568" height="921" frameX="-111" frameY="-146" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0020" x="2840" y="909" width="568" height="909" frameX="-111" frameY="-147" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0021" x="1136" y="0" width="568" height="931" frameX="-111" frameY="-135" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0022" x="568" y="0" width="568" height="936" frameX="-111" frameY="-131" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0023" x="2840" y="1818" width="568" height="904" frameX="-111" frameY="-152" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0024" x="1704" y="0" width="568" height="931" frameX="-111" frameY="-135" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0025" x="0" y="0" width="568" height="937" frameX="-111" frameY="-130" frameWidth="830" frameHeight="1103" />
+<SubTexture name="mom idle0026" x="0" y="1867" width="568" height="921" frameX="-111" frameY="-135" frameWidth="830" frameHeight="1103" />
+</TextureAtlas>

@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "sat scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "itsumi",
+			"fps": 24,
+			"name": "sat OMG IS AVA O OK ITSUMI IS FINE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Salty_expresions",
+	"position": [
+		20,
+		320
+	],
+	"healthicon": "icon-Salty-re",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

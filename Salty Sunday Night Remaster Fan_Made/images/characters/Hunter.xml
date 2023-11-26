@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hunter.png">
+<SubTexture name="hunter dance right0000" x="3296" y="0" width="449" height="607" frameX="-803" frameY="-198" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance right0001" x="923" y="2991" width="439" height="594" frameX="-821" frameY="-199" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance right0002" x="2604" y="2373" width="460" height="610" frameX="-812" frameY="-197" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance right0003" x="464" y="2991" width="459" height="602" frameX="-821" frameY="-194" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance right0004" x="0" y="2373" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance right0005" x="0" y="2991" width="464" height="607" frameX="-818" frameY="-186" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance left0000" x="1468" y="845" width="424" height="626" frameX="-798" frameY="-178" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance left0001" x="2879" y="620" width="403" height="614" frameX="-815" frameY="-177" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance left0002" x="2466" y="0" width="413" height="623" frameX="-797" frameY="-178" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance left0003" x="2879" y="1234" width="386" height="609" frameX="-820" frameY="-179" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance left0004" x="2879" y="0" width="417" height="620" frameX="-800" frameY="-184" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter dance left0005" x="3296" y="607" width="410" height="606" frameX="-819" frameY="-190" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter right0000" x="4394" y="540" width="748" height="537" frameX="-842" frameY="-339" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter right0001" x="2375" y="3598" width="758" height="542" frameX="-847" frameY="-339" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter right0002" x="4394" y="0" width="755" height="540" frameX="-855" frameY="-339" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter right0003" x="0" y="4171" width="756" height="538" frameX="-844" frameY="-339" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter right0004" x="4394" y="1077" width="752" height="534" frameX="-845" frameY="-339" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter right0005" x="4394" y="1611" width="753" height="534" frameX="-844" frameY="-339" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter down0000" x="923" y="845" width="545" height="729" frameX="-750" frameY="-541" frameWidth="2200" frameHeight="1291" />
+<SubTexture name="hunter down0001" x="540" y="1666" width="540" height="701" frameX="-750" frameY="-570" frameWidth="2200" frameHeight="1291" />
+<SubTexture name="hunter down0002" x="1926" y="718" width="539" height="717" frameX="-750" frameY="-554" frameWidth="2200" frameHeight="1291" />
+<SubTexture name="hunter down0003" x="0" y="1666" width="540" height="707" frameX="-749" frameY="-565" frameWidth="2200" frameHeight="1291" />
+<SubTexture name="hunter down0004" x="1926" y="0" width="540" height="718" frameX="-749" frameY="-544" frameWidth="2200" frameHeight="1291" />
+<SubTexture name="hunter down0005" x="1080" y="1666" width="540" height="697" frameX="-749" frameY="-565" frameWidth="2200" frameHeight="1291" />
+<SubTexture name="hunter up0000" x="487" y="0" width="489" height="832" frameX="-375" frameY="-49" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter up0001" x="1468" y="0" width="458" height="828" frameX="-405" frameY="-39" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter up0002" x="0" y="0" width="487" height="845" frameX="-375" frameY="-36" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter up0003" x="0" y="845" width="460" height="821" frameX="-405" frameY="-46" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter up0004" x="976" y="0" width="492" height="832" frameX="-375" frameY="-49" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter up0005" x="460" y="845" width="463" height="818" frameX="-404" frameY="-49" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter left0000" x="688" y="3598" width="670" height="566" frameX="-76" frameY="-554" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter left0001" x="2031" y="2991" width="699" height="578" frameX="-64" frameY="-554" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter left0002" x="1362" y="2991" width="669" height="582" frameX="-55" frameY="-554" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter left0003" x="2730" y="2991" width="690" height="573" frameX="-73" frameY="-554" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter left0004" x="3745" y="0" width="649" height="573" frameX="-75" frameY="-554" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter left0005" x="0" y="3598" width="688" height="573" frameX="-75" frameY="-554" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0000" x="477" y="2373" width="425" height="616" frameX="-803" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0001" x="3296" y="1213" width="407" height="603" frameX="-821" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0002" x="902" y="2373" width="425" height="616" frameX="-803" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0003" x="3296" y="1816" width="407" height="603" frameX="-821" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0004" x="1327" y="2373" width="425" height="616" frameX="-803" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0005" x="1752" y="2373" width="425" height="616" frameX="-803" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0006" x="3745" y="573" width="528" height="550" frameX="-821" frameY="-241" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0007" x="3133" y="3598" width="791" height="542" frameX="-803" frameY="-271" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0008" x="1358" y="3598" width="1017" height="548" frameX="-821" frameY="-243" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0009" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0010" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0011" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0012" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0013" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0014" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0015" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0016" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0017" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0018" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0019" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0020" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0021" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0022" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0023" x="4394" y="3157" width="398" height="330" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0024" x="4394" y="3487" width="380" height="317" frameX="-821" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0025" x="1620" y="1666" width="519" height="689" frameX="-803" frameY="-474" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0026" x="4394" y="2145" width="519" height="506" frameX="-803" frameY="-409" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0027" x="4394" y="2651" width="501" height="506" frameX="-821" frameY="-409" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0028" x="2177" y="2373" width="427" height="616" frameX="-803" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunter intro-scream0029" x="2466" y="623" width="409" height="603" frameX="-821" frameY="-188" frameWidth="1993" frameHeight="1170" />
+</TextureAtlas>

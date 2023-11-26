@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sat.png">
+<SubTexture name="sat down0000" x="0" y="0" width="380" height="442" frameX="-58" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat down0001" x="0" y="1326" width="385" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat down0002" x="380" y="0" width="381" height="442" frameX="-57" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat down0003" x="761" y="0" width="385" height="442" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat down0004" x="0" y="442" width="383" height="442" frameX="-55" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat right0000" x="383" y="442" width="382" height="442" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat right0001" x="385" y="1326" width="386" height="441" frameX="-55" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat right0002" x="1529" y="884" width="381" height="441" frameX="-57" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat right0003" x="771" y="1326" width="385" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat right0004" x="1156" y="1326" width="384" height="441" frameX="-54" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat up0000" x="765" y="442" width="380" height="442" frameX="-58" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat up0001" x="1913" y="0" width="385" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat up0002" x="1913" y="441" width="382" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat up0003" x="1913" y="882" width="385" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat up0004" x="1146" y="0" width="383" height="442" frameX="-55" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat left0000" x="1146" y="442" width="380" height="442" frameX="-58" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat left0001" x="1913" y="1323" width="385" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat left0002" x="0" y="884" width="382" height="442" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat left0003" x="0" y="1767" width="385" height="441" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat left0004" x="382" y="884" width="384" height="442" frameX="-54" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat idle0000" x="766" y="884" width="383" height="442" frameX="-52" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat idle0001" x="1529" y="0" width="384" height="442" frameX="-54" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat idle0002" x="1529" y="442" width="379" height="442" frameX="-56" frameY="-65" frameWidth="500" frameHeight="578" />
+<SubTexture name="sat idle0003" x="1529" y="0" width="384" height="442" frameX="-54" frameY="-65" frameWidth="500" frameHeight="578" />
+</TextureAtlas>

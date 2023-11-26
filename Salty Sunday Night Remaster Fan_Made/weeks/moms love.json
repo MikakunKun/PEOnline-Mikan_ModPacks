@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bg",
+		"week4",
+		"screen"
+	],
+	"songs": [
+		[
+			"indie star",
+			"mom-exe",
+			[
+				140,
+				40,
+				60
+			]
+		],
+		[
+			"rising star",
+			"mom-exe",
+			[
+				140,
+				40,
+				60
+			]
+		],
+		[
+			"superstar",
+			"mom-exe",
+			[
+				140,
+				40,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Mommy Star",
+	"hiddenUntilUnlocked": false
+}

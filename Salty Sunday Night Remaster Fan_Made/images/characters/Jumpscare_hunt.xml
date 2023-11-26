@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hunt.png">
+<SubTexture name="hunt idle0000" x="0" y="0" width="1185" height="797" frameX="-23" frameY="0" frameWidth="3000" frameHeight="1800" />
+</TextureAtlas>

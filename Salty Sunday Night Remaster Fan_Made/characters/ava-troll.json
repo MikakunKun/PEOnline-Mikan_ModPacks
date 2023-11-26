@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ava left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ava down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ava up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ava right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 20,
+			"name": "ava dance left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 20,
+			"name": "ava dance right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ava_troll",
+	"position": [
+		-300,
+		-200
+	],
+	"healthicon": "icon_hunterAva-re",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		150,
+		300
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.6
+}

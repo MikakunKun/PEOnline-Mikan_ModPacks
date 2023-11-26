@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 20,
+			"name": "cd idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 20,
+			"name": "cd idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CD_SSN",
+	"position": [
+		0,
+		-190
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-200,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bg",
+		"week2",
+		"screen"
+	],
+	"songs": [
+		[
+			"sweet n' spooky",
+			"icon_hunterAva-re",
+			[
+				140,
+				95,
+				140
+			]
+		],
+		[
+			"sour n' scary",
+			"icon_hunterAva-re",
+			[
+				140,
+				95,
+				140
+			]
+		],
+		[
+			"opheebop",
+			"opheebop",
+			[
+				100,
+				80,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

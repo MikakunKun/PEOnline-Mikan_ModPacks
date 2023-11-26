@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-180,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "momma a"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 20,
+			"name": "momma a",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "momma idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/momma",
+	"position": [
+		-600,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-150,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

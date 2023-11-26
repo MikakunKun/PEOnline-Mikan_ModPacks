@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ava.png">
+<SubTexture name="ava right0000" x="2061" y="2924" width="702" height="931" frameX="-221" frameY="-206" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava right0001" x="2016" y="1983" width="689" height="932" frameX="-222" frameY="-205" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava right0002" x="3271" y="0" width="686" height="932" frameX="-225" frameY="-205" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava right0003" x="0" y="2924" width="687" height="932" frameX="-220" frameY="-205" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava right0004" x="687" y="2924" width="687" height="932" frameX="-217" frameY="-205" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava right0005" x="1374" y="2924" width="687" height="932" frameX="-217" frameY="-205" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava down0000" x="5300" y="1774" width="671" height="881" frameX="-171" frameY="-259" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava down0001" x="5300" y="3536" width="672" height="869" frameX="-171" frameY="-271" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava down0002" x="0" y="4773" width="672" height="869" frameX="-171" frameY="-271" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava down0003" x="5300" y="2655" width="672" height="881" frameX="-171" frameY="-259" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava down0004" x="5300" y="0" width="672" height="887" frameX="-171" frameY="-253" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava down0005" x="5300" y="887" width="672" height="887" frameX="-171" frameY="-253" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava up0000" x="1951" y="0" width="648" height="986" frameX="-171" frameY="-151" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava up0001" x="0" y="0" width="649" height="999" frameX="-171" frameY="-138" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava up0002" x="649" y="0" width="651" height="999" frameX="-169" frameY="-138" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava up0003" x="1300" y="0" width="651" height="991" frameX="-169" frameY="-150" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava up0004" x="650" y="999" width="651" height="982" frameX="-169" frameY="-155" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava up0005" x="0" y="999" width="650" height="984" frameX="-170" frameY="-155" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava left0000" x="4027" y="3856" width="671" height="907" frameX="-101" frameY="-229" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava left0001" x="672" y="3856" width="671" height="908" frameX="-89" frameY="-228" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava left0002" x="1343" y="3856" width="671" height="908" frameX="-89" frameY="-228" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava left0003" x="2014" y="3856" width="671" height="908" frameX="-101" frameY="-228" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava left0004" x="2685" y="3856" width="671" height="908" frameX="-106" frameY="-228" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava left0005" x="3356" y="3856" width="671" height="908" frameX="-106" frameY="-228" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0000" x="2599" y="943" width="671" height="942" frameX="-151" frameY="-194" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0001" x="1301" y="999" width="672" height="944" frameX="-150" frameY="-193" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0002" x="2599" y="0" width="672" height="943" frameX="-150" frameY="-193" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0003" x="0" y="1983" width="672" height="941" frameX="-152" frameY="-196" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0004" x="672" y="1983" width="672" height="935" frameX="-156" frameY="-201" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0005" x="1344" y="1983" width="672" height="932" frameX="-160" frameY="-205" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0006" x="3271" y="932" width="672" height="929" frameX="-162" frameY="-207" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0007" x="2763" y="2924" width="673" height="928" frameX="-163" frameY="-209" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0008" x="3957" y="0" width="672" height="927" frameX="-167" frameY="-209" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0009" x="3271" y="1861" width="672" height="929" frameX="-169" frameY="-208" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0010" x="3957" y="1854" width="670" height="926" frameX="-171" frameY="-210" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance left0011" x="3957" y="2780" width="670" height="926" frameX="-171" frameY="-210" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance right0000" x="4629" y="1845" width="671" height="917" frameX="-181" frameY="-219" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance right0001" x="4629" y="2762" width="670" height="917" frameX="-182" frameY="-219" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance right0002" x="0" y="3856" width="672" height="917" frameX="-182" frameY="-219" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance right0003" x="4629" y="924" width="671" height="921" frameX="-178" frameY="-215" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance right0004" x="4629" y="0" width="671" height="924" frameX="-176" frameY="-212" frameWidth="1005" frameHeight="1200" />
+<SubTexture name="ava dance right0005" x="3957" y="927" width="670" height="927" frameX="-174" frameY="-209" frameWidth="1005" frameHeight="1200" />
+</TextureAtlas>

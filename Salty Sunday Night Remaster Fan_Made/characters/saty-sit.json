@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sal down"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sal up"
+		},
+		{
+			"offsets": [
+				50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sal right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "sal idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft-loop",
+			"fps": 24,
+			"name": "sal idle",
+			"indices": [
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "sal idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight-loop",
+			"fps": 24,
+			"name": "sal idle",
+			"indices": [
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sal left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Salty_Sitting",
+	"position": [
+		-150,
+		-50
+	],
+	"healthicon": "Salty-re",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 3.50000000000001,
+	"scale": 0.9
+}

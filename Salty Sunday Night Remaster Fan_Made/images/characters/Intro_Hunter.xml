@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hunt.png">
+<SubTexture name="hunt intro0000" x="1748" y="1422" width="434" height="586" frameX="-767" frameY="-218" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0001" x="1360" y="1422" width="388" height="593" frameX="-784" frameY="-190" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0002" x="1548" y="668" width="430" height="632" frameX="-702" frameY="-135" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0003" x="456" y="1422" width="427" height="627" frameX="-699" frameY="-115" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0004" x="0" y="1422" width="456" height="630" frameX="-696" frameY="-112" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0005" x="2013" y="0" width="471" height="655" frameX="-699" frameY="-87" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0006" x="1029" y="714" width="509" height="695" frameX="-699" frameY="-47" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0007" x="0" y="714" width="518" height="708" frameX="-696" frameY="-34" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0008" x="0" y="0" width="515" height="714" frameX="-699" frameY="-28" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0009" x="515" y="0" width="518" height="714" frameX="-696" frameY="-28" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0010" x="1033" y="0" width="515" height="712" frameX="-699" frameY="-30" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0011" x="518" y="714" width="511" height="696" frameX="-696" frameY="-46" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0012" x="1548" y="0" width="465" height="668" frameX="-696" frameY="-74" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0013" x="2013" y="655" width="454" height="634" frameX="-699" frameY="-108" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0014" x="1548" y="668" width="430" height="632" frameX="-702" frameY="-135" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0015" x="1360" y="1422" width="388" height="593" frameX="-784" frameY="-190" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0016" x="1748" y="1422" width="434" height="586" frameX="-767" frameY="-218" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0017" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0018" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0019" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0020" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0021" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0022" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0023" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0024" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0025" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0026" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0027" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0028" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0029" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0030" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0031" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0032" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0033" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+<SubTexture name="hunt intro0034" x="883" y="1422" width="477" height="618" frameX="-806" frameY="-188" frameWidth="1993" frameHeight="1170" />
+</TextureAtlas>

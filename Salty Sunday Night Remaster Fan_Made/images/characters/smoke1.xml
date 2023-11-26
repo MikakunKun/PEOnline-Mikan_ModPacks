@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smoke.png">
+<SubTexture name="smoke idle0000" x="0" y="879" width="1280" height="347" frameX="0" frameY="-208" frameWidth="1280" frameHeight="720" />
+<SubTexture name="smoke idle0001" x="0" y="454" width="1280" height="425" frameX="0" frameY="-141" frameWidth="1280" frameHeight="720" />
+<SubTexture name="smoke idle0002" x="0" y="0" width="1280" height="454" frameX="0" frameY="-125" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

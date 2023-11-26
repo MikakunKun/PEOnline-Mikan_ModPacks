@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "it idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/intro/Intro_Itsumi",
+	"position": [
+		60,
+		0
+	],
+	"healthicon": "icon-itsumi",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

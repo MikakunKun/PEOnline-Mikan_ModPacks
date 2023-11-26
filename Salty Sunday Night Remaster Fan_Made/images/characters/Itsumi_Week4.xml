@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="itsumi.png">
+<SubTexture name="itsumi dance right0000" x="0" y="2235" width="766" height="421" frameX="-169" frameY="-161" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0001" x="0" y="1805" width="766" height="430" frameX="-169" frameY="-160" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0002" x="2298" y="2656" width="766" height="412" frameX="-169" frameY="-160" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0003" x="2292" y="1279" width="766" height="424" frameX="-169" frameY="-158" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0004" x="1526" y="439" width="766" height="433" frameX="-169" frameY="-157" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0005" x="0" y="2656" width="766" height="416" frameX="-169" frameY="-155" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0006" x="766" y="1805" width="766" height="427" frameX="-169" frameY="-155" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0000" x="766" y="2656" width="766" height="416" frameX="-169" frameY="-166" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0001" x="766" y="2235" width="766" height="420" frameX="-169" frameY="-170" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0002" x="0" y="3072" width="766" height="412" frameX="-169" frameY="-165" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0003" x="1532" y="2656" width="766" height="415" frameX="-169" frameY="-167" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0004" x="2292" y="0" width="766" height="427" frameX="-169" frameY="-163" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0005" x="3821" y="0" width="766" height="410" frameX="-169" frameY="-162" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0006" x="2292" y="427" width="766" height="426" frameX="-169" frameY="-156" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0007" x="1526" y="872" width="766" height="433" frameX="-169" frameY="-157" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0008" x="1532" y="2235" width="766" height="418" frameX="-169" frameY="-152" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0009" x="2292" y="853" width="766" height="426" frameX="-169" frameY="-156" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0010" x="1526" y="0" width="766" height="439" frameX="-169" frameY="-151" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance left0011" x="1532" y="3072" width="766" height="411" frameX="-169" frameY="-159" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0007" x="0" y="1372" width="766" height="433" frameX="-169" frameY="-157" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0008" x="766" y="3072" width="766" height="412" frameX="-169" frameY="-157" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0009" x="2292" y="1703" width="766" height="424" frameX="-169" frameY="-158" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0010" x="766" y="1372" width="766" height="433" frameX="-169" frameY="-157" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi dance right0011" x="2298" y="3072" width="766" height="411" frameX="-169" frameY="-158" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0000" x="763" y="922" width="763" height="448" frameX="-180" frameY="-149" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0001" x="0" y="463" width="763" height="459" frameX="-180" frameY="-151" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0002" x="3058" y="0" width="763" height="418" frameX="-180" frameY="-149" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0003" x="763" y="463" width="763" height="452" frameX="-180" frameY="-145" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0004" x="0" y="0" width="763" height="463" frameX="-180" frameY="-147" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0005" x="3058" y="834" width="763" height="415" frameX="-180" frameY="-148" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0006" x="0" y="922" width="763" height="450" frameX="-180" frameY="-147" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0007" x="763" y="0" width="763" height="460" frameX="-180" frameY="-150" frameWidth="1041" frameHeight="714" />
+<SubTexture name="itsumi sky0008" x="3058" y="418" width="763" height="416" frameX="-180" frameY="-147" frameWidth="1041" frameHeight="714" />
+</TextureAtlas>

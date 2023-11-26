@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="week2.png">
+<SubTexture name="week2 static0000" x="0" y="900" width="1082" height="794" frameX="-53" frameY="-71" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0000" x="1200" y="0" width="1136" height="834" frameX="-26" frameY="-51" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0001" x="0" y="900" width="1082" height="794" frameX="-53" frameY="-71" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0002" x="1082" y="900" width="834" height="612" frameX="-177" frameY="-162" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0003" x="0" y="1694" width="468" height="343" frameX="-360" frameY="-296" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0004" x="1916" y="900" width="100" height="73" frameX="-544" frameY="-431" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0005" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0006" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0007" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0008" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0009" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0010" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0011" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0012" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0013" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0014" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0015" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+<SubTexture name="week2 hey0016" x="0" y="0" width="1200" height="900" frameX="0" frameY="0" frameWidth="1200" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "Itsumi cheer"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Itsumi left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Itsumi down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Itsumi up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Itsumi right"
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Itsumi dance left"
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Itsumi dance right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Itsumi",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "icon-itsumi",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

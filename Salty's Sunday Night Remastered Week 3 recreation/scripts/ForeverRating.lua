@@ -1,3 +1,4 @@
+local onlineOwner=false
 function onCreate()
     if getPropertyFromClass('states.PlayState','isPixelStage') then
         Path='pixel/'
@@ -9,8 +10,14 @@ function onCreate()
     setProperty('showCombo',false)
     setProperty('showComboNum',false)
     setProperty('showRating',false)
-    Positions={x=screenWidth* 0.55- 40,y=(screenHeight/2)-(163/2)-60}
-    PositionNum={x=(screenWidth/2)-(100/2),y=(screenHeight/2)-(140/2)}
+    onlineOwner=getPropertyFromClass('online.GameClient','isOwner')
+    if (onlineOwner==false) then
+        Positions={x=screenWidth* 0.55- 40,y=(screenHeight/2)-(163/2)-60}
+        PositionNum={x=(screenWidth/2)-(100/2),y=(screenHeight/2)-(140/2)}
+    else
+        Positions={x=-530,y=(screenHeight/2)-400}
+        PositionNum={x=-450,y=(screenHeight/2)-350}
+    end
     
 
     PositionOffsets={x=0,y=0}

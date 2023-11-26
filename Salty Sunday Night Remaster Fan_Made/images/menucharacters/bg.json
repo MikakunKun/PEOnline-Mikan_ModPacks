@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "",
+	"idle_anim": "bg idle",
+	"position": [
+		170,
+		70
+	],
+	"scale": 1,
+	"image": "bg",
+	"flipX": false
+}

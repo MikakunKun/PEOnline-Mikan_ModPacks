@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				700,
+				-1150
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "ophee idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-410,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "intro",
+			"loop": false,
+			"name": "ophee idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/intro/Intro_Opheebop",
+	"position": [
+		-850,
+		-180
+	],
+	"healthicon": "opheebop",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		550,
+		400
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.47
+}

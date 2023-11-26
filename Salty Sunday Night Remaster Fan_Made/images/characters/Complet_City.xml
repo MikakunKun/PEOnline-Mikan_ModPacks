@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="city.png">
+<SubTexture name="city idle0000" x="0" y="0" width="3759" height="1461" frameX="0" frameY="-614" frameWidth="3759" frameHeight="2075" />
+</TextureAtlas>

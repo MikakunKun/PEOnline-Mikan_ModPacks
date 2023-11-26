@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mom left"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mom right"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mom down"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mom up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "mom dance left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "danceLeft-loop",
+			"indices": [
+				6,
+				7,
+				8
+			],
+			"name": "mom dance left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "mom dance right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "danceRight-loop",
+			"indices": [
+				6,
+				7,
+				8
+			],
+			"name": "mom dance right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mom-exe_Sitting",
+	"position": [
+		-550,
+		-290
+	],
+	"healthicon": "mom-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		20
+	],
+	"camera_position": [
+		100,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

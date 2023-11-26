@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hunter left"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hunter down"
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hunter up"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hunter right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "aaa",
+			"fps": 24,
+			"name": "hunter intro-scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				3,
+				3,
+				4,
+				5,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "hunter dance left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				4,
+				5,
+				5,
+				6
+			],
+			"fps": 18,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "hunter dance right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hunter",
+	"position": [
+		-700,
+		-150
+	],
+	"healthicon": "icon_hunterAva-re",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		80,
+		135
+	],
+	"camera_position": [
+		200,
+		230
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.75
+}

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="croagunk-guild.png">
-<SubTexture name="croagunk-guild0000" x="0" y="379" width="345" height="363" frameX="-112" frameY="-646" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="croagunk-guild0001" x="652" y="0" width="338" height="368" frameX="-116" frameY="-642" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="croagunk-guild0002" x="0" y="0" width="321" height="379" frameX="-126" frameY="-633" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="croagunk-guild0003" x="321" y="0" width="331" height="374" frameX="-120" frameY="-637" frameWidth="2800" frameHeight="1400" />
-<SubTexture name="croagunk-guild0004" x="321" y="0" width="331" height="374" frameX="-120" frameY="-637" frameWidth="2800" frameHeight="1400" />
-</TextureAtlas>

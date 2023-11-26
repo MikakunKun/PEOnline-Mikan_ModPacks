@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mom.png">
+<SubTexture name="mom dance right0000" x="1724" y="689" width="569" height="688" frameX="-224" frameY="-188" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0001" x="1724" y="0" width="569" height="689" frameX="-224" frameY="-191" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0002" x="563" y="700" width="569" height="693" frameX="-224" frameY="-190" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0003" x="0" y="1394" width="569" height="687" frameX="-224" frameY="-194" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0004" x="1132" y="700" width="569" height="690" frameX="-224" frameY="-188" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0005" x="2293" y="1366" width="569" height="678" frameX="-224" frameY="-198" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0006" x="1158" y="1394" width="569" height="684" frameX="-224" frameY="-188" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0007" x="572" y="2081" width="569" height="678" frameX="-224" frameY="-194" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance right0008" x="2293" y="0" width="569" height="684" frameX="-224" frameY="-188" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0000" x="4004" y="1311" width="569" height="654" frameX="-224" frameY="-207" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0001" x="570" y="3431" width="569" height="649" frameX="-224" frameY="-209" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0002" x="1139" y="3431" width="569" height="649" frameX="-224" frameY="-207" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0003" x="1714" y="2765" width="569" height="659" frameX="-224" frameY="-203" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0004" x="1710" y="2081" width="569" height="671" frameX="-224" frameY="-197" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0005" x="1141" y="2081" width="569" height="677" frameX="-224" frameY="-193" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0006" x="1158" y="1394" width="569" height="684" frameX="-224" frameY="-188" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0007" x="2293" y="684" width="569" height="682" frameX="-224" frameY="-190" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom dance left0008" x="2293" y="0" width="569" height="684" frameX="-224" frameY="-188" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom right0000" x="1152" y="2765" width="562" height="660" frameX="-256" frameY="-215" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom right0001" x="4004" y="656" width="562" height="655" frameX="-256" frameY="-215" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom right0002" x="4004" y="1965" width="562" height="652" frameX="-256" frameY="-215" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom right0003" x="2279" y="2081" width="572" height="662" frameX="-246" frameY="-215" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom right0004" x="2862" y="1341" width="572" height="668" frameX="-246" frameY="-215" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom right0005" x="2862" y="671" width="572" height="670" frameX="-246" frameY="-215" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom down0000" x="589" y="0" width="563" height="699" frameX="-225" frameY="-202" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom down0001" x="569" y="1394" width="589" height="686" frameX="-225" frameY="-220" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom down0002" x="0" y="2081" width="572" height="684" frameX="-225" frameY="-216" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom down0003" x="0" y="700" width="563" height="694" frameX="-225" frameY="-208" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom down0004" x="0" y="0" width="589" height="700" frameX="-225" frameY="-202" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom down0005" x="1152" y="0" width="572" height="697" frameX="-225" frameY="-205" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom up0000" x="1727" y="1394" width="566" height="674" frameX="-216" frameY="-163" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom up0001" x="2862" y="0" width="600" height="671" frameX="-216" frameY="-151" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom up0002" x="2862" y="2009" width="592" height="667" frameX="-216" frameY="-151" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom up0003" x="2283" y="2765" width="566" height="658" frameX="-216" frameY="-163" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom up0004" x="2849" y="2765" width="600" height="656" frameX="-216" frameY="-166" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom up0005" x="0" y="2765" width="592" height="666" frameX="-216" frameY="-166" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom left0000" x="3462" y="656" width="542" height="651" frameX="-208" frameY="-207" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom left0001" x="4004" y="2617" width="560" height="652" frameX="-208" frameY="-208" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom left0002" x="0" y="3431" width="570" height="652" frameX="-208" frameY="-202" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom left0003" x="3462" y="0" width="542" height="656" frameX="-208" frameY="-204" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom left0004" x="592" y="2765" width="560" height="661" frameX="-208" frameY="-204" frameWidth="1067" frameHeight="1038" />
+<SubTexture name="mom left0005" x="4004" y="0" width="570" height="656" frameX="-208" frameY="-208" frameWidth="1067" frameHeight="1038" />
+</TextureAtlas>

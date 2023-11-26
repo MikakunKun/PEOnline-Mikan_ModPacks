@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ophee.png">
+<SubTexture name="ophee idle0000" x="2838" y="2486" width="285" height="105" frameX="-360" frameY="-1021" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0001" x="2838" y="2316" width="640" height="170" frameX="-201" frameY="-973" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0002" x="2838" y="2142" width="643" height="174" frameX="-201" frameY="-969" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0003" x="2838" y="1965" width="642" height="177" frameX="-199" frameY="-966" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0004" x="1402" y="1521" width="640" height="394" frameX="-201" frameY="-749" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0005" x="1402" y="988" width="674" height="533" frameX="-198" frameY="-614" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0006" x="2129" y="1965" width="709" height="721" frameX="-177" frameY="-414" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0007" x="0" y="0" width="701" height="988" frameX="-173" frameY="-154" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0008" x="0" y="1965" width="709" height="942" frameX="-177" frameY="-193" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0009" x="701" y="0" width="701" height="981" frameX="-173" frameY="-161" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0010" x="701" y="988" width="701" height="976" frameX="-186" frameY="-171" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0011" x="2103" y="0" width="709" height="972" frameX="-177" frameY="-163" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0012" x="1402" y="0" width="701" height="981" frameX="-173" frameY="-161" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0013" x="0" y="988" width="701" height="977" frameX="-179" frameY="-168" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0014" x="2103" y="0" width="709" height="972" frameX="-177" frameY="-163" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0015" x="1402" y="0" width="701" height="981" frameX="-173" frameY="-161" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0016" x="0" y="988" width="701" height="977" frameX="-179" frameY="-168" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0017" x="2103" y="972" width="709" height="943" frameX="-177" frameY="-192" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0018" x="709" y="1965" width="711" height="942" frameX="-178" frameY="-193" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0019" x="2812" y="0" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0020" x="1420" y="1965" width="709" height="940" frameX="-177" frameY="-195" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0021" x="2812" y="946" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0022" x="709" y="1965" width="711" height="942" frameX="-178" frameY="-193" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0023" x="2812" y="0" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0024" x="1420" y="1965" width="709" height="940" frameX="-177" frameY="-195" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0025" x="2812" y="946" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0026" x="709" y="1965" width="711" height="942" frameX="-178" frameY="-193" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0027" x="2812" y="0" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0028" x="1420" y="1965" width="709" height="940" frameX="-177" frameY="-195" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0029" x="2812" y="946" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0030" x="709" y="1965" width="711" height="942" frameX="-178" frameY="-193" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0031" x="2812" y="0" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0032" x="1420" y="1965" width="709" height="940" frameX="-177" frameY="-195" frameWidth="1199" frameHeight="1200" />
+<SubTexture name="ophee idle0033" x="2812" y="946" width="711" height="946" frameX="-182" frameY="-201" frameWidth="1199" frameHeight="1200" />
+</TextureAtlas>

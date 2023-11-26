@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="it.png">
+<SubTexture name="it idle0000" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0001" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0002" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0003" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0004" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0005" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0006" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0007" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0008" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0009" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0010" x="0" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="654" />
+<SubTexture name="it idle0011" x="703" y="0" width="703" height="648" frameX="0" frameY="-3" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0012" x="0" y="648" width="699" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0013" x="699" y="648" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0014" x="0" y="1293" width="698" height="644" frameX="-2" frameY="-7" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0015" x="0" y="1293" width="698" height="644" frameX="-2" frameY="-7" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0016" x="698" y="1293" width="698" height="644" frameX="-2" frameY="-7" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0017" x="1396" y="1293" width="698" height="644" frameX="-2" frameY="-7" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0018" x="1406" y="0" width="699" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0019" x="1406" y="0" width="699" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0020" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0021" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0022" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0023" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0024" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0025" x="1406" y="0" width="699" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0026" x="1406" y="0" width="699" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0027" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0028" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0029" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0030" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+<SubTexture name="it idle0031" x="1406" y="645" width="698" height="645" frameX="-2" frameY="-6" frameWidth="703" frameHeight="651" />
+</TextureAtlas>

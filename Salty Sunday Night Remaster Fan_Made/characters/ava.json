@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ava left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ava down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ava up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ava right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "ava dance left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "ava dance right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ava",
+	"position": [
+		-300,
+		-200
+	],
+	"healthicon": "icon_hunterAva-re",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		150,
+		300
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.7
+}

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sat.png">
+<SubTexture name="sat scared0000" x="748" y="0" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat scared0001" x="0" y="877" width="370" height="435" frameX="-102" frameY="-80" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat scared0002" x="750" y="439" width="365" height="437" frameX="-104" frameY="-77" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0000" x="0" y="439" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0001" x="375" y="439" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0002" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0003" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0004" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0005" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0006" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0007" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0008" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0009" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0010" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0011" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0012" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0013" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0014" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0015" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0016" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0017" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0018" x="0" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0019" x="374" y="0" width="374" height="439" frameX="-97" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0020" x="1123" y="0" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0021" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0022" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0023" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0024" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0025" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0026" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0027" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0028" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0029" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0030" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0031" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0032" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0033" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0034" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0035" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+<SubTexture name="sat OMG IS AVA O OK ITSUMI IS FINE0036" x="1123" y="438" width="375" height="438" frameX="-100" frameY="-78" frameWidth="600" frameHeight="543" />
+</TextureAtlas>

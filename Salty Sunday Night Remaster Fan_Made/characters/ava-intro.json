@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				19,
+				19,
+				19,
+				19,
+				19,
+				19,
+				19,
+				19,
+				19,
+				19,
+				19,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "ava intro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Intro_ava",
+	"position": [
+		-300,
+		-200
+	],
+	"healthicon": "icon_hunterAva-re",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		150,
+		300
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.7
+}

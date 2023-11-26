@@ -41,6 +41,5 @@ by ChrisSoPhrase,
 by LeafyTheFoliage, Blazing and Aight!,
 
 There's more... Not many.
-
 ## Modpack Creater
-* Mikankun - Modpack Creater | Owner
+*Mikankun - Modpack Creater | Owner

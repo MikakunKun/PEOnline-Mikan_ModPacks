@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "week4 hey",
+	"idle_anim": "week4 static",
+	"position": [
+		450,
+		150
+	],
+	"scale": 0.6,
+	"image": "week4",
+	"flipX": false
+}

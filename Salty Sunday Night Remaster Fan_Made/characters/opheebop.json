@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ophee left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ophee right"
+		},
+		{
+			"offsets": [
+				-200,
+				-50
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle-alt",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "ophee idle"
+		},
+		{
+			"offsets": [
+				-200,
+				-50
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "ophee idle"
+		},
+		{
+			"offsets": [
+				-200,
+				-50
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "ophee idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ophee down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ophee up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-40
+			],
+			"indices": [],
+			"fps": 27,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "ophee d-a"
+		},
+		{
+			"offsets": [
+				160,
+				158
+			],
+			"indices": [],
+			"fps": 27,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "ophee u-a"
+		},
+		{
+			"offsets": [
+				190,
+				160
+			],
+			"indices": [],
+			"fps": 27,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "ophee l-a"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Opheebop",
+	"position": [
+		-850,
+		-180
+	],
+	"healthicon": "opheebop",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		550,
+		400
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.47
+}

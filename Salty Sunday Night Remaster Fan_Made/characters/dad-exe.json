@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad-exe left...",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad-exe down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad-exe up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad-exe right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad-exe idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dad-exe",
+	"position": [
+		-200,
+		-100
+	],
+	"healthicon": "dad-exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		81,
+		215
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.9
+}

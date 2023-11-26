@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "woman left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "woman down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "woman up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "woman right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle-loop",
+			"indices": [
+				17,
+				18,
+				19
+			],
+			"name": "woman idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "woman idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Opheebop_Woman",
+	"position": [
+		-700,
+		-150
+	],
+	"healthicon": "opheebop",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		200
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.6
+}
