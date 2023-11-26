@@ -77,10 +77,11 @@ function onUpdate(elapsed)
 		addLuaSprite('flash', true);
 		doTweenAlpha('flashin', 'flash', 0, 1, 'linear');
 
-
+		addHaxeLibrary("Note", 'objects')
+		local defaultSkin=runHaxeCode('return Note.defaultNoteSkin+Note.getNoteSkinPostfix();')
 	    for i=0,4,1 do
-		    setPropertyFromGroup('opponentStrums', i, 'texture', '');
-		    setPropertyFromGroup('playerStrums', i, 'texture', '');
+		    setPropertyFromGroup('opponentStrums', i, 'texture', defaultSkin);
+		    setPropertyFromGroup('playerStrums', i, 'texture', defaultSkin);
 	    end
 	end
 
