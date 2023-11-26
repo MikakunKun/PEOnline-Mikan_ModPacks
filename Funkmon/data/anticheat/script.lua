@@ -3,7 +3,11 @@ local shake = 1;
 local randomnumber = 0;
 local camera = 0;
 
+local onlineOwner=false
+
 function onCreate()
+    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+
 	setPropertyFromClass('states.GameOverSubstate', 'characterName', 'patirisu-bf');
 	setPropertyFromClass('states.GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx');
 	setPropertyFromClass('states.GameOverSubstate', 'loopSoundName', 'gameOver');
@@ -38,46 +42,71 @@ function onUpdate(elapsed)
 
     if curStep == 800 or curStep == 864 or curStep == 928 or curStep == 992 or curStep == 1056 or curStep == 1120 then
 	setProperty("camHUD.angle", 180)
+    if (onlineOwner==true) then
+        noteTweenX("Note7", 0, 760, 0.5, "quartout")
+        noteTweenX("Note4", 1, 640, 0.5, "quartout")
+        noteTweenX("Note5", 2, 520, 0.5, "quartout")
+        noteTweenX("Note6", 3, 400, 0.5, "quartout")
+    else
         noteTweenX("Note5", 6, 520, 0.5, "quartout")
         noteTweenX("Note7", 4, 760, 0.5, "quartout")
         noteTweenX("Note6", 7, 400, 0.5, "quartout")
         noteTweenX("Note4", 5, 640, 0.5, "quartout")
     end
+    end
 
     if curStep == 832 or curStep == 896 or curStep == 960 or curStep == 1024 or curStep == 1088 or curStep == 1152 or curStep == 1440 then
 	setProperty("camHUD.angle", 0)
+    if (onlineOwner==true) then
+        noteTweenX("Note7", 0, 400, 0.5, "quartout")
+        noteTweenX("Note4", 1, 520, 0.5, "quartout")
+        noteTweenX("Note5", 2, 640, 0.5, "quartout")
+        noteTweenX("Note6", 3, 760, 0.5, "quartout")
+    else
         noteTweenX("Note5", 6, 640, 0.5, "quartout")
         noteTweenX("Note7", 4, 400, 0.5, "quartout")
         noteTweenX("Note6", 7, 760, 0.5, "quartout")
         noteTweenX("Note4", 5, 520, 0.5, "quartout")
+    end
     end
 
 
     if curStep == 528 then
-        noteTweenX("Note5", 6, 640, 0.5, "quartout")
-        noteTweenX("Note7", 4, 400, 0.5, "quartout")
-        noteTweenX("Note6", 7, 760, 0.5, "quartout")
-        noteTweenX("Note4", 5, 520, 0.5, "quartout")
+        if (onlineOwner==true) then
+            noteTweenX("Note7", 0, 400, 0.5, "quartout")
+            noteTweenX("Note4", 1, 520, 0.5, "quartout")
+            noteTweenX("Note5", 2, 640, 0.5, "quartout")
+            noteTweenX("Note6", 3, 760, 0.5, "quartout")
+        else
+            noteTweenX("Note5", 6, 640, 0.5, "quartout")
+            noteTweenX("Note7", 4, 400, 0.5, "quartout")
+            noteTweenX("Note6", 7, 760, 0.5, "quartout")
+            noteTweenX("Note4", 5, 520, 0.5, "quartout")
+        end
     end
 
-
-
+    local min=4
+    local max=7
+    if (onlineOwner==true) then
+        min=0
+        max=3
+    end
     if curStep >= 16 and curStep <= 272 or curStep >= 532 and curStep <= 784 or curStep >= 1444 then
-        for i = 4,7 do
+        for i = min,max do
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1] + getRandomInt(-shake, shake) + math.sin((currentBeat + i*0.25) * math.pi))
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2] + getRandomInt(-shake, shake) + math.sin((currentBeat + i*0.25) * math.pi))
         end 
 end
 
     if curStep >= 272 and curStep <= 528 then
-        for i = 4,7 do
+        for i = min,max do
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1] + getRandomInt(-shake, shake) + math.sin((currentBeat + i*0.25) * math.pi) + (math.sin((currentBeat+i/5)/4) * 250))
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2] + getRandomInt(-shake, shake) + math.sin((currentBeat + i*0.25) * math.pi) + (math.sin((currentBeat+i/5)) * 20))
         end                                                                                                             
 end                                                           
 
     if curStep >= 1184 and curStep <= 1440 then
-        for i = 4,7 do
+        for i = min,max do
             setPropertyFromGroup('strumLineNotes', i, 'x', defaultNotePos[i + 1][1] + getRandomInt(-shake, shake) + math.sin((currentBeat + i*0.25) * math.pi) + (math.sin((currentBeat+i/5)/4) * 250))
             setPropertyFromGroup('strumLineNotes', i, 'y', defaultNotePos[i + 1][2] + getRandomInt(-shake, shake) + math.sin((currentBeat + i*0.25) * math.pi) + (math.sin((currentBeat+i/5)) * 20))
             setProperty("camHUD.angle", math.sin(currentBeat/5)*10)

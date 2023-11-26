@@ -3,9 +3,9 @@ local singAnimations={'singLEFT', 'singDOWN', 'singUP', 'singRIGHT'}
 function onCreate()
     onlineOwner=runHaxeCode('return PlayState.playerSide();')
     for i=0,getProperty("unspawnNotes.length")-1 do
+        setPropertyFromGroup("unspawnNotes", i,'noAnimation',true)
+        setPropertyFromGroup("unspawnNotes", i,'noMissAnimation',true)
         if onlineOwner==true then
-            setPropertyFromGroup("unspawnNotes", i,'noAnimation',true)
-            setPropertyFromGroup("unspawnNotes", i,'noMissAnimation',true)
             setPropertyFromGroup("unspawnNotes", i,'mustPress', not getPropertyFromGroup("unspawnNotes", i,'mustPress'))
         end
     end
