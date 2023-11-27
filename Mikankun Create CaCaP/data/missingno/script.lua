@@ -2,7 +2,7 @@ local missingno = true
 local useStrums='opponentStrums'
 
 function onCreate()
-    if (runHaxeCode('return PlayState.playerSide();')==true) then
+    if (not runHaxeCode('return PlayState.playsAsBF();')==true) then
         useStrums='playerStrums'
     end
     if stringStartsWith(string.lower(difficultyName), 'cover') then

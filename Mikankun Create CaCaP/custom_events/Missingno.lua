@@ -7,7 +7,7 @@ function onStartCountdown()
 end
 
 function onCountdownStarted()
-    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+    onlineOwner=not runHaxeCode('return PlayState.playsAsBF();')
     for i = 0, 3 do
         table.insert(scaleX,getProGroup('playerStrums',i,'scale.x'))
         table.insert(scaleY,getProGroup('playerStrums',i,'scale.y'))

@@ -6,7 +6,7 @@ local camera = 0;
 local onlineOwner=false
 
 function onCreate()
-    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+    onlineOwner=not runHaxeCode('return PlayState.playsAsBF();')
 
 	setPropertyFromClass('states.GameOverSubstate', 'characterName', 'patirisu-bf');
 	setPropertyFromClass('states.GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx');

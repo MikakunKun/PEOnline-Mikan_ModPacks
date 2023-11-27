@@ -5,7 +5,7 @@ function onCreate()
     canDodge = false;
 
     precacheImage('warning');
-    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+    onlineOwner=not runHaxeCode('return PlayState.playsAsBF();')
 end
 
 function onEvent(name, value1, value2)

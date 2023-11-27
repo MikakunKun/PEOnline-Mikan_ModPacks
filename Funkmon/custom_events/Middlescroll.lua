@@ -1,6 +1,6 @@
 local onlineOwner=false
 function onCreate()
-    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+    onlineOwner=not runHaxeCode('return PlayState.playsAsBF();')
 end
 function onStepHit()
     if curStep == 1 then

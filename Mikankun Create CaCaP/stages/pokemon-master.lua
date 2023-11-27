@@ -81,7 +81,6 @@ function onCreatePost()
 	addHaxeLibrary('FlxRect', 'flixel.math');
 	addHaxeLibrary('Note');
 
-	setHealth(2)
 	setCharacterX('boyfriend', 70)
 	setCharacterY('boyfriend', 570)
 
@@ -94,16 +93,21 @@ function onCreatePost()
 	setProperty('dad.scale.x', 0.8)
 	setProperty('dad.scale.y', 0.8)
 
-	for i=0,mania do
-		setPropertyFromGroup('playerStrums',i,'x',_G['defaultOpponentStrumX'..i])
-		setPropertyFromGroup('opponentStrums',i,'x',-114514)
+	for i=0,3 do
+		if (runHaxeCode('return PlayState.playsAsBF();')==false) then
+			setPropertyFromGroup('opponentStrums',i,'x',_G['defaultOpponentStrumX'..i])
+			setPropertyFromGroup('playerStrums',i,'x',-114514)
+		else
+			setPropertyFromGroup('playerStrums',i,'x',_G['defaultOpponentStrumX'..i])
+			setPropertyFromGroup('opponentStrums',i,'x',-114514)
+		end
 	end
 end
 
 function onEvent(eventName, value1, value2)
 	if (eventName == 'Change Character') then
 		if (value2 == 'pixel-bf-pokemon-master') then
-			for i=0,mania do
+			for i=0,3 do
 				setPropertyFromGroup('opponentStrums', i, 'texture', 'pixel_NOTE_assets'); --Change texture
 				setPropertyFromGroup('playerStrums', i, 'texture', 'pixel_NOTE_assets'); --Change texture
 				runHaxeCode([[

@@ -1,7 +1,7 @@
 local onlineOwner=false
 local singAnimations={'singLEFT', 'singDOWN', 'singUP', 'singRIGHT'}
 function onCreate()
-    onlineOwner=runHaxeCode('return PlayState.playerSide();')
+    onlineOwner=not runHaxeCode('return PlayState.playsAsBF();')
     for i=0,getProperty("unspawnNotes.length")-1 do
         setPropertyFromGroup("unspawnNotes", i,'noAnimation',true)
         setPropertyFromGroup("unspawnNotes", i,'noMissAnimation',true)
