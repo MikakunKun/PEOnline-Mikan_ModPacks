@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Pico Idle Dance",
+	"image": "pokemon3",
+	"position": [
+		159,
+		76
+	],
+	"flipX": true,
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

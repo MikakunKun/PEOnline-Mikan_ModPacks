@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				27
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-13
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				45
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				28
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				47
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "BF NOTE UP0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chalk humanized",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "chalk-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		221,
+		221,
+		221
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

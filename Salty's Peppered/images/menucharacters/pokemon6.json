@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "pokemon6",
+	"position": [
+		-10,
+		-113
+	],
+	"flipX": false,
+	"scale": 2.8,
+	"confirm_anim": "M Dad Idle"
+}

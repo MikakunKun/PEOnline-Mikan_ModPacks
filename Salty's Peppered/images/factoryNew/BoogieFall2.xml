@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoogieFall2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DANCER FALLING 20000" x="0" y="0" width="655" height="1082" frameX="0" frameY="0" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20001" x="655" y="0" width="914" height="1041" frameX="-212" frameY="-716" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20002" x="1569" y="0" width="1247" height="1109" frameX="-274" frameY="-1254" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20003" x="2816" y="0" width="1426" height="1389" frameX="-468" frameY="-1572" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20004" x="4242" y="0" width="1690" height="1459" frameX="-552" frameY="-2031" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20005" x="5932" y="0" width="1748" height="1623" frameX="-766" frameY="-2389" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20006" x="0" y="1623" width="1892" height="1730" frameX="-872" frameY="-2735" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20007" x="1892" y="1623" width="1881" height="1689" frameX="-1108" frameY="-3222" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20008" x="3773" y="1623" width="1904" height="1679" frameX="-1235" frameY="-3609" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20009" x="5677" y="1623" width="1774" height="1674" frameX="-1493" frameY="-3983" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20010" x="0" y="3353" width="1728" height="1460" frameX="-1641" frameY="-4498" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20011" x="1728" y="3353" width="1477" height="1338" frameX="-1920" frameY="-4913" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20012" x="3205" y="3353" width="1312" height="1160" frameX="-2090" frameY="-5316" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20013" x="4517" y="3353" width="1107" height="1040" frameX="-2391" frameY="-5653" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20014" x="5624" y="3353" width="967" height="1082" frameX="-2583" frameY="-5760" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20015" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20016" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20017" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20018" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20019" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20020" x="870" y="4813" width="442" height="517" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20021" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20022" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20023" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20024" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20025" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20026" x="870" y="4813" width="442" height="517" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20027" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20028" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20029" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20030" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20031" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20032" x="870" y="4813" width="442" height="517" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20033" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20034" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20035" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20036" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20037" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20038" x="870" y="4813" width="442" height="517" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20039" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20040" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20041" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20042" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20043" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20044" x="870" y="4813" width="442" height="517" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20045" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20046" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20047" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20048" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20049" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20050" x="870" y="4813" width="442" height="517" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20051" x="6591" y="3353" width="391" height="554" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20052" x="6982" y="3353" width="479" height="488" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20053" x="7461" y="3353" width="442" height="502" frameX="-5658" frameY="-6480" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20054" x="0" y="4813" width="391" height="569" frameX="-5663" frameY="-6428" frameWidth="6116" frameHeight="6997"/>
+	<SubTexture name="DANCER FALLING 20055" x="391" y="4813" width="479" height="473" frameX="-5637" frameY="-6509" frameWidth="6116" frameHeight="6997"/>
+</TextureAtlas>

@@ -1,0 +1,126 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle Default",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle Default",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-8
+			],
+			"anim": "singLEFT-alt",
+			"fps": 40,
+			"name": "Sing Left Ava",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-48
+			],
+			"anim": "singDOWN-alt",
+			"fps": 40,
+			"name": "Sing Down Ava",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 40,
+			"name": "Sing Up Ava",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-201,
+				-8
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 40,
+			"name": "Sing Right Ava",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-186,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Idle Scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ava-pep-new-purple",
+	"position": [
+		20,
+		210
+	],
+	"healthicon": "huntah",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		101,
+		254
+	],
+	"camera_position": [
+		-60,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

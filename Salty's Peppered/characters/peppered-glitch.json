@@ -1,0 +1,324 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				79,
+				60
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				34,
+				-30
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				39,
+				54
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "idle",
+			"indices": [
+				0,
+				2,
+				4,
+				14,
+				16,
+				6,
+				8,
+				10,
+				12
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "broken idle"
+		},
+		{
+			"offsets": [
+				92,
+				60
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ualt"
+		},
+		{
+			"offsets": [
+				30,
+				-30
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "dalt"
+		},
+		{
+			"offsets": [
+				95,
+				8
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "lalt"
+		},
+		{
+			"offsets": [
+				27,
+				64
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ralt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-54
+			],
+			"anim": "noEnergy",
+			"fps": 24,
+			"name": "turns off",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"offsets": [
+				42,
+				-54
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "noEnergy-loop",
+			"indices": [
+				6,
+				6
+			],
+			"name": "turns off"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-54
+			],
+			"anim": "hey",
+			"fps": 41,
+			"name": "scream",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				12,
+				13,
+				12,
+				13,
+				12,
+				13,
+				12,
+				13,
+				12,
+				13,
+				12
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/glitchy",
+	"position": [
+		140,
+		350
+	],
+	"healthicon": "glitchy",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		0,
+		55
+	],
+	"camera_position": [
+		-260,
+		-360
+	],
+	"sing_duration": 3,
+	"scale": 6
+}

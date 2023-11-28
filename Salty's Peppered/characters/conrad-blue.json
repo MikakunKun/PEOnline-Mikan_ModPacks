@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-44
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "SCREAM"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				2
+			],
+			"anim": "singUP-alt",
+			"fps": 40,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				2
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "Picowtf NOTE UP wtf",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				-1
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-21,
+				-3
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 50,
+			"name": "Pico Idle Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/conrad-blue",
+	"position": [
+		30,
+		300
+	],
+	"healthicon": "corad",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		51,
+		153
+	],
+	"camera_position": [
+		-60,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

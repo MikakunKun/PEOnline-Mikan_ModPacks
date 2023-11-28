@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				260,
+				-150
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				60,
+				-460
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-90,
+				200
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-270,
+				-160
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				230,
+				-50
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Charge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CynthiaShootGun",
+	"position": [
+		-280,
+		-470
+	],
+	"healthicon": "bee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-100,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

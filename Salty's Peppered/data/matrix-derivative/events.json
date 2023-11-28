@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 4.2,
+		"stage": "school",
+		"player1": "salty-pixel",
+		"player2": "big-tv-head",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashesCrimson",
+		"validScore": false,
+		"gfVersion": "itsumi-pixel",
+		"bpm": 339,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Matrix-Derivate"
+	}
+}

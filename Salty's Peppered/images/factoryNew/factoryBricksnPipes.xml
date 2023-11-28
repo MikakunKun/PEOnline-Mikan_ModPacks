@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="factoryBricksnPipes.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG0000" x="0" y="0" width="3926" height="971" frameX="-923" frameY="0" frameWidth="4849" frameHeight="975"/>
+	<SubTexture name="BG0001" x="3926" y="0" width="3919" height="972" frameX="-769" frameY="0" frameWidth="4849" frameHeight="975"/>
+	<SubTexture name="BG0002" x="0" y="972" width="3912" height="971" frameX="-615" frameY="-1" frameWidth="4849" frameHeight="975"/>
+	<SubTexture name="BG0003" x="3912" y="972" width="3904" height="971" frameX="-462" frameY="-2" frameWidth="4849" frameHeight="975"/>
+	<SubTexture name="BG0004" x="0" y="1943" width="3897" height="972" frameX="-308" frameY="-2" frameWidth="4849" frameHeight="975"/>
+	<SubTexture name="BG0005" x="3897" y="1943" width="3890" height="971" frameX="-154" frameY="-3" frameWidth="4849" frameHeight="975"/>
+	<SubTexture name="BG0006" x="0" y="2915" width="3883" height="972" frameX="0" frameY="-3" frameWidth="4849" frameHeight="975"/>
+</TextureAtlas>

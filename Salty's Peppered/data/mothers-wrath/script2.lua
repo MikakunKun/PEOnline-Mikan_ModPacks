@@ -1,0 +1,1 @@
+function onCreate()	get = getRandomInt(1,1)endfunction onUpdate()		if get == 1 then			setTextString("botplayTxt", "OWIEUYU3EYT278916YE8721Y7812TY3TY183Y198723TYE7823YT7283TY")	endfunction onCreate()      setPropertyFromClass('ClientPrefs', 'timeBarType', 'Disabled')endend

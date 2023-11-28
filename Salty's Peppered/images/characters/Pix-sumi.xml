@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pix-sumi.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="0" y="0" width="127" height="122"/>
+	<SubTexture name="dance0001" x="0" y="0" width="127" height="122"/>
+	<SubTexture name="dance0002" x="127" y="0" width="127" height="122"/>
+	<SubTexture name="dance0003" x="127" y="0" width="127" height="122"/>
+	<SubTexture name="dance0004" x="254" y="0" width="127" height="122"/>
+	<SubTexture name="dance0005" x="254" y="0" width="127" height="122"/>
+	<SubTexture name="dance0006" x="381" y="0" width="127" height="122"/>
+	<SubTexture name="dance0007" x="381" y="0" width="127" height="122"/>
+	<SubTexture name="dance0008" x="0" y="122" width="127" height="122"/>
+	<SubTexture name="dance0009" x="0" y="122" width="127" height="122"/>
+	<SubTexture name="dance0010" x="127" y="122" width="127" height="122"/>
+	<SubTexture name="dance0011" x="127" y="122" width="127" height="122"/>
+	<SubTexture name="dance0012" x="254" y="122" width="127" height="122"/>
+	<SubTexture name="dance0013" x="254" y="122" width="127" height="122"/>
+	<SubTexture name="dance0014" x="381" y="122" width="127" height="122"/>
+	<SubTexture name="dance0015" x="381" y="122" width="127" height="122"/>
+</TextureAtlas>

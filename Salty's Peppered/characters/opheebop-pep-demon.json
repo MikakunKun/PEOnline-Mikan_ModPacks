@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-116,
+				-26
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-55,
+				-15
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-90,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-90,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "BF idle dance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/opheebop-demon-legacy",
+	"position": [
+		60,
+		290
+	],
+	"healthicon": "ophee",
+	"flip_x": true,
+	"healthbar_colors": [
+		34,
+		34,
+		34
+	],
+	"camera_position": [
+		-20,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

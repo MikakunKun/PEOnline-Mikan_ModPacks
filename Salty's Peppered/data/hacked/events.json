@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "school",
+		"player1": "salty-pixel",
+		"player2": "glitch-pep",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashesCrimson",
+		"validScore": false,
+		"gfVersion": "itsumi-pixel",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Hacked"
+	}
+}

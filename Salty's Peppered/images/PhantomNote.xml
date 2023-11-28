@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets-ghost.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="184" height="178"/>
+	<SubTexture name="blue0002" x="184" y="0" width="184" height="178"/>
+	<SubTexture name="blue0004" x="368" y="0" width="184" height="178"/>
+	<SubTexture name="blue0006" x="552" y="0" width="184" height="178"/>
+	<SubTexture name="blue0008" x="736" y="0" width="184" height="178"/>
+	<SubTexture name="blue0010" x="920" y="0" width="184" height="178"/>
+	<SubTexture name="blue0012" x="1104" y="0" width="184" height="178"/>
+	<SubTexture name="blue0014" x="1288" y="0" width="184" height="178"/>
+	<SubTexture name="blue0016" x="1472" y="0" width="184" height="178"/>
+	<SubTexture name="blue0018" x="1656" y="0" width="184" height="178"/>
+	<SubTexture name="blue0020" x="1840" y="0" width="184" height="178"/>
+	<SubTexture name="blue0022" x="0" y="178" width="184" height="178"/>
+	<SubTexture name="blue0024" x="184" y="178" width="184" height="178"/>
+	<SubTexture name="blue0026" x="184" y="178" width="184" height="178"/>
+	<SubTexture name="blue0028" x="184" y="178" width="184" height="178"/>
+	<SubTexture name="green0000" x="368" y="178" width="164" height="154"/>
+	<SubTexture name="green0002" x="532" y="178" width="162" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0004" x="694" y="178" width="161" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0006" x="855" y="178" width="164" height="154"/>
+	<SubTexture name="green0008" x="1019" y="178" width="162" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0010" x="1181" y="178" width="161" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0012" x="1342" y="178" width="164" height="154"/>
+	<SubTexture name="green0014" x="1506" y="178" width="162" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0016" x="1668" y="178" width="161" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0018" x="1829" y="178" width="164" height="154"/>
+	<SubTexture name="green0020" x="0" y="356" width="162" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0022" x="162" y="356" width="161" height="154" frameX="0" frameY="0" frameWidth="164" frameHeight="154"/>
+	<SubTexture name="green0024" x="323" y="356" width="164" height="154"/>
+	<SubTexture name="green0026" x="323" y="356" width="164" height="154"/>
+	<SubTexture name="green0028" x="323" y="356" width="164" height="154"/>
+	<SubTexture name="purple0000" x="487" y="356" width="158" height="157" frameX="-8" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0002" x="645" y="356" width="166" height="157" frameX="0" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0004" x="811" y="356" width="168" height="157" frameX="-7" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0006" x="979" y="356" width="158" height="157" frameX="-8" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0008" x="1137" y="356" width="166" height="157" frameX="0" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0010" x="1303" y="356" width="168" height="157" frameX="-7" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0012" x="1471" y="356" width="158" height="157" frameX="-8" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0014" x="1629" y="356" width="166" height="157" frameX="0" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0016" x="1795" y="356" width="168" height="157" frameX="-7" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0018" x="0" y="513" width="158" height="157" frameX="-8" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0020" x="158" y="513" width="166" height="157" frameX="0" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0022" x="324" y="513" width="168" height="157" frameX="-7" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0024" x="492" y="513" width="158" height="157" frameX="-8" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0026" x="492" y="513" width="158" height="157" frameX="0" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="purple0028" x="492" y="513" width="158" height="157" frameX="-7" frameY="0" frameWidth="175" frameHeight="157"/>
+	<SubTexture name="red0000" x="650" y="513" width="154" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0002" x="804" y="513" width="161" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0004" x="965" y="513" width="163" height="157" frameX="0" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0006" x="1128" y="513" width="154" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0008" x="1282" y="513" width="161" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0010" x="1443" y="513" width="163" height="157" frameX="0" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0012" x="1606" y="513" width="154" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0014" x="1760" y="513" width="161" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0016" x="0" y="670" width="163" height="157" frameX="0" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0018" x="163" y="670" width="154" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0020" x="317" y="670" width="161" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0022" x="478" y="670" width="163" height="157" frameX="0" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0024" x="641" y="670" width="154" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0026" x="795" y="670" width="161" height="157" frameX="-5" frameY="0" frameWidth="166" frameHeight="157"/>
+	<SubTexture name="red0028" x="956" y="670" width="163" height="157" frameX="0" frameY="0" frameWidth="166" frameHeight="157"/>
+</TextureAtlas>

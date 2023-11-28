@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-48,
+				-3
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-68,
+				19
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-48,
+				7
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-96,
+				-8
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				8
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY!!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-69,
+				20
+			],
+			"loop": true,
+			"fps": 40,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				8
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				8
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/opheebop-legacy",
+	"position": [
+		140,
+		280
+	],
+	"healthicon": "ophee",
+	"flip_x": true,
+	"healthbar_colors": [
+		34,
+		34,
+		34
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

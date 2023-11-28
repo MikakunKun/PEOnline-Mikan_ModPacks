@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tunnelWalls.png">
+<SubTexture name="idle0000" x="0" y="0" width="1666" height="908" frameX="0" frameY="0" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0001" x="1666" y="0" width="1666" height="908" frameX="0" frameY="0" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0002" x="0" y="908" width="1666" height="908" frameX="0" frameY="0" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0003" x="1666" y="908" width="1666" height="908" frameX="0" frameY="0" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0004" x="0" y="1816" width="1666" height="908" frameX="0" frameY="0" frameWidth="1666" frameHeight="908" />
+</TextureAtlas>

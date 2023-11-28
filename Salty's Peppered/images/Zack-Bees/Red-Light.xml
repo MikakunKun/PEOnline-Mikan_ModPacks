@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Red-Light.png">
+<SubTexture name="Red-Light Blink0000" x="0" y="0" width="5067" height="2575" frameX="0" frameY="0" frameWidth="5067" frameHeight="2575" />
+<SubTexture name="Red-Light Blink0001" x="0" y="2575" width="5067" height="2157" frameX="0" frameY="-418" frameWidth="5067" frameHeight="2575" />
+<SubTexture name="Red-Light Blink0002" x="5067" y="0" width="5067" height="1480" frameX="0" frameY="-1095" frameWidth="5067" frameHeight="2575" />
+<SubTexture name="Red-Light Blink0003" x="5067" y="1480" width="5067" height="741" frameX="0" frameY="-1834" frameWidth="5067" frameHeight="2575" />
+</TextureAtlas>

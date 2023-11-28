@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-19,
+				33
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-27,
+				-59
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-24,
+				-17
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-16,
+				-21
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 30,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 30,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dad-dmg",
+	"position": [
+		20,
+		30
+	],
+	"healthicon": "dad-newest",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

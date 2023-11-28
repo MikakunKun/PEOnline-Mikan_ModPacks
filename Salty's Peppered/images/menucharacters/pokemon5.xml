@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pokemon5.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="525" height="746"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="525" height="746"/>
+	<SubTexture name="Idle0002" x="525" y="0" width="525" height="746"/>
+	<SubTexture name="Idle0003" x="525" y="0" width="525" height="746"/>
+	<SubTexture name="Idle0004" x="1050" y="0" width="525" height="746"/>
+	<SubTexture name="Idle0005" x="1050" y="0" width="525" height="746"/>
+	<SubTexture name="Idle0006" x="0" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0007" x="0" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0008" x="525" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0009" x="525" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0010" x="1050" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0011" x="1050" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0012" x="1050" y="746" width="525" height="746"/>
+	<SubTexture name="Idle0013" x="1050" y="746" width="525" height="746"/>
+</TextureAtlas>

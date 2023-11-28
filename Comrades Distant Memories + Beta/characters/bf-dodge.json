@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				9
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-37,
+				78
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-37,
+				78
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-37,
+				78
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-37,
+				78
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				188,
+				123
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				126,
+				113
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf selfsuck"
+		},
+		{
+			"offsets": [
+				300,
+				150
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				121,
+				57
+			],
+			"indices": [],
+			"fps": 40,
+			"anim": "singUP",
+			"loop": false,
+			"name": "boyfriend dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfDodge",
+	"position": [
+		-190,
+		310
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

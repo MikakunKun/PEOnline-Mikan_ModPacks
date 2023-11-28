@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-8
+			],
+			"anim": "singLEFT-alt",
+			"fps": 40,
+			"name": "Sing Left Ava",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-13
+			],
+			"anim": "singDOWN-alt",
+			"fps": 40,
+			"name": "Sing Down Ava",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				34
+			],
+			"anim": "singUP-alt",
+			"fps": 40,
+			"name": "Sing Up Ava",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				-8
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 40,
+			"name": "Sing Right Ava",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-2
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up0"
+		},
+		{
+			"offsets": [
+				-178,
+				-123
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down0"
+		},
+		{
+			"offsets": [
+				-19,
+				-13
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right0"
+		},
+		{
+			"offsets": [
+				-121,
+				-10
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left0"
+		},
+		{
+			"offsets": [
+				-197,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle Scared"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Idle Default"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Idle Default"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ava-pep-new sprite2",
+	"position": [
+		20,
+		210
+	],
+	"healthicon": "huntah",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		101,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

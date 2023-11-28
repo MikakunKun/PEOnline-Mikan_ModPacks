@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Her Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "Her Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				436,
+				-72
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "Her Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				296
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "Her Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "Her Right instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Her",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "her",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

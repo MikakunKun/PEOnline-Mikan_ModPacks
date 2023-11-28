@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "sussy idle",
+			"indices": [
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "sown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "sup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "seft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "sight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/glitchy-amogus",
+	"position": [
+		140,
+		350
+	],
+	"healthicon": "glitchy",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		0,
+		55
+	],
+	"camera_position": [
+		-260,
+		-360
+	],
+	"sing_duration": 3,
+	"scale": 6
+}

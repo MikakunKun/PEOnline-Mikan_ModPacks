@@ -1,0 +1,50 @@
+{
+	"storyName": "Strict Mother In Law!",
+	"difficulties": "Classic,Spicy",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pokemon4",
+		"salty-default",
+		"heatsumi"
+	],
+	"songs": [
+		[
+			"Strict love",
+			"hitoomi",
+			[
+				0,
+				0,
+				180
+			]
+		],
+		[
+			"Workaholic",
+			"hitoomi",
+			[
+				0,
+				0,
+				180
+			]
+		],
+		[
+			"Mother's Wrath",
+			"hell",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Strict Mother In Law!",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DSBack.png">
+<SubTexture name="DSBack Anim0000" x="0" y="800" width="630" height="300" frameX="0" frameY="0" frameWidth="630" frameHeight="300" />
+<SubTexture name="DSBack Anim0001" x="0" y="0" width="630" height="400" frameX="0" frameY="0" frameWidth="630" frameHeight="400" />
+<SubTexture name="DSBack Anim0002" x="630" y="0" width="630" height="400" frameX="0" frameY="0" frameWidth="630" frameHeight="400" />
+<SubTexture name="DSBack Anim0003" x="630" y="0" width="630" height="400" frameX="0" frameY="0" frameWidth="630" frameHeight="400" />
+<SubTexture name="DSBack Anim0004" x="0" y="400" width="630" height="400" frameX="0" frameY="0" frameWidth="630" frameHeight="400" />
+<SubTexture name="DSBack Anim0005" x="630" y="800" width="630" height="300" frameX="0" frameY="0" frameWidth="630" frameHeight="300" />
+<SubTexture name="DSBack Anim0006" x="1260" y="0" width="630" height="300" frameX="0" frameY="0" frameWidth="630" frameHeight="300" />
+<SubTexture name="DSBack Anim0007" x="630" y="400" width="630" height="400" frameX="0" frameY="0" frameWidth="630" frameHeight="400" />
+</TextureAtlas>

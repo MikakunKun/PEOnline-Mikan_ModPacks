@@ -1,0 +1,32 @@
+{
+	"storyName": "New Her",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "her",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Her",
+			"her",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"Her-Menu",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Her"
+}

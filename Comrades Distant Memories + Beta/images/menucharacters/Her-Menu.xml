@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Her-Menu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Her Idle0000" x="0" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0001" x="550" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0002" x="1100" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0003" x="1650" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0004" x="2200" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0005" x="2750" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0006" x="3300" y="0" width="550" height="811"/>
+	<SubTexture name="Her Idle0007" x="0" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0008" x="550" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0009" x="1100" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0010" x="1650" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0011" x="2200" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0012" x="2750" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0013" x="2750" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0014" x="3300" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0015" x="3300" y="811" width="550" height="811"/>
+	<SubTexture name="Her Idle0016" x="0" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0017" x="0" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0018" x="550" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0019" x="550" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0020" x="1100" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0021" x="1100" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0022" x="1650" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0023" x="1650" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0024" x="2200" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0025" x="2200" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0026" x="2750" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0027" x="2750" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0028" x="3300" y="1622" width="550" height="811"/>
+	<SubTexture name="Her Idle0029" x="3300" y="1622" width="550" height="811"/>
+</TextureAtlas>

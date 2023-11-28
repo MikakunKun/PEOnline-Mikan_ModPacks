@@ -1,0 +1,228 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-19,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-51,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-44,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				7
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-25,
+				-44
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-51,
+				47
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-45,
+				-1
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-31,
+				-20
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "BF NOTE DOWN ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				40
+			],
+			"anim": "singUP-alt",
+			"fps": 40,
+			"name": "BF NOTE UP ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-5
+			],
+			"anim": "singLEFT-alt",
+			"fps": 40,
+			"name": "BF NOTE LEFT ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-11
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 40,
+			"name": "BF NOTE RIGHT ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				11,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "BF dance"
+		},
+		{
+			"offsets": [
+				11,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "BF dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/salty-pep-red",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "salt-pep-newest",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

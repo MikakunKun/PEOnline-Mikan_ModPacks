@@ -1,0 +1,50 @@
+{
+	"storyName": "Berserker Complex",
+	"difficulties": "Classic,Spicy",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pokemon3",
+		"salty-default",
+		"heatsumi"
+	],
+	"songs": [
+		[
+			"Warning",
+			"corad",
+			[
+				20,
+				60,
+				180
+			]
+		],
+		[
+			"Itsumi",
+			"corad",
+			[
+				20,
+				60,
+				180
+			]
+		],
+		[
+			"Berserk",
+			"corad",
+			[
+				20,
+				60,
+				180
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Berserker Complex",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ava-pep-new-purple.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Default0000" x="0" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0001" x="0" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0002" x="659" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0003" x="659" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0004" x="1318" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0005" x="1318" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0006" x="1977" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0007" x="1977" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0008" x="2636" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0009" x="2636" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0010" x="3295" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0011" x="3295" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0012" x="3954" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0013" x="3954" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0014" x="4613" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Default0015" x="4613" y="0" width="659" height="573"/>
+	<SubTexture name="Idle Scared0000" x="5272" y="0" width="523" height="567"/>
+	<SubTexture name="Idle Scared0001" x="0" y="573" width="523" height="567"/>
+	<SubTexture name="Idle Scared0002" x="523" y="573" width="523" height="567"/>
+	<SubTexture name="Idle Scared0003" x="1046" y="573" width="523" height="567"/>
+	<SubTexture name="Sing Down Ava0000" x="1569" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0001" x="1988" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0002" x="2407" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0003" x="2826" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0004" x="3245" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0005" x="3664" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0006" x="4083" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0007" x="4502" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0008" x="4921" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Ava0009" x="5340" y="573" width="419" height="538"/>
+	<SubTexture name="Sing Down Hunter Alt0000" x="0" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0001" x="0" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0002" x="450" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0003" x="450" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0004" x="900" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0005" x="900" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0006" x="1350" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0007" x="1350" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0008" x="1350" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Down Hunter Alt0009" x="1350" y="1140" width="450" height="563"/>
+	<SubTexture name="Sing Left Ava0000" x="1800" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0001" x="2340" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0002" x="2880" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0003" x="3420" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0004" x="3960" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0005" x="4500" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0006" x="5040" y="1140" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0007" x="0" y="1707" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0008" x="540" y="1707" width="540" height="567"/>
+	<SubTexture name="Sing Left Ava0009" x="1080" y="1707" width="540" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0000" x="1620" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0001" x="1620" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0002" x="2201" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0003" x="2201" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0004" x="2782" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0005" x="2782" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0006" x="3363" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0007" x="3363" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0008" x="3363" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Left Hunter Alt0009" x="3363" y="1707" width="581" height="567"/>
+	<SubTexture name="Sing Right Ava0000" x="3944" y="1707" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0001" x="4488" y="1707" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0002" x="5032" y="1707" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0003" x="0" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0004" x="544" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0005" x="1088" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0006" x="1632" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0007" x="2176" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0008" x="2720" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Ava0009" x="3264" y="2274" width="544" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0000" x="3808" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0001" x="3808" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0002" x="4307" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0003" x="4307" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0004" x="4806" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0005" x="4806" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0006" x="5305" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0007" x="5305" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0008" x="5305" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Right Hunter Alt0009" x="5305" y="2274" width="499" height="566"/>
+	<SubTexture name="Sing Up Ava0000" x="0" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0001" x="440" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0002" x="880" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0003" x="1320" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0004" x="1760" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0005" x="2200" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0006" x="2640" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0007" x="3080" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0008" x="3520" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Ava0009" x="3960" y="2840" width="440" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0000" x="4400" y="2840" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0001" x="4400" y="2840" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0002" x="4838" y="2840" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0003" x="4838" y="2840" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0004" x="5276" y="2840" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0005" x="5276" y="2840" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0006" x="0" y="3440" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0007" x="0" y="3440" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0008" x="0" y="3440" width="438" height="600"/>
+	<SubTexture name="Sing Up Hunter Alt0009" x="0" y="3440" width="438" height="600"/>
+</TextureAtlas>

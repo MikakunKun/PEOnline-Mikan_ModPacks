@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Idle Default"
+		},
+		{
+			"offsets": [
+				131,
+				-2
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left Hunter Alt"
+		},
+		{
+			"offsets": [
+				-28,
+				-8
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down Hunter Alt"
+		},
+		{
+			"offsets": [
+				1,
+				38
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up Hunter Alt"
+		},
+		{
+			"offsets": [
+				-197,
+				0
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right Hunter Alt"
+		},
+		{
+			"offsets": [
+				82,
+				-8
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Sing Left Ava"
+		},
+		{
+			"offsets": [
+				-117,
+				-18
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sing Down Ava"
+		},
+		{
+			"offsets": [
+				-64,
+				32
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Sing Up Ava"
+		},
+		{
+			"offsets": [
+				-212,
+				-8
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Sing Right Ava"
+		},
+		{
+			"offsets": [
+				-197,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle Scared"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle Default",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ava-pep-new-sprite1",
+	"position": [
+		20,
+		210
+	],
+	"healthicon": "huntah",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		101,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

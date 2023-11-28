@@ -1,0 +1,50 @@
+{
+	"storyName": "Comedian's Show",
+	"difficulties": "Classic,Spicy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Dad's Treasure",
+			"dad-newest",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Spicy Love",
+			"itsumi-pep-newest",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Complex Comedy",
+			"dad-newest",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"pokemon1",
+		"salty-default",
+		"heatsumi"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Comedian's Show"
+}

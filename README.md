@@ -7,6 +7,9 @@ by LeafyTheFoliage, Blazing and Aight!,
 * [Changed: Tower Rush | Demo](https://gamebanana.com/mods/454912) | Use songs are All Songs,
 by the nose, KillerAvecRage, starjojostar, Beubleked and Eclyptic,
 
+* [Comrades Distant Memories + Beta [FANMADE]](https://gamejolt.com/games/cdm/788780) | Use songs are All Songs.
+by Tsuraran and ElIdiotaFran
+
 * [Doraemon's Long Day](https://gamebanana.com/wips/75035) | Use songs are All Songs,
 by Katsy, cyn0x8, (ovo), punkett, LingoeBingo, Soihan, Merritz, chestnut, Tri-Dot, Pik-a-boo, BrandmanDrawz and Artxche,
 
@@ -22,10 +25,13 @@ by aUseriGuess, iMatsuzaka Satou, ardaerenn, FaDe AWAY, Olimac31, Cyan and FNF R
 * [Vs Monkey](https://gamebanana.com/mods/316160) Use songs are All Songs,
 by ClockwerkSmurf, Tsuraran, BeanBruhz, Tunaki, Maqua, kiku070 and StardustTunes,
 
-* [Salty Sunday Night Week2 and Week4 (Fanmade)](https://gamebanana.com/mods/464549) | Use Songs are All Songs,
+* [Salty Sunday Night Week2 and Week4 [FANMADE]](https://gamebanana.com/mods/464549) | Use Songs are All Songs,
 by Tsuraran, Maqua and Mokov,
 
-* [Salty's Sunday Night Remastered Week 3 recreation (Fanmade)](https://www.youtube.com/watch?v=ORTfYmg6wHw) Use Songs is All Songs,
+* [Salty's Sunday Night: Peppered [FANMADE]](https://gamejolt.com/games/ssnp/829623) | Use songs are All Songs.
+by Tsuraran, Shiirano, ThatBoomerangGuy, Nova-Gitz and ElIdiotaFran
+
+* [Salty's Sunday Night Remastered Week 3 recreation [FANMADE]](https://www.youtube.com/watch?v=ORTfYmg6wHw) Use Songs is All Songs,
 by Tsuraran, Maqua and JustAxel,
 
 * [Vs Shaggy Multiverse](https://gamebanana.com/mods/419977) | Use Songs are new-state and bad-idea, but All Difficulty is mania,

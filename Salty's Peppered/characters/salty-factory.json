@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Salty Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Salty Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Salty Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Salty Idle"
+		},
+		{
+			"offsets": [
+				-19,
+				38
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Salty Up0"
+		},
+		{
+			"offsets": [
+				-11,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Salty Up Miss"
+		},
+		{
+			"offsets": [
+				-32,
+				12
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Salty Right0"
+		},
+		{
+			"offsets": [
+				-31,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Salty Right Miss"
+		},
+		{
+			"offsets": [
+				14,
+				2
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Salty Left0"
+		},
+		{
+			"offsets": [
+				15,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Salty Left Miss"
+		},
+		{
+			"offsets": [
+				-13,
+				-35
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Salty Down0"
+		},
+		{
+			"offsets": [
+				-14,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Salty Down Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Salty Fear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/salty-factory",
+	"position": [
+		-130,
+		310
+	],
+	"healthicon": "salt-fact",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		50,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

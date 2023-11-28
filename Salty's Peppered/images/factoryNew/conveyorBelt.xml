@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="conveyorBelt.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CONVER0000" x="0" y="0" width="2830" height="29" frameX="0" frameY="0" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0001" x="0" y="29" width="2779" height="29" frameX="-51" frameY="0" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0002" x="0" y="58" width="2727" height="29" frameX="-103" frameY="0" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0003" x="0" y="87" width="2676" height="28" frameX="-154" frameY="-1" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0004" x="0" y="115" width="2625" height="28" frameX="-205" frameY="-1" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0005" x="0" y="143" width="2574" height="28" frameX="-256" frameY="-1" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0006" x="0" y="171" width="2522" height="28" frameX="-308" frameY="-1" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0007" x="0" y="199" width="2471" height="27" frameX="-359" frameY="-2" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0008" x="0" y="226" width="2420" height="27" frameX="-410" frameY="-2" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0009" x="0" y="253" width="2369" height="27" frameX="-461" frameY="-2" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0010" x="0" y="280" width="2318" height="27" frameX="-512" frameY="-2" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0011" x="0" y="307" width="2267" height="27" frameX="-563" frameY="-3" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0012" x="0" y="334" width="2216" height="27" frameX="-614" frameY="-3" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0013" x="0" y="361" width="2165" height="27" frameX="-665" frameY="-3" frameWidth="2838" frameHeight="30"/>
+	<SubTexture name="CONVER0014" x="0" y="388" width="2121" height="26" frameX="-717" frameY="-4" frameWidth="2838" frameHeight="30"/>
+</TextureAtlas>

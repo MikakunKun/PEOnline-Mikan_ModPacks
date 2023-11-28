@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-29
+			],
+			"anim": "danceLeft",
+			"fps": 22,
+			"name": "GF Dancing Beat",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-29
+			],
+			"anim": "danceRight",
+			"fps": 22,
+			"name": "GF Dancing Beat",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heatsumi-scared-purple",
+	"position": [
+		140,
+		30
+	],
+	"healthicon": "itsumi-pep",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		0,
+		0
+	],
+	"camera_position": [
+		310,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

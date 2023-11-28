@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-40
+			],
+			"loop": false,
+			"anim": "sad",
+			"fps": 24,
+			"name": "gf sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				-2,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heatsumi",
+	"position": [
+		40,
+		30
+	],
+	"healthicon": "itsumi-pep",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		0,
+		0
+	],
+	"camera_position": [
+		310,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

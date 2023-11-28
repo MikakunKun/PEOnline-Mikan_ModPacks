@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "GF Dancing Beat",
+	"position": [
+		117,
+		150
+	],
+	"scale": 0.5,
+	"image": "heatsu-menu",
+	"flipX": false
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Spicy N' Savage",
+	"difficulties": "Classic,Spicy",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pokemon2",
+		"salty-default",
+		"heatsumi"
+	],
+	"songs": [
+		[
+			"Poltergeist",
+			"huntah",
+			[
+				106,
+				0,
+				180
+			]
+		],
+		[
+			"Ghost Tap",
+			"huntah",
+			[
+				106,
+				0,
+				180
+			]
+		],
+		[
+			"Dream Girl",
+			"Ophee",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Spicy N' Savage",
+	"hiddenUntilUnlocked": false
+}

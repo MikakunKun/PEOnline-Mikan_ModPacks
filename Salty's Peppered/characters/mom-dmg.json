@@ -1,0 +1,327 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-93
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "Mom Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				103
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "Mom Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "Mom Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-80
+			],
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "Mom Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Mom Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				-20
+			],
+			"anim": "idle-alt",
+			"fps": 40,
+			"name": "Mom Mad Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				250
+			],
+			"anim": "singLEFT-alt",
+			"fps": 60,
+			"name": "Mom Lalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-40
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 60,
+			"name": "Mom Ralt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				78
+			],
+			"anim": "singUP-alt",
+			"fps": 60,
+			"name": "Mom Ualt",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-60
+			],
+			"anim": "singDOWN-alt",
+			"fps": 60,
+			"name": "Mom Dalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				78
+			],
+			"anim": "singUP-miss",
+			"fps": 25,
+			"name": "Mom Ualt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mom.dmg",
+	"position": [
+		100,
+		20
+	],
+	"healthicon": "hitoomi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		153
+	],
+	"camera_position": [
+		-300,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

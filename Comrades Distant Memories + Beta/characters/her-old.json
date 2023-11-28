@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Her Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-206
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "Her Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				291
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "Her Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				-55
+			],
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "Her Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "Her Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Her-Unused",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "her",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

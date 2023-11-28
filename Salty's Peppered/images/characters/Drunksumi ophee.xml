@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Drunksumi ophee.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0001" x="725" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0002" x="1450" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0003" x="2175" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0004" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0005" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0006" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0007" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0008" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0009" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0010" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0011" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0012" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0013" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0014" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0015" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0016" x="725" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0017" x="1450" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0018" x="2175" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0019" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0020" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0021" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0022" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0023" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0024" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0025" x="0" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0026" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0027" x="0" y="635" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0028" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="GF Dancing Beat0029" x="2900" y="0" width="725" height="635"/>
+	<SubTexture name="gf awake0000" x="2900" y="635" width="726" height="555"/>
+	<SubTexture name="gf awake0001" x="2900" y="635" width="726" height="555"/>
+	<SubTexture name="gf awake0002" x="0" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0003" x="0" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0004" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0005" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0006" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0007" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0008" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0009" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0010" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0011" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0012" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0013" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0014" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0015" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0016" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0017" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0018" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0019" x="1452" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0020" x="1452" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0021" x="2178" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0022" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0023" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0024" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0025" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0026" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0027" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0028" x="726" y="1270" width="726" height="555"/>
+	<SubTexture name="gf awake0029" x="726" y="1270" width="726" height="555"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"storyName": "Ureleased Build Version Cynthia",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "hive",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Cynthia-old-menu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bee-Ware! UBV",
+			"bee",
+			[
+				255,
+				253,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Bee-Ware! UBV",
+	"hiddenUntilUnlocked": false
+}

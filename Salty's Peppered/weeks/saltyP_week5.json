@@ -1,0 +1,50 @@
+{
+	"storyName": "Someone Didn't Pay Their tab...",
+	"difficulties": "Classic,Spicy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bottoms Up!",
+			"ass",
+			[
+				180,
+				0,
+				0
+			]
+		],
+		[
+			"Happy Hour",
+			"ass",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Trapped!",
+			"ophee",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"pokemon5",
+		"salty-default",
+		"heatsumi"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Someone Didn't Pay Their tab..."
+}

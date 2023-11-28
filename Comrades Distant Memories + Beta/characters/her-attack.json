@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Her Dance"
+		},
+		{
+			"offsets": [
+				-20,
+				58
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Her Down"
+		},
+		{
+			"offsets": [
+				-49,
+				768
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Her Up"
+		},
+		{
+			"offsets": [
+				-98,
+				-58
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Her Right"
+		},
+		{
+			"offsets": [
+				48,
+				-99
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Her Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Her-Unused-Attack",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "her",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

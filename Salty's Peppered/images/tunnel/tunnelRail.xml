@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tunnelRail.png">
+<SubTexture name="idle0000" x="0" y="0" width="1666" height="350" frameX="0" frameY="-558" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0001" x="0" y="350" width="1666" height="318" frameX="0" frameY="-590" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0002" x="0" y="668" width="1666" height="303" frameX="0" frameY="-605" frameWidth="1666" frameHeight="908" />
+</TextureAtlas>

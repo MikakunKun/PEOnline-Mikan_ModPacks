@@ -1,0 +1,50 @@
+{
+	"storyName": "When the Main-Frame is Sus",
+	"difficulties": "Classic,Spicy",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Overclocked",
+			"glitchy",
+			[
+				160,
+				0,
+				40
+			]
+		],
+		[
+			"Hacked",
+			"glitchy",
+			[
+				160,
+				0,
+				40
+			]
+		],
+		[
+			"Matrix Derivative",
+			"matrix",
+			[
+				160,
+				0,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"pokemon6",
+		"Salty-Default",
+		"Heatsumi"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Glitched"
+}

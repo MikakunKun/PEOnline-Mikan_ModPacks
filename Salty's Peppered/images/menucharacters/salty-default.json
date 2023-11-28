@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BF idle dance",
+	"confirm_anim": "BF HEY!!",
+	"position": [
+		51,
+		29
+	],
+	"scale": 0.9,
+	"flipX": false,
+	"image": "salt-def-menu"
+}

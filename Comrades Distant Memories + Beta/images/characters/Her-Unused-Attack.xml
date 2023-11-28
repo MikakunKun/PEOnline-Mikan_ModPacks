@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Her-Unused-Attack.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Her Dance0000" x="0" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0001" x="555" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0002" x="1110" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0003" x="1665" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0004" x="2220" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0005" x="2775" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0006" x="3330" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0007" x="3885" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0008" x="4440" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0009" x="4995" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0010" x="5550" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0011" x="6105" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0012" x="6660" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0013" x="6105" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0014" x="6660" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0015" x="6105" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0016" x="6660" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0017" x="6105" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0018" x="6660" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0019" x="6105" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0020" x="6660" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0021" x="7215" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0022" x="0" y="755" width="555" height="755"/>
+	<SubTexture name="Her Dance0023" x="7215" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0024" x="0" y="755" width="555" height="755"/>
+	<SubTexture name="Her Dance0025" x="7215" y="0" width="555" height="755"/>
+	<SubTexture name="Her Dance0026" x="0" y="755" width="555" height="755"/>
+	<SubTexture name="Her Down0000" x="555" y="755" width="1445" height="997"/>
+	<SubTexture name="Her Down0001" x="2000" y="755" width="1445" height="997"/>
+	<SubTexture name="Her Down0002" x="3445" y="755" width="1445" height="997"/>
+	<SubTexture name="Her Down0003" x="4890" y="755" width="1445" height="997"/>
+	<SubTexture name="Her Down0004" x="6335" y="755" width="1445" height="997"/>
+	<SubTexture name="Her Down0005" x="0" y="1752" width="1445" height="997"/>
+	<SubTexture name="Her Down0006" x="1445" y="1752" width="1445" height="997"/>
+	<SubTexture name="Her Down0007" x="2890" y="1752" width="1445" height="997"/>
+	<SubTexture name="Her Left0000" x="4335" y="1752" width="1616" height="707"/>
+	<SubTexture name="Her Left0001" x="5951" y="1752" width="1616" height="707"/>
+	<SubTexture name="Her Left0002" x="0" y="2749" width="1616" height="707"/>
+	<SubTexture name="Her Left0003" x="1616" y="2749" width="1616" height="707"/>
+	<SubTexture name="Her Left0004" x="3232" y="2749" width="1616" height="707"/>
+	<SubTexture name="Her Left0005" x="4848" y="2749" width="1616" height="707"/>
+	<SubTexture name="Her Left0006" x="6464" y="2749" width="1616" height="707"/>
+	<SubTexture name="Her Left0007" x="0" y="3456" width="1616" height="707"/>
+	<SubTexture name="Her Right0000" x="1616" y="3456" width="2496" height="748"/>
+	<SubTexture name="Her Right0001" x="4112" y="3456" width="2496" height="748"/>
+	<SubTexture name="Her Right0002" x="0" y="4204" width="2496" height="748"/>
+	<SubTexture name="Her Right0003" x="2496" y="4204" width="2496" height="748"/>
+	<SubTexture name="Her Right0004" x="4992" y="4204" width="2496" height="748"/>
+	<SubTexture name="Her Right0005" x="0" y="4952" width="2496" height="748"/>
+	<SubTexture name="Her Right0006" x="2496" y="4952" width="2496" height="748"/>
+	<SubTexture name="Her Right0007" x="4992" y="4952" width="2496" height="748"/>
+	<SubTexture name="Her Up0000" x="0" y="5700" width="1157" height="1668"/>
+	<SubTexture name="Her Up0001" x="1157" y="5700" width="1157" height="1668"/>
+	<SubTexture name="Her Up0002" x="2314" y="5700" width="1157" height="1668"/>
+	<SubTexture name="Her Up0003" x="3471" y="5700" width="1157" height="1668"/>
+	<SubTexture name="Her Up0004" x="4628" y="5700" width="1157" height="1668"/>
+	<SubTexture name="Her Up0005" x="5785" y="5700" width="1157" height="1668"/>
+</TextureAtlas>

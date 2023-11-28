@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Minecart.png">
+<SubTexture name="idle0000" x="1641" y="0" width="1641" height="630" frameX="-25" frameY="-213" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0001" x="1641" y="630" width="1641" height="597" frameX="-25" frameY="-246" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0002" x="0" y="0" width="1641" height="712" frameX="-25" frameY="-131" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0003" x="0" y="712" width="1641" height="712" frameX="-25" frameY="-133" frameWidth="1666" frameHeight="908" />
+<SubTexture name="idle0004" x="0" y="1424" width="1641" height="597" frameX="-24" frameY="-249" frameWidth="1666" frameHeight="908" />
+</TextureAtlas>
