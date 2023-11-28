@@ -1,4 +1,5 @@
 function onCreate()
+    luaDebugMode=true
 --Final camera pos ref
 initSaveData('HypnosPref')
 makeLuaSprite('CameraFollowPos',nil,0,0)
@@ -159,8 +160,8 @@ function onSectionHit()
             camDisplaceY = 0;
         end
     end
-    if type(getPropertyFromClass('PlayState','SONG.notes['..curSection..'].sectionNotes.length'))~='string' then
-        if getPropertyFromClass('PlayState','SONG.notes['..curSection..'].sectionNotes.length')<1 then
+    if type(getPropertyFromClass('states.PlayState','SONG.notes['..curSection..'].sectionNotes.length'))~='string' then
+        if getPropertyFromClass('states.PlayState','SONG.notes['..curSection..'].sectionNotes.length')<1 then
 
             camDisplaceX = 0
             camDisplaceY = 0
