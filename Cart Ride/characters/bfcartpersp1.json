@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				370
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfcartpersp1 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				369
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfcartpersp1 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				369
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfcartpersp1 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				369
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfcartpersp1 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				369
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfcartpersp1 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				370
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bfcartpersp1 lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				370
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bfcartpersp1 dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				369
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bfcartpersp1 umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				369
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bfcartpersp1 rmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfcartpersp1",
+	"position": [
+		100,
+		180
+	],
+	"healthicon": "bfcart",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		184,
+		255
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

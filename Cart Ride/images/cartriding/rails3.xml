@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rails3.png"><SubTexture name="rails3 go0000" x="0" y="0" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0001" x="1389" y="0" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0002" x="0" y="1558" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0003" x="1389" y="1558" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0004" x="0" y="3116" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0005" x="1389" y="3116" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0006" x="0" y="4674" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+<SubTexture name="rails3 go0007" x="1389" y="4674" width="1389" height="1558" frameX="0" frameY="0" frameWidth="1389" frameHeight="1558" />
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				370
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "roblosbf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				370
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "roblosbf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				281,
+				371
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "roblosbf down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				284,
+				368
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "roblosbf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				284,
+				369
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "roblosbf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				370
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "roblosbf lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				282,
+				370
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "roblosbf dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				285,
+				368
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "roblosbf umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				284,
+				368
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "roblosbf rmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roblosbf",
+	"position": [
+		100,
+		180
+	],
+	"healthicon": "bfcart",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		184,
+		255
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

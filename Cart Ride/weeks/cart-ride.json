@@ -1,0 +1,32 @@
+{
+	"storyName": " ",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"cart-ride",
+			"noob",
+			[
+				248,
+				248,
+				108
+			]
+		]
+	],
+	"weekCharacters": [
+		"PerkieWeek",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Perkie Week"
+}

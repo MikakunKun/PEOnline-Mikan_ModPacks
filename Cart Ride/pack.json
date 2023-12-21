@@ -1,0 +1,7 @@
+{
+	"name": "Cart Ride",
+	"description": "",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 170, 170]
+}
